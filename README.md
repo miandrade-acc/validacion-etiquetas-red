@@ -3,7 +3,7 @@
 # 🔎 Validación Automática de Etiquetas de Red  
 *Visión Computacional + Bot en Campo*
 
-👩‍💻 **Autores:** María Augusta Flores · Marcelo Ismael Andrade  
+👩‍💻 **Autores:** Grupo #7 - María Augusta Flores · Marcelo Ismael Andrade  
 🎓 **Programa:** Proyecto Integrador – Maestría en Inteligencia Artificial (UEES)  
 👩‍🏫 **Docente:** Ing. Gladys Villegas Rugel  
 📅 **Fecha:** Septiembre 2025  
