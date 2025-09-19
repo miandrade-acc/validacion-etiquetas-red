@@ -1,105 +1,97 @@
-# Validación automática de etiquetas de red mediante visión computacional y bot en campo
+# 🔎 Validación Automática de Etiquetas de Red  
+*Visión Computacional + Bot en Campo*
 
-**Autores:** María Augusta Flores · Marcelo Ismael Andrade  
-**Programa:** Proyecto Integrador – Maestría en Inteligencia Artificial  
-**Institución:** UEES  
-**Docente:** Ing. Gladys Villegas Rugel 
-
-**Fecha:** Septiembre 2025  
+👩‍💻 **Autores:** María Augusta Flores · Marcelo Ismael Andrade  
+🎓 **Programa:** Proyecto Integrador – Maestría en Inteligencia Artificial (UEES)  
+👩‍🏫 **Docente:** Ing. Gladys Villegas Rugel  
+📅 **Fecha:** Septiembre 2025  
 
 ---
 
-## 📌 Descripción
+## 📌 Descripción del Proyecto
 Este repositorio acompaña al **Documento Técnico Final** del Proyecto Integrador.  
-El objetivo es desarrollar un sistema de **visión computacional ligera** integrada con un **bot móvil**, para validar automáticamente etiquetas físicas de red (ONT, OLT, patch panels, cajas de empalme) en condiciones reales de campo.
+El sistema combina **visión computacional ligera** con un **bot móvil** para validar automáticamente etiquetas físicas de red (ONT, OLT, patch panels, cajas de empalme) en condiciones reales de campo.  
 
-La solución busca:
-- Reducir en ≥40% los errores de inventario.
-- Disminuir tiempos de validación a ≤2 segundos.
-- Integrar reportes automáticos y trazables.
-- Facilitar la adopción por técnicos de telecomunicaciones.
-
----
-
-## 📂 Estructura del repositorio
-```
-src/                    # Código fuente y pseudocódigo inicial
-  ocr_pipeline.py       # Pipeline OCR (pseudocódigo)
-  bot_interface.py      # Interfaz del bot (pseudocódigo)
-  evaluation/metrics.py # Métricas técnicas (precisión, recall, F1)
-
-scripts/
-  train.py              # Plantilla de entrenamiento
-
-data/
-  samples/              # Muestras de imágenes sintéticas (ejemplos de etiquetas)
-
-docs/
-  mockups/              # Mockups del bot y dashboard
-
-notebooks/              # Espacio para experimentos exploratorios
-
-references/
-  IEEE_20.txt           # 20 fuentes en formato IEEE consolidadas
-```
+✨ **Beneficios esperados:**  
+- 📉 Reducir ≥40% errores de inventario  
+- ⚡ Validación en ≤2 segundos  
+- 📝 Reportes automáticos y trazables  
+- 👷‍♂️ Mayor adopción por técnicos en campo  
 
 ---
 
-## ⚙️ Requisitos sugeridos
-- Python 3.10+  
-- Librerías:  
-  ```bash
-  pip install opencv-python pillow numpy pandas
-  ```
-- Para OCR real: integración futura con **Tesseract/CRAFT/DBNet/CRNN**.
+## 🎯 Objetivo SMART
+- **Específico:** Desarrollar un sistema de visión computacional y bot móvil que valide etiquetas de red en campo.  
+- **Medible:** Alcanzar F1 ≥ 0.85, Accuracy ≥ 90%, reducción de errores ≥ 40%, tiempo de validación ≤ 2 s.  
+- **Alcanzable:** Con dataset de etiquetas, modelos OCR ligeros y despliegue en bot de campo.  
+- **Relevante:** Mejora la eficiencia y confiabilidad del inventario en empresas de telecomunicaciones.  
+- **Temporal:** Implementación completa en un plazo máximo de 16 semanas.  
 
 ---
 
-## 🚀 Uso rápido
+## 📂 Estructura del Repositorio
+📁 data/samples/ → Muestras de imágenes sintéticas
+📁 docs/mockups/ → Mockups del bot y dashboard
+📁 references/ → Referencias y bibliografía
+📁 scripts/ → Notebooks y scripts de pruebas
+📁 src/ → Código fuente y pseudocódigo inicial
+📄 LICENSE → Licencia MIT
+📄 README.md → Este archivo
+📄 .gitignore → Exclusiones de Git
+
+yaml
+Copiar código
+
+---
+
+## ⚙️ Instalación
 ```bash
-# Clonar
-git clone https://github.com/<usuario>/<repositorio>.git
+# Clonar repositorio
+git clone https://github.com/miandrade-acc/validacion-etiquetas-red.git
 cd validacion-etiquetas-red
 
-# Crear entorno (opcional)
+# (Opcional) Crear entorno virtual
 python -m venv .venv
-source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
 # Instalar dependencias
 pip install -r requirements.txt
-```
+Requisitos mínimos:
+🐍 Python 3.10+
+📦 Librerías: OpenCV, Pillow, NumPy, Pandas
+🔮 OCR real: futura integración con Tesseract / CRAFT / DBNet / CRNN
 
-Ejemplo de uso del pipeline:
-```python
+🚀 Ejemplo de Uso
+python
+Copiar código
 from src.ocr_pipeline import run_pipeline
 
 result = run_pipeline("data/samples/sample_1.png")
 print(result)
-```
+📊 Salida esperada:
 
----
+bash
+Copiar código
+{'text': 'OLT-1234', 'confidence': 0.92}
+📊 Métricas de Éxito
+🧪 Técnicas → F1 ≥ 0.85 · Accuracy ≥ 90% · Tiempo ≤ 2 s
 
-## 📊 Métricas de éxito
-- **Técnicas**: F1 ≥ 0.85, Accuracy ≥ 90%, tiempo de respuesta ≤ 2 s.  
-- **Impacto**: Reducción de errores de inventario ≥ 40%.  
-- **Usabilidad**: Adopción ≥ 80%, satisfacción ≥ 4/5.  
+💰 Impacto → Reducción de errores ≥ 40%
 
----
+👥 Usabilidad → Adopción ≥ 80% · Satisfacción ≥ 4/5
 
-## 🗂️ Documentación complementaria
-- 📄 [Documento Técnico Final (PDF)](enlace-pdf)  
-- 🎞️ [Presentación Ejecutiva (PPT)](enlace-ppt)  
+📄 Documentación
+📕 Documento Técnico Final
 
----
+⚖️ Licencia y Datasets
+📜 Código bajo MIT (ver LICENSE)
 
-## ⚖️ Licencias y permisos
-- **Código:** Licenciado bajo MIT (ver `LICENSE`).  
-- **Datasets públicos sugeridos:** ICDAR-MLT, COCO-Text, SynthText, Total-Text (revisar condiciones).  
-- **Dataset propio:** no versionado aquí; uso interno con permisos.  
-- **Muestras incluidas:** sintéticas, sin datos sensibles.  
+🌐 Datasets recomendados: ICDAR-MLT, COCO-Text, SynthText, Total-Text
 
----
+🔒 Dataset propio: uso interno, no versionado
 
-## 👥 Autores
-- María Augusta Flores  
-- Marcelo Ismael Andrade
+🧪 Samples incluidos: sintéticos, sin datos sensibles
+
+👥 Autores
+👩‍💻 María Augusta Flores
+👨‍💻 Marcelo Ismael Andrade
