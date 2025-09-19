@@ -27,7 +27,7 @@ El sistema combina **visión computacional ligera** con un **bot móvil** para v
 - **Medible:** Alcanzar F1 ≥ 0.85, Accuracy ≥ 90%, reducción de errores ≥ 40%, tiempo de validación ≤ 2 s.  
 - **Alcanzable:** Con dataset de etiquetas, modelos OCR ligeros y despliegue en bot de campo.  
 - **Relevante:** Mejora la eficiencia y confiabilidad del inventario en empresas de telecomunicaciones.  
-- **Temporal:** Implementación completa en un plazo máximo de 16 semanas.  
+- **Temporal:** Implementación completa en un plazo máximo de 6 semanas.  
 
 ---
 
