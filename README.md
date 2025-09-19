@@ -55,7 +55,7 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
 # Instalar dependencias
-pip install -r requirements.txt
+pip install -r requerimientos.txt
 ```
 
 **Requisitos mínimos:**  
