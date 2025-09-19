@@ -1,3 +1,5 @@
+![Banner del proyecto](docs/valid.png)
+
 # 🔎 Validación Automática de Etiquetas de Red  
 *Visión Computacional + Bot en Campo*
 
@@ -30,18 +32,16 @@ El sistema combina **visión computacional ligera** con un **bot móvil** para v
 ---
 
 ## 📂 Estructura del Repositorio
-📁 data/samples/ → Muestras de imágenes sintéticas
-📁 docs/mockups/ → Mockups del bot y dashboard
-📁 references/ → Referencias y bibliografía
-📁 scripts/ → Notebooks y scripts de pruebas
-📁 src/ → Código fuente y pseudocódigo inicial
-📄 LICENSE → Licencia MIT
-📄 README.md → Este archivo
-📄 .gitignore → Exclusiones de Git
-
-yaml
-Copiar código
-
+```
+📁 data/samples/      → Muestras de imágenes sintéticas
+📁 docs/mockups/      → Mockups del bot y dashboard
+📁 references/        → Referencias y bibliografía
+📁 scripts/           → Notebooks y scripts de pruebas
+📁 src/               → Código fuente y pseudocódigo inicial
+📄 LICENSE            → Licencia MIT
+📄 README.md          → Este archivo
+📄 .gitignore         → Exclusiones de Git
+```
 ---
 
 ## ⚙️ Instalación
@@ -56,42 +56,50 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
 # Instalar dependencias
 pip install -r requirements.txt
-Requisitos mínimos:
-🐍 Python 3.10+
-📦 Librerías: OpenCV, Pillow, NumPy, Pandas
-🔮 OCR real: futura integración con Tesseract / CRAFT / DBNet / CRNN
+```
 
-🚀 Ejemplo de Uso
-python
-Copiar código
+**Requisitos mínimos:**  
+🐍 Python 3.10+  
+📦 Librerías: OpenCV, Pillow, NumPy, Pandas  
+🔮 OCR real: futura integración con **Tesseract / CRAFT / DBNet / CRNN**  
+
+---
+
+## 🚀 Ejemplo de Uso
+```python
 from src.ocr_pipeline import run_pipeline
 
 result = run_pipeline("data/samples/sample_1.png")
 print(result)
-📊 Salida esperada:
+```
 
-bash
-Copiar código
+📊 **Salida esperada:**
+```bash
 {'text': 'OLT-1234', 'confidence': 0.92}
-📊 Métricas de Éxito
-🧪 Técnicas → F1 ≥ 0.85 · Accuracy ≥ 90% · Tiempo ≤ 2 s
+```
 
-💰 Impacto → Reducción de errores ≥ 40%
+---
 
-👥 Usabilidad → Adopción ≥ 80% · Satisfacción ≥ 4/5
+## 📊 Métricas de Éxito
+- 🧪 **Técnicas** → F1 ≥ 0.85 · Accuracy ≥ 90% · Tiempo ≤ 2 s  
+- 💰 **Impacto** → Reducción de errores ≥ 40%  
+- 👥 **Usabilidad** → Adopción ≥ 80% · Satisfacción ≥ 4/5  
 
-📄 Documentación
-📕 Documento Técnico Final
+---
 
-⚖️ Licencia y Datasets
-📜 Código bajo MIT (ver LICENSE)
+## 📄 Documentación
+- 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)  
 
-🌐 Datasets recomendados: ICDAR-MLT, COCO-Text, SynthText, Total-Text
+---
 
-🔒 Dataset propio: uso interno, no versionado
+## ⚖️ Licencia y Datasets
+- 📜 Código bajo **MIT** (ver `LICENSE`)  
+- 🌐 Datasets recomendados: ICDAR-MLT, COCO-Text, SynthText, Total-Text  
+- 🔒 Dataset propio: uso interno, no versionado  
+- 🧪 Samples incluidos: sintéticos, sin datos sensibles  
 
-🧪 Samples incluidos: sintéticos, sin datos sensibles
+---
 
-👥 Autores
-👩‍💻 María Augusta Flores
-👨‍💻 Marcelo Ismael Andrade
+## 👥 Autores
+👩‍💻 María Augusta Flores  
+👨‍💻 Marcelo Ismael Andrade  
