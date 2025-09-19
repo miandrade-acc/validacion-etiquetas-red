@@ -1,0 +1,27 @@
+# ==============================
+# Archivo de dependencias del proyecto
+# Validación automática de etiquetas de red
+# ==============================
+
+# Librerías básicas para procesamiento de imágenes y datos
+opencv-python     # Procesamiento de imágenes
+pillow            # Manejo de imágenes (PIL)
+numpy             # Cálculo numérico y manejo de arrays
+pandas            # Manipulación y análisis de datos
+
+# Librerías para OCR básico y avanzado (opcional)
+pytesseract       # OCR con Tesseract (instalación de Tesseract requerida)
+easyocr           # OCR ligero con deep learning
+
+# Librerías de deep learning (para modelos más avanzados)
+torch             # PyTorch (framework de deep learning)
+torchvision       # Conjunto de utilidades para visión computacional
+transformers      # Modelos pre-entrenados (HuggingFace)
+
+# ==============================
+# Notas internas:
+# - No todas las librerías son obligatorias en fase inicial.
+# - 'pytesseract' requiere instalar Tesseract en el sistema operativo.
+# - 'torch' y 'torchvision' pueden tardar en instalarse (tamaño grande).
+# - 'transformers' solo si se usa un modelo OCR basado en NLP o multimodal.
+# ==============================
