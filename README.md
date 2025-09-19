@@ -4,6 +4,7 @@
 **Programa:** Proyecto Integrador – Maestría en Inteligencia Artificial  
 **Institución:** UEES  
 **Docente:** Ing. Gladys Villegas Rugel 
+
 **Fecha:** Septiembre 2025  
 
 ---
