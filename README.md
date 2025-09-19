@@ -1,9 +1,9 @@
 # Validación automática de etiquetas de red mediante visión computacional y bot en campo
 
-**Autores:** Marcelo Ismael Andrade · María Augusta Flores  
+**Autores:** María Augusta Flores · Marcelo Ismael Andrade  
 **Programa:** Proyecto Integrador – Maestría en Inteligencia Artificial  
-**Institución:** [Nombre de la Universidad]  
-**Docente:** _____________________  
+**Institución:** UEES  
+**Docente:** Ing. Gladys Villegas Rugel
 **Fecha:** Septiembre 2025  
 
 ---
@@ -100,5 +100,5 @@ print(result)
 ---
 
 ## 👥 Autores
-- Marcelo Ismael Andrade  
-- María Augusta Flores
+- María Augusta Flores  
+- Marcelo Ismael Andrade
