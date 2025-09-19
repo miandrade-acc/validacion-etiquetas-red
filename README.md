@@ -33,15 +33,16 @@ El sistema combina **visión computacional ligera** con un **bot móvil** para v
 
 ## 📂 Estructura del Repositorio
 ```
-📁 data/samples/      → Muestras de imágenes sintéticas
-📁 docs/mockups/      → Mockups del bot y dashboard
-📁 references/        → Referencias y bibliografía
-📁 scripts/           → Notebooks y scripts de pruebas
-📁 src/               → Código fuente y pseudocódigo inicial
-📄 LICENSE            → Licencia MIT
-📄 README.md          → Este archivo
-📄 .gitignore         → Exclusiones de Git
-📄 requerimientos.txt → Dependencias del proyecto (Python)
+📁 data/samples/                → Muestras de imágenes sintéticas
+📁 docs/mockups/                → Mockups del bot y dashboard
+📄 Documento_Tecnico_Final.pdf  → Documento técnico final (versión de prueba)
+📁 references/                  → Referencias y bibliografía
+📁 scripts/                     → Notebooks y scripts de pruebas
+📁 src/                         → Código fuente y pseudocódigo inicial
+📄 LICENSE                      → Licencia MIT
+📄 README.md                    → Este archivo
+📄 .gitignore                   → Exclusiones de Git
+📄 requerimientos.txt           → Dependencias del proyecto (Python)
 ```
 ---
 
