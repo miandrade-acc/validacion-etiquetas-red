@@ -93,9 +93,11 @@ print(result)
 - 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)  
 
 ---
-
 ## ⚖️ Licencia y Datasets
-- 📜 Código bajo **MIT** (ver `LICENSE`)  
+- 📜 Este proyecto está bajo licencia **MIT**.  
+  👉 Esto significa que el código puede ser usado, modificado y distribuido libremente, siempre y cuando se mantenga el aviso de copyright y la licencia original.  
+  *(El texto completo de la licencia está disponible en `LICENSE`, en inglés).*  
+
 - 🌐 Datasets recomendados: ICDAR-MLT, COCO-Text, SynthText, Total-Text  
 - 🔒 Dataset propio: uso interno, no versionado  
 - 🧪 Samples incluidos: sintéticos, sin datos sensibles  
