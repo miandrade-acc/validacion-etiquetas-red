@@ -3,7 +3,7 @@
 **Autores:** María Augusta Flores · Marcelo Ismael Andrade  
 **Programa:** Proyecto Integrador – Maestría en Inteligencia Artificial  
 **Institución:** UEES  
-**Docente:** Ing. Gladys Villegas Rugel
+**Docente:** Ing. Gladys Villegas Rugel 
 **Fecha:** Septiembre 2025  
 
 ---
