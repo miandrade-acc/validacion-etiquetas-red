@@ -41,7 +41,7 @@ El sistema combina **visión computacional ligera** con un **bot móvil** para v
 📄 LICENSE            → Licencia MIT
 📄 README.md          → Este archivo
 📄 .gitignore         → Exclusiones de Git
-📄 requerimientos.txt  → Dependencias del proyecto (Python)
+📄 requerimientos.txt → Dependencias del proyecto (Python)
 ```
 ---
 
