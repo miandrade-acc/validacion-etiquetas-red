@@ -90,7 +90,9 @@ print(result)
 ---
 
 ## 📄 Documentación
-- 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)  
+- 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)
+- 📊 [Notebook EDA: Análisis de etiquetas MPLS](scripts/EDA_CajasMPLS_Etiquetas_G7.ipynb)  
+- 🧠 [Informe Comparativo de Algoritmos IA](docs/algoritmos/Analisis_Comparativo_Algoritmos_G7.docx)
 
 ---
 ## ⚖️ Licencia y Datasets
