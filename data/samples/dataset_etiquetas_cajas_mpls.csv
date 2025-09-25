@@ -1,0 +1,1012 @@
+N,Etiqueta,TS,ciudad,nodo_concentrador,nodo_estandar,nodo_backup,ruta,caja_codigo,color_buffer
+1,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE16B-CAF,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE16B,CAF
+2,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE15B-CAF,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE15B,CAF
+3,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE14B-CAF,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE14B,CAF
+4,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE13B-CAF,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE13B,CAF
+5,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE12B-VER,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE12B,VER
+6,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE11B-VER,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE11B,VER
+7,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE10B-VER,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE10B,VER
+8,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE09B-VER,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE09B,VER
+9,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE08B-NAR,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE08B,NAR
+10,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE07B-NAR,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE07B,NAR
+11,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE06B-NAR,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE06B,NAR
+12,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE05B-NAR,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE05B,NAR
+13,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE04B-AZU,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE04B,AZU
+14,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE03B-AZU,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE03B,AZU
+15,UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE02B-AZU,UIO,UIO,Gosseal (A),Whymper (E)(B),Whymper (E)(A),F02,PE02B,AZU
+16,UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE01B-AZU,UIO,UIO,Gosseal (A),Whymper (E)(A),Whymper (E)(B),F02,PE01B,AZU
+17,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C19B-ROS,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C19B,ROS
+18,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C18B-ROS,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C18B,ROS
+19,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C17A-ROS,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C17A,ROS
+20,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C16A-VIO,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C16A,VIO
+21,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C15A-VIO,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C15A,VIO
+22,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C14A-GRI,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C14A,GRI
+23,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C13A-GRI,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C13A,GRI
+24,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C12A-AZU,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C12A,AZU
+25,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C11A-AZU,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C11A,AZU
+26,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C10A-NEG,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C10A,NEG
+27,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C09A-CAF,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C09A,CAF
+28,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C08A-CEL,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C08A,CEL
+29,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C07A-CEL,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C07A,CEL
+30,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C06A-NAR,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C06A,NAR
+31,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C05A-NAR,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C05A,NAR
+32,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C04A-VER,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C04A,VER
+33,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C03A-VER,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C03A,VER
+34,UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C02A-AMA,UIO,UIO,Sur 2 (A),Solanda (E),Sur 2 (A),F03,C02A,AMA
+35,UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C01A-AMA,UIO,UIO,Sur 2 (A),Sur 2 (A),Solanda (E),F03,C01A,AMA
+36,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC12A-CEL,UIO,,,,,,,
+37,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC11A-ROS,UIO,,,,,,,
+38,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC10A-VIO,UIO,,,,,,,
+39,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC09A-AMA,UIO,,,,,,,
+40,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC08A-NEG,UIO,,,,,,,
+41,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC07A-ROJ,UIO,,,,,,,
+42,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC06A-BLA,UIO,,,,,,,
+43,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC05A-GRI,UIO,,,,,,,
+44,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC04A-CAF,UIO,,,,,,,
+45,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC03A-VER,UIO,,,,,,,
+46,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC02A-NAR,UIO,,,,,,,
+47,UIO-Armenia (A)-Pintag (E)/N/A-F01-PC01A-AZU,UIO,,,,,,,
+48,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC16B-NEG,UIO,,,,,,,
+49,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC15B-NEG,UIO,,,,,,,
+50,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC14B-ROJ,UIO,,,,,,,
+51,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC13B-ROJ,UIO,,,,,,,
+52,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC12B-BLA,UIO,,,,,,,
+53,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC11B-BLA,UIO,,,,,,,
+54,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC10B-GRI,UIO,,,,,,,
+55,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC09B-GRI,UIO,,,,,,,
+56,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC08B-CAF,UIO,,,,,,,
+57,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC07B-CAF,UIO,,,,,,,
+58,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC06B-VER,UIO,,,,,,,
+59,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC05B-VER,UIO,,,,,,,
+60,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC04B-NAR,UIO,,,,,,,
+61,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC03B-NAR,UIO,,,,,,,
+62,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC02B-AZU,UIO,,,,,,,
+63,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC01B-AZU,UIO,,,,,,,
+64,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC24B-CEL,UIO,,,,,,,
+65,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC23B-CEL,UIO,,,,,,,
+66,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC22B-ROS,UIO,,,,,,,
+67,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC21B-ROS,UIO,,,,,,,
+68,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC20B-VIO,UIO,,,,,,,
+69,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC19B-VIO,UIO,,,,,,,
+70,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC18B-AMA,UIO,,,,,,,
+71,UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC17B-AMA,UIO,,,,,,,
+72,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC24B-CEL,UIO,,,,,,,
+73,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC23B-CEL,UIO,,,,,,,
+74,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC22B-ROS,UIO,,,,,,,
+75,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC21B-ROS,UIO,,,,,,,
+76,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC20B-VIO,UIO,,,,,,,
+77,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC19B-VIO,UIO,,,,,,,
+78,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC18B-AMA,UIO,,,,,,,
+79,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC17B-AMA,UIO,,,,,,,
+80,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC16B-NEG,UIO,,,,,,,
+81,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC15B-NEG,UIO,,,,,,,
+82,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC02B-AZU,UIO,,,,,,,
+83,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC01B-AZU,UIO,,,,,,,
+84,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC14B-ROJ,UIO,,,,,,,
+85,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC13B-ROJ,UIO,,,,,,,
+86,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC12B-BLA,UIO,,,,,,,
+87,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC11B-BLA,UIO,,,,,,,
+88,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC10B-GRI,UIO,,,,,,,
+89,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC09B-GRI,UIO,,,,,,,
+90,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC08B-CAF,UIO,,,,,,,
+91,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC07B-CAF,UIO,,,,,,,
+92,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC06B-VER,UIO,,,,,,,
+93,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC05B-VER,UIO,,,,,,,
+94,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC04B-NAR,UIO,,,,,,,
+95,UIO-Armenia (A)-Pintag (E)/N/A-F02-PC03B-NAR,UIO,,,,,,,
+96,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C40B-ROS,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C40B,ROS
+97,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C39B-ROS,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C39B,ROS
+98,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C38B-ROS,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C38B,ROS
+99,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C37B-ROS,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C37B,ROS
+100,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C36B-VIO,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C36B,VIO
+101,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C35B-VIO,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C35B,VIO
+102,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C34B-VIO,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C34B,VIO
+103,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C33B-VIO,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C33B,VIO
+104,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C32B-GRI,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C32B,GRI
+105,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C31B-GRI,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C31B,GRI
+106,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C30B-GRI,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C30B,GRI
+107,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C29B-GRI,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C29B,GRI
+108,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C28B-AZU,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C28B,AZU
+109,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C27B-AZU,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C27B,AZU
+110,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C26B-AZU,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C26B,AZU
+111,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C25B-AZU,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C25B,AZU
+112,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C24B-NEG,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C24B,NEG
+113,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C23B-NEG,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C23B,NEG
+114,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C22B-NEG,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C22B,NEG
+115,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C21B-NEG,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C21B,NEG
+116,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C20B-CAF,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C20B,CAF
+117,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C19B-CAF,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C19B,CAF
+118,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C18B-CAF,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C18B,CAF
+119,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C17B-CAF,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C17B,CAF
+120,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C16B-CEL,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C16B,CEL
+121,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C15B-CEL,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C15B,CEL
+122,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C14B-CEL,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C14B,CEL
+123,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C13B-CEL,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C13B,CEL
+124,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C12B-NAR,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C12B,NAR
+125,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C11B-NAR,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C11B,NAR
+126,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C10B-NAR,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C10B,NAR
+127,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C09B-NAR,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C09B,NAR
+128,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C08B-VER,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C08B,VER
+129,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C07B-VER,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C07B,VER
+130,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C06B-VER,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C06B,VER
+131,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C05B-VER,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C05B,VER
+132,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C04B-AMA,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C04B,AMA
+133,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C03B-AMA,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C03B,AMA
+134,UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C02B-AMA,UIO,UIO,Sur 2 (A),Recreo (E),Sur 2 (A),F01,C02B,AMA
+135,UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C01B-AMA,UIO,UIO,Sur 2 (A),Sur 2 (A),Recreo (E),F01,C01B,AMA
+136,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC16B-CEL,UIO,,,,,,,
+137,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC15B-CEL,UIO,,,,,,,
+138,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC13B-ROS,UIO,,,,,,,
+139,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC14B-ROS,UIO,,,,,,,
+140,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC12B-VIO,UIO,,,,,,,
+141,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC11B-VIO,UIO,,,,,,,
+142,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC10B-AMA,UIO,,,,,,,
+143,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC09B-AMA,UIO,,,,,,,
+144,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC08A-NEG,UIO,,,,,,,
+145,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC07A-ROJ,UIO,,,,,,,
+146,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC03A-VER,UIO,,,,,,,
+147,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC02A-NAR,UIO,,,,,,,
+148,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC01A-AZU,UIO,,,,,,,
+149,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC06A-BLA,UIO,,,,,,,
+150,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC05A-GRI,UIO,,,,,,,
+151,UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC04A-CAF,UIO,,,,,,,
+152,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC24B-CEL,UIO,,,,,,,
+153,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC23B-CEL,UIO,,,,,,,
+154,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC22B-ROS,UIO,,,,,,,
+155,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC21B-ROS,UIO,,,,,,,
+156,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC20B-VIO,UIO,,,,,,,
+157,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC19B-VIO,UIO,,,,,,,
+158,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC18B-AMA,UIO,,,,,,,
+159,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC17B-AMA,UIO,,,,,,,
+160,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC16B-NEG,UIO,,,,,,,
+161,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC15B-NEG,UIO,,,,,,,
+162,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC14B-ROJ,UIO,,,,,,,
+163,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC13B-ROJ,UIO,,,,,,,
+164,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC12B-BLA,UIO,,,,,,,
+165,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC11B-BLA,UIO,,,,,,,
+166,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC09B-GRI,UIO,,,,,,,
+167,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC10B-GRI,UIO,,,,,,,
+168,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC08B-CAF,UIO,,,,,,,
+169,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC07B-CAF,UIO,,,,,,,
+170,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC06B-VER,UIO,,,,,,,
+171,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC05B-VER,UIO,,,,,,,
+172,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC04B-NAR,UIO,,,,,,,
+173,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC03B-NAR,UIO,,,,,,,
+174,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC02B-AZU,UIO,,,,,,,
+175,UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC01B-AZU,UIO,,,,,,,
+176,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC12B-CAF,UIO,,,,,,,
+177,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC11B-CAF,UIO,,,,,,,
+178,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC10B-CAF,UIO,,,,,,,
+179,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC09B-VER,UIO,,,,,,,
+180,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC08B-VER,UIO,,,,,,,
+181,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC07B-VER,UIO,,,,,,,
+182,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC06B-NAR,UIO,,,,,,,
+183,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC05B-NAR,UIO,,,,,,,
+184,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC04B-NAR,UIO,,,,,,,
+185,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC03B-AZU,UIO,,,,,,,
+186,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC02B-AZU,UIO,,,,,,,
+187,UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC01B-AZU,UIO,,,,,,,
+188,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC16A-CEL,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC16A,CEL
+189,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC15A-ROS,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC15A,ROS
+190,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC14A-VIO,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC14A,VIO
+191,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC13A-AMA,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC13A,AMA
+192,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC12A-NEG,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC12A,NEG
+193,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC11A-ROJ,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC11A,ROJ
+194,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC10A-BLA,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC10A,BLA
+195,UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC09A-GRI,UIO,UIO,Armenia (A),Pintag (E),San Nicolas (E),F01,PC09A,GRI
+196,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC08A-CEL,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC08A,CEL
+197,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC07A-ROS,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC07A,ROS
+198,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC06A-VIO,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC06A,VIO
+199,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC05A-AMA,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC05A,AMA
+200,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC04A-NEG,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC04A,NEG
+201,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC03A-ROJ,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC03A,ROJ
+202,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC02A-BLA,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC02A,BLA
+203,UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC01A-GRI,UIO,UIO,Armenia (A),San Nicolas (E),Pintag (E),F01,PC01A,GRI
+204,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC12A-CEL,UIO,,,,,,,
+205,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC11A-ROS,UIO,,,,,,,
+206,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC10A-VIO,UIO,,,,,,,
+207,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC09A-AMA,UIO,,,,,,,
+208,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC08A-NEG,UIO,,,,,,,
+209,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC07A-ROJ,UIO,,,,,,,
+210,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC06A-BLA,UIO,,,,,,,
+211,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC05A-GRI,UIO,,,,,,,
+212,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC04A-CAF,UIO,,,,,,,
+213,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC03A-VER,UIO,,,,,,,
+214,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC02A-NAR,UIO,,,,,,,
+215,UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC01A-AZU,UIO,,,,,,,
+216,UIO-Bodega (E)-Roldos (E)/N/A-F01-C24B-CEL,UIO,,,,,,,
+217,UIO-Bodega (E)-Roldos (E)/N/A-F01-C23B-CEL,UIO,,,,,,,
+218,UIO-Bodega (E)-Roldos (E)/N/A-F01-C22B-ROS,UIO,,,,,,,
+219,UIO-Bodega (E)-Roldos (E)/N/A-F01-C21B-ROS,UIO,,,,,,,
+220,UIO-Bodega (E)-Roldos (E)/N/A-F01-C20B-VIO,UIO,,,,,,,
+221,UIO-Bodega (E)-Roldos (E)/N/A-F01-C19B-VIO,UIO,,,,,,,
+222,UIO-Bodega (E)-Roldos (E)/N/A-F01-C18B-AMA,UIO,,,,,,,
+223,UIO-Bodega (E)-Roldos (E)/N/A-F01-C17B-AMA,UIO,,,,,,,
+224,UIO-Bodega (E)-Roldos (E)/N/A-F01-C16B-NEG,UIO,,,,,,,
+225,UIO-Bodega (E)-Roldos (E)/N/A-F01-C15B-NEG,UIO,,,,,,,
+226,UIO-Bodega (E)-Roldos (E)/N/A-F01-C14B-ROJ,UIO,,,,,,,
+227,UIO-Bodega (E)-Roldos (E)/N/A-F01-C13B-ROJ,UIO,,,,,,,
+228,UIO-Bodega (E)-Roldos (E)/N/A-F01-C12B-BLA,UIO,,,,,,,
+229,UIO-Bodega (E)-Roldos (E)/N/A-F01-C11B-BLA,UIO,,,,,,,
+230,UIO-Bodega (E)-Roldos (E)/N/A-F01-C10B-GRI,UIO,,,,,,,
+231,UIO-Bodega (E)-Roldos (E)/N/A-F01-C09B-GRI,UIO,,,,,,,
+232,UIO-Bodega (E)-Roldos (E)/N/A-F01-C08B-CAF,UIO,,,,,,,
+233,UIO-Bodega (E)-Roldos (E)/N/A-F01-C07B-CAF,UIO,,,,,,,
+234,UIO-Bodega (E)-Roldos (E)/N/A-F01-C06B-VER,UIO,,,,,,,
+235,UIO-Bodega (E)-Roldos (E)/N/A-F01-C05B-VER,UIO,,,,,,,
+236,UIO-Bodega (E)-Roldos (E)/N/A-F01-C04B-NAR,UIO,,,,,,,
+237,UIO-Bodega (E)-Roldos (E)/N/A-F01-C03B-NAR,UIO,,,,,,,
+238,UIO-Bodega (E)-Roldos (E)/N/A-F01-C02B-AZU,UIO,,,,,,,
+239,UIO-Bodega (E)-Roldos (E)/N/A-F01-C01B-AZU,UIO,,,,,,,
+240,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C35B-GRI,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C35B,GRI
+241,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C34B-AZU,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C34B,AZU
+242,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C33B-AZU,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C33B,AZU
+243,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C32B-NEG,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C32B,NEG
+244,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C31B-NEG,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C31B,NEG
+245,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C30B-CAF,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C30B,CAF
+246,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C29B-CAF,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C29B,CAF
+247,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C28B-CEL,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C28B,CEL
+248,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C27B-CEL,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C27B,CEL
+249,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C26B-NAR,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C26B,NAR
+250,UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C25B-NAR,UIO,UIO,Armenia (A),Vilatuna (E),Pintag (E),F01,C25B,NAR
+251,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-P22B-ROS,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,P22B,ROS
+252,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-P21B-ROS,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,P21B,ROS
+253,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-P20B-ROS,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,P20B,ROS
+254,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-P19B-ROS,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,P19B,ROS
+255,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD18B-VIO,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD18B,VIO
+256,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD17B-VIO,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD17B,VIO
+257,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD16B-GRI,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD16B,GRI
+258,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD15B-GRI,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD15B,GRI
+259,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD14B-AZU,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD14B,AZU
+260,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD13B-AZU,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD13B,AZU
+261,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD12B-NEG,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD12B,NEG
+262,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD11B-NEG,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD11B,NEG
+263,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD10B-CAF,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD10B,CAF
+264,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD09B-CAF,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD09B,CAF
+265,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD08B-CEL,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD08B,CEL
+266,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD07B-CEL,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD07B,CEL
+267,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD06B-NAR,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD06B,NAR
+268,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD05B-NAR,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD05B,NAR
+269,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD04B-VER,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD04B,VER
+270,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD03B-VER,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD03B,VER
+271,GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD02B-AMA,GYE,GYE,Centro 1(A),Polideportivo Huancavilca 1(E),Centro 1(A),F02,PD02B,AMA
+272,GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD01B-AMA,GYE,GYE,Centro 1(A),Centro 1(A),Polideportivo Huancavilca 1(E),F02,PD01B,AMA
+273,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC40B-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC40B,CEL
+274,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC39B-CEL,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC39B,CEL
+275,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC38B-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC38B,CEL
+276,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC37B-CEL,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC37B,CEL
+277,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC36B-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC36B,ROS
+278,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC35B-ROS,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC35B,ROS
+279,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC34B-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC34B,ROS
+280,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC33B-ROS,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC33B,ROS
+281,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC32B-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC32B,VIO
+282,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC31B-VIO,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC31B,VIO
+283,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC30B-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC30B,VIO
+284,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC29B-VIO,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC29B,VIO
+285,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC28B-AMA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC28B,AMA
+286,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC27B-AMA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC27B,AMA
+287,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC26B-AMA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC26B,AMA
+288,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC25B-AMA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC25B,AMA
+289,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC24B-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC24B,NEG
+290,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC23B-NEG,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC23B,NEG
+291,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC22B-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC22B,NEG
+292,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC21B-NEG,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC21B,NEG
+293,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC20B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC20B,ROJ
+294,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC19B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC19B,ROJ
+295,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC18B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC18B,ROJ
+296,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC17B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC17B,ROJ
+297,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC16B-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC16B,BLA
+298,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC15B-BLA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC15B,BLA
+299,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC14B-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC14B,BLA
+300,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-P13B-BLA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,P13B,BLA
+301,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-P12B-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,P12B,GRI
+302,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-P11B-GRI,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,P11B,GRI
+303,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-P10B-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,P10B,GRI
+304,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC09B-GRI,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC09B,GRI
+305,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC08B-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC08B,CAF
+306,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC07B-CAF,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC07B,CAF
+307,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC06B-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC06B,CAF
+308,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC05B-CAF,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC05B,CAF
+309,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC04B-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC04B,VER
+310,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC03B-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC03B,VER
+311,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC02B-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F04,PC02B,VER
+312,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC01B-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F04,PC01B,VER
+313,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC20A-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC20A,CEL
+314,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC19A-CEL
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC19A,CEL
+315,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC18A-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC18A,ROS
+316,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC17A-ROS
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC17A,ROS
+317,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC16A-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC16A,VIO
+318,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC15A-VIO
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC15A,VIO
+319,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC14A-AMA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC14A,AMA
+320,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC13A-AMA
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC13A,AMA
+321,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC12A-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC12A,NEG
+322,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC11A-NEG
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC11A,NEG
+323,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC10A-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC10A,ROJ
+324,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-P09B-GRI,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,P09B,GRI
+325,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC39B-CEL,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC39B,CEL
+326,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC38B-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC38B,CEL
+327,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC37B-CEL,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC37B,CEL
+328,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC29B-VIO,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC29B,VIO
+329,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC30B-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC30B,VIO
+330,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC19B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC19B,ROJ
+331,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC16B-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC16B,BLA
+332,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC17B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC17B,ROJ
+333,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC32B-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC32B,VIO
+334,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC33B-ROS,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC33B,ROS
+335,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC28B-AMA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC28B,AMA
+336,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC27B-AMA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC27B,AMA
+337,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC26B-AMA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC26B,AMA
+338,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC25B-AMA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC25B,AMA
+339,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-P24B-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,P24B,NEG
+340,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC35B-ROS,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC35B,ROS
+341,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC34B-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC34B,ROS
+342,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC36B-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC36B,ROS
+343,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC40B-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC40B,CEL
+344,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC18B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC18B,ROJ
+345,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC20B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC20B,ROJ
+346,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC31B-VIO,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC31B,VIO
+347,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC15B-BLA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC15B,BLA
+348,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-P23B-NEG,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,P23B,NEG
+349,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC22B-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC22B,NEG
+350,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC21B-NEG,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC21B,NEG
+351,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-P13B-BLA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,P13B,BLA
+352,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-P14B-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,P14B,BLA
+353,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC12B-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC12B,GRI
+354,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-P10B-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,P10B,GRI
+355,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC08B-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC08B,CAF
+356,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC07B-CAF,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC07B,CAF
+357,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC03B-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC03B,VER
+358,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC09A-ROJ
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC09A,ROJ
+359,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC08A-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,PC08A,BLA
+360,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC07A-BLA
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC07A,BLA
+361,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-P06A-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,P06A,GRI
+362,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-P05A-GRI
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,P05A,GRI
+363,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-P04A-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,P04A,CAF
+364,"GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-P03A-CAF
+",GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,P03A,CAF
+365,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-P02A-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F05,P02A,VER
+366,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F05-PC01A-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F05,PC01A,VER
+367,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC02B-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC02B,VER
+368,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC05B-CAF,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC05B,CAF
+369,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC06B-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC06B,CAF
+370,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F03-PC04B-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F03,PC04B,VER
+371,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-P11B-GRI,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,P11B,GRI
+372,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F03-PC01B-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F03,PC01B,VER
+373,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC60B-CEL,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC60B,CEL
+374,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC59B-CEL,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC59B,CEL
+375,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC58B-CEL,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC58B,CEL
+376,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC57B-CEL,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC57B,CEL
+377,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC56B-CEL,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC56B,CEL
+378,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC55B-CEL,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC55B,CEL
+379,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC54B-ROS,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC54B,ROS
+380,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC53B-ROS,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC53B,ROS
+381,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC52B-ROS,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC52B,ROS
+382,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC51B-ROS,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC51B,ROS
+383,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC50B-ROS,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC50B,ROS
+384,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC49B-ROS,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC49B,ROS
+385,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC48B-VIO,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC48B,VIO
+386,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC47B-VIO,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC47B,VIO
+387,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC46B-VIO,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC46B,VIO
+388,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC45B-VIO,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC45B,VIO
+389,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC44B-VIO,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC44B,VIO
+390,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC43B-VIO,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC43B,VIO
+391,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC42B-AMA,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC42B,AMA
+392,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC41B-AMA,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC41B,AMA
+393,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC40B-AMA,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC40B,AMA
+394,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC39B-AMA,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC39B,AMA
+395,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC38B-AMA,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC38B,AMA
+396,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC37B-AMA,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC37B,AMA
+397,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC36B-NEG,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC36B,NEG
+398,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC35B-NEG,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC35B,NEG
+399,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC34B-NEG,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC34B,NEG
+400,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC33B-NEG,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC33B,NEG
+401,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC32B-NEG,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC32B,NEG
+402,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC31B-NEG,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC31B,NEG
+403,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC30B-ROJ,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC30B,ROJ
+404,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC29B-ROJ,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC29B,ROJ
+405,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC28B-ROJ,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC28B,ROJ
+406,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC27B-ROJ,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC27B,ROJ
+407,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC26B-ROJ,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC26B,ROJ
+408,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC11B-CAF,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC11B,CAF
+409,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC10B-CAF,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC10B,CAF
+410,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC09B-CAF,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC09B,CAF
+411,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC08B-CAF,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC08B,CAF
+412,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC07B-CAF,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC07B,CAF
+413,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC06B-VER,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC06B,VER
+414,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC05B-VER,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC05B,VER
+415,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC04B-VER,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC04B,VER
+416,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC03B-VER,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC03B,VER
+417,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC02B-VER,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC02B,VER
+418,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC01B-VER,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC01B,VER
+419,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC25B-ROJ,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC25B,ROJ
+420,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC24B-BLA,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC24B,BLA
+421,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC23B-BLA,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC23B,BLA
+422,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC22B-BLA,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC22B,BLA
+423,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC21B-BLA,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC21B,BLA
+424,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC20B-BLA,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC20B,BLA
+425,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC19B-BLA,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC19B,BLA
+426,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC18B-GRI,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC18B,GRI
+427,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC17B-GRI,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC17B,GRI
+428,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC16B-GRI,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC16B,GRI
+429,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC15B-GRI,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC15B,GRI
+430,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC14B-GRI,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC14B,GRI
+431,GYE-Progreso (A)-Progreso (A)(A)/Progreso (A)(B)-F02-PC13B-GRI,GYE,GYE,Progreso (A),Progreso (A)(A),Progreso (A)(B),F02,PC13B,GRI
+432,GYE-Progreso (A)-Progreso (A)(B)/Progreso (A)(A)-F02-PC12B-CAF,GYE,GYE,Progreso (A),Progreso (A)(B),Progreso (A)(A),F02,PC12B,CAF
+433,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC11B-GRI,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC11B,GRI
+434,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC40B-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC40B,CEL
+435,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC39B-CEL,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC39B,CEL
+436,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC38B-CEL,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC38B,CEL
+437,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC37B-CEL,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC37B,CEL
+438,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC36B-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC36B,ROS
+439,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC35-ROS,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC35,ROS
+440,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC34B-ROS,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC34B,ROS
+441,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC33-ROS,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC33,ROS
+442,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC32B-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC32B,VIO
+443,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC31B-VIO,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC31B,VIO
+444,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC30B-VIO,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC30B,VIO
+445,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC29B-VIO,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC29B,VIO
+446,GYE--Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC28B-AMA,GYE,GYE,,Kennedy 1(A),,F01,PC28B,AMA
+447,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC27B-AMA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC27B,AMA
+448,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC26B-AMA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC26B,AMA
+449,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC25B-AMA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC25B,AMA
+450,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC24B-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC24B,NEG
+451,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC23B-NEG,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC23B,NEG
+452,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC22B-NEG,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC22B,NEG
+453,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC21B-NEG,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC21B,NEG
+454,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC20B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC20B,ROJ
+455,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC19B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC19B,ROJ
+456,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-P18B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,P18B,ROJ
+457,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC17B-ROJ,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC17B,ROJ
+458,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC16B-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC16B,BLA
+459,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-P15B-BLA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,P15B,BLA
+460,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC14B-BLA,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC14B,BLA
+461,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC13B-BLA,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC13B,BLA
+462,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC12B-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC12B,GRI
+463,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC10B-GRI,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC10B,GRI
+464,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC09B-GRI,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC09B,GRI
+465,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC08B-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC08B,CAF
+466,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC07B-CAF,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC07B,CAF
+467,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC06B-CAF,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC06B,CAF
+468,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC05B-CAF,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC05B,CAF
+469,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC04B-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC04B,VER
+470,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC03B-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC03B,VER
+471,GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F01-PC02B-VER,GYE,GYE,Kennedy 1(A),Alborada 3(E),Alborada 1(E),F01,PC02B,VER
+472,GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F01-PC01B-VER,GYE,GYE,Kennedy 1(A),Alborada 1(E),Alborada 3(E),F01,PC01B,VER
+473,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC18B-CEL,GYE,,,,,,,
+474,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC17B-CEL,GYE,,,,,,,
+475,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC16A-ROS,GYE,,,,,,,
+476,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC15B-VIO,GYE,,,,,,,
+477,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC14B-VIO,GYE,,,,,,,
+478,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC13A-AMA,GYE,,,,,,,
+479,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC12A-NEG,GYE,,,,,,,
+480,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC11B-ROJ,GYE,,,,,,,
+481,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC10B-ROJ,GYE,,,,,,,
+482,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC09B-ROJ,GYE,,,,,,,
+483,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC08A-BLA,GYE,,,,,,,
+484,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC07A-GRI,GYE,,,,,,,
+485,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC06B-CAF,GYE,,,,,,,
+486,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC05B-CAF,GYE,,,,,,,
+487,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC04B-VER,GYE,,,,,,,
+488,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC03B-VER,GYE,,,,,,,
+489,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC02B-NAR,GYE,,,,,,,
+490,GYE-Sur 1 (A)-Floresta 1 (E)/N/A-F01-PC01B-NAR,GYE,,,,,,,
+491,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P10A-VIO,GYE,,,,,,,
+492,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P09A-AMA,GYE,,,,,,,
+493,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P08A-NEG,GYE,,,,,,,
+494,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P07A-ROJ,GYE,,,,,,,
+495,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P06A-BLA,GYE,,,,,,,
+496,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P05A-GRI,GYE,,,,,,,
+497,"GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P04A-CAF
+",GYE,,,,,,,
+498,"GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P03A-VER
+",GYE,,,,,,,
+499,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P02A-NAR,GYE,,,,,,,
+500,GYE-Miraflores 1(A)-Puerto Hondo 1(E)/N/A-F03-P01A-AZU,GYE,,,,,,,
+501,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC44B-ROS,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC44B,ROS
+502,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC43B-ROS,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC43B,ROS
+503,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC40B-VIO,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC40B,VIO
+504,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC39B-VIO,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC39B,VIO
+505,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC13B-VER,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC13B,VER
+506,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC12B-VER,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC12B,VER
+507,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC07B-BLA,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC07B,BLA
+508,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC06B-BLA,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC06B,BLA
+509,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC38B-VIO,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC38B,VIO
+510,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC36B-GRI,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC36B,GRI
+511,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC34B-GRI,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC34B,GRI
+512,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC33B-GRI,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC33B,GRI
+513,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC32B-AZU,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC32B,AZU
+514,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC29B-AZU,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC29B,AZU
+515,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC28B-NEG,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC28B,NEG
+516,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC26B-NEG,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC26B,NEG
+517,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC25B-NEG,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC25B,NEG
+518,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC24B-CAF,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC24B,CAF
+519,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC23B-CAF,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC23B,CAF
+520,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC21B-CAF,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC21B,CAF
+521,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC20B-CEL,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC20B,CEL
+522,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC19B-CEL,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC19B,CEL
+523,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC16B-NAR,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC16B,NAR
+524,CUE-Bellavista (A)-San Pedro (E)(B)/San Pedro (E)(A)-F01-PC04B-ROJ,CUE,CUE,Bellavista (A),San Pedro (E)(B),San Pedro (E)(A),F01,PC04B,ROJ
+525,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC03B-ROJ,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC03B,ROJ
+526,CUE-Bellavista (A)-San Pedro (E)(A)/San Pedro (E)(B)-F01-PC01B-ROJ,CUE,CUE,Bellavista (A),San Pedro (E)(A),San Pedro (E)(B),F01,PC01B,ROJ
+527,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC64B-CEL,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC64B,CEL
+528,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC63B-CEL,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC63B,CEL
+529,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC62B-CEL,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC62B,CEL
+530,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC61B-CEL,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC61B,CEL
+531,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC60B-CEL,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC60B,CEL
+532,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC59B-CEL,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC59B,CEL
+533,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC58B-ROS,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC58B,ROS
+534,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC57B-ROS,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC57B,ROS
+535,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC56B-ROS,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC56B,ROS
+536,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC55B-ROS,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC55B,ROS
+537,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC54B-ROS,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC54B,ROS
+538,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC53B-ROS,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC53B,ROS
+539,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC52B-VIO,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC52B,VIO
+540,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC51B-VIO,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC51B,VIO
+541,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC50B-VIO,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC50B,VIO
+542,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC49B-VIO,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC49B,VIO
+543,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC48B-VIO,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC48B,VIO
+544,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC47B-VIO,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC47B,VIO
+545,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC46B-AMA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC46B,AMA
+546,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC45B-AMA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC45B,AMA
+547,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC44B-AMA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC44B,AMA
+548,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC43B-AMA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC43B,AMA
+549,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC42B-AMA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC42B,AMA
+550,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC41B-AMA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC41B,AMA
+551,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC40B-NEG,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC40B,NEG
+552,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC39B-NEG,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC39B,NEG
+553,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC38B-NEG,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC38B,NEG
+554,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC37B-NEG,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC37B,NEG
+555,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC36B-NEG,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC36B,NEG
+556,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC35B-NEG,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC35B,NEG
+557,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC34B-ROJ,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC34B,ROJ
+558,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC33B-ROJ,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC33B,ROJ
+559,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC32B-ROJ,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC32B,ROJ
+560,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC31B-ROJ,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC31B,ROJ
+561,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC30B-ROJ,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC30B,ROJ
+562,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC29B-ROJ,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC29B,ROJ
+563,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC28B-BLA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC28B,BLA
+564,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC27B-BLA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC27B,BLA
+565,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC26B-BLA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC26B,BLA
+566,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC25B-BLA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC25B,BLA
+567,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC24B-BLA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC24B,BLA
+568,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC23B-BLA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC23B,BLA
+569,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC22B-GRI,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC22B,GRI
+570,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC21B-GRI,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC21B,GRI
+571,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC20B-GRI,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC20B,GRI
+572,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC19B-GRI,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC19B,GRI
+573,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC18B-GRI,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC18B,GRI
+574,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC17B-GRI,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC17B,GRI
+575,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC16B-CAF,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC16B,CAF
+576,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC15B-CAF,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC15B,CAF
+577,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC14B-CAF,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC14B,CAF
+578,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC13B-CAF,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC13B,CAF
+579,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC12B-CAF,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC12B,CAF
+580,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC11B-CAF,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC11B,CAF
+581,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC10B-VER,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC10B,VER
+582,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC09B-VER,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC09B,VER
+583,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC08B-VER,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC08B,VER
+584,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC07B-VER,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC07B,VER
+585,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC06B-VER,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC06B,VER
+586,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC05B-VER,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC05B,VER
+587,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC04B-NAR,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC04B,NAR
+588,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC03B-NAR,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC03B,NAR
+589,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F03-PC02B-NAR,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F03,PC02B,NAR
+590,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F03-PC01B-NAR,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F03,PC01B,NAR
+591,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC12B-CAF,CUE,,,,,,,
+592,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC11B-CAF,CUE,,,,,,,
+593,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC10B-CAF,CUE,,,,,,,
+594,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC09B-VER,CUE,,,,,,,
+595,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC08B-VER,CUE,,,,,,,
+596,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC07B-VER,CUE,,,,,,,
+597,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC06B-NAR,CUE,,,,,,,
+598,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC05B-NAR,CUE,,,,,,,
+599,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC04B-NAR,CUE,,,,,,,
+600,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC03B-AZU,CUE,,,,,,,
+601,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC02B-AZU,CUE,,,,,,,
+602,CUE-Bellavista (A)-Molleturo (E)/N/A-F01-PC01B-AZU,CUE,,,,,,,
+603,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC12B-CAF,CUE,,,,,,,
+604,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC11B-CAF,CUE,,,,,,,
+605,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC10B-CAF,CUE,,,,,,,
+606,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC09B-VER,CUE,,,,,,,
+607,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC08B-VER,CUE,,,,,,,
+608,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC07B-VER,CUE,,,,,,,
+609,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC06B-NAR,CUE,,,,,,,
+610,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC05B-NAR,CUE,,,,,,,
+611,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC04B-NAR,CUE,,,,,,,
+612,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC03B-AZU,CUE,,,,,,,
+613,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC02B-AZU,CUE,,,,,,,
+614,CUE-Bellavista (A)-Molleturo (E)/N/A-F02-PC01B-AZU,CUE,,,,,,,
+615,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC64B-CEL,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC64B,CEL
+616,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC63B-CEL,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC63B,CEL
+617,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC62B-CEL,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC62B,CEL
+618,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC61B-CEL,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC61B,CEL
+619,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC60B-CEL,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC60B,CEL
+620,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC59B-CEL,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC59B,CEL
+621,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC58B-ROS,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC58B,ROS
+622,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC57B-ROS,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC57B,ROS
+623,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC56B-ROS,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC56B,ROS
+624,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC55B-ROS,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC55B,ROS
+625,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC54B-ROS,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC54B,ROS
+626,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC53B-ROS,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC53B,ROS
+627,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC52B-VIO,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC52B,VIO
+628,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC51B-VIO,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC51B,VIO
+629,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC50B-VIO,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC50B,VIO
+630,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC49B-VIO,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC49B,VIO
+631,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC48B-VIO,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC48B,VIO
+632,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC47B-VIO,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC47B,VIO
+633,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC46B-AMA,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC46B,AMA
+634,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC45B-AMA,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC45B,AMA
+635,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC44B-AMA,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC44B,AMA
+636,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC43B-AMA,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC43B,AMA
+637,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC42B-AMA,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC42B,AMA
+638,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC41B-AMA,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC41B,AMA
+639,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC40B-NEG,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC40B,NEG
+640,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC39B-NEG,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC39B,NEG
+641,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC38B-NEG,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC38B,NEG
+642,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC37B-NEG,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC37B,NEG
+643,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC36B-NEG,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC36B,NEG
+644,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC35B-NEG,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC35B,NEG
+645,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC34B-ROJ,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC34B,ROJ
+646,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC33B-ROJ,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC33B,ROJ
+647,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC32B-ROJ,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC32B,ROJ
+648,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC31B-ROJ,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC31B,ROJ
+649,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC30B-ROJ,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC30B,ROJ
+650,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC29B-ROJ,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC29B,ROJ
+651,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC28B-BLA,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC28B,BLA
+652,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC27B-BLA,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC27B,BLA
+653,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC26B-BLA,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC26B,BLA
+654,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC25B-BLA,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC25B,BLA
+655,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC24B-BLA,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC24B,BLA
+656,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC23B-BLA,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC23B,BLA
+657,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC22B-GRI,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC22B,GRI
+658,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC21B-GRI,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC21B,GRI
+659,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC20B-GRI,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC20B,GRI
+660,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC19B-GRI,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC19B,GRI
+661,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC18B-GRI,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC18B,GRI
+662,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC17B-GRI,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC17B,GRI
+663,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC16B-CAF,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC16B,CAF
+664,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC15B-CAF,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC15B,CAF
+665,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC14B-CAF,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC14B,CAF
+666,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC13B-CAF,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC13B,CAF
+667,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC12B-CAF,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC12B,CAF
+668,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC11B-CAF,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC11B,CAF
+669,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC10B-VER,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC10B,VER
+670,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC09B-VER,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC09B,VER
+671,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC08B-VER,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC08B,VER
+672,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC07B-VER,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC07B,VER
+673,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC06B-VER,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC06B,VER
+674,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC05B-VER,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC05B,VER
+675,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC04B-NAR,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC04B,NAR
+676,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC03B-NAR,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC03B,NAR
+677,CUE-Bellavista (A)-Bibin (E)(B)/Bibin (E)(A)-F01-PC02B-NAR,CUE,CUE,Bellavista (A),Bibin (E)(B),Bibin (E)(A),F01,PC02B,NAR
+678,CUE-Bellavista (A)-Bibin (E)(A)/Bibin (E)(B)-F01-PC01B-NAR,CUE,CUE,Bellavista (A),Bibin (E)(A),Bibin (E)(B),F01,PC01B,NAR
+679,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC60B-CEL,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC60B,CEL
+680,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC59B-CEL,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC59B,CEL
+681,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC58B-CEL,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC58B,CEL
+682,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC57B-CEL,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC57B,CEL
+683,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC56B-CEL,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC56B,CEL
+684,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC55B-CEL,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC55B,CEL
+685,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC54B-ROS,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC54B,ROS
+686,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC53B-ROS,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC53B,ROS
+687,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC52B-ROS,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC52B,ROS
+688,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC51B-ROS,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC51B,ROS
+689,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC50B-ROS,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC50B,ROS
+690,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC49B-ROS,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC49B,ROS
+691,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC48B-VIO,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC48B,VIO
+692,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC47B-VIO,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC47B,VIO
+693,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC46B-VIO,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC46B,VIO
+694,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC45B-VIO,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC45B,VIO
+695,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC44B-VIO,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC44B,VIO
+696,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC43B-VIO,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC43B,VIO
+697,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC42B-AMA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC42B,AMA
+698,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC41B-AMA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC41B,AMA
+699,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC40B-AMA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC40B,AMA
+700,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC39B-AMA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC39B,AMA
+701,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC38B-AMA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC38B,AMA
+702,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC37B-AMA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC37B,AMA
+703,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC36B-NEG,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC36B,NEG
+704,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC35B-NEG,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC35B,NEG
+705,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC34B-NEG,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC34B,NEG
+706,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC33B-NEG,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC33B,NEG
+707,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC32B-NEG,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC32B,NEG
+708,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC31B-NEG,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC31B,NEG
+709,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC30B-ROJ,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC30B,ROJ
+710,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC29B-ROJ,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC29B,ROJ
+711,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC28B-ROJ,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC28B,ROJ
+712,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC27B-ROJ,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC27B,ROJ
+713,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC26B-ROJ,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC26B,ROJ
+714,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC25B-ROJ,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC25B,ROJ
+715,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC24B-BLA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC24B,BLA
+716,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC23B-BLA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC23B,BLA
+717,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC22B-BLA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC22B,BLA
+718,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC21B-BLA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC21B,BLA
+719,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC20B-BLA,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC20B,BLA
+720,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC19B-BLA,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC19B,BLA
+721,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC18B-GRI,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC18B,GRI
+722,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC17B-GRI,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC17B,GRI
+723,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC16B-GRI,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC16B,GRI
+724,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC15B-GRI,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC15B,GRI
+725,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC14B-GRI,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC14B,GRI
+726,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC13B-GRI,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC13B,GRI
+727,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC12B-CAF,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC12B,CAF
+728,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC11B-CAF,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC11B,CAF
+729,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC10B-CAF,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC10B,CAF
+730,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC09B-CAF,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC09B,CAF
+731,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC08B-CAF,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC08B,CAF
+732,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC07B-CAF,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC07B,CAF
+733,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC06B-VER,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC06B,VER
+734,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC05B-VER,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC05B,VER
+735,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC04B-VER,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC04B,VER
+736,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC03B-VER,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC03B,VER
+737,CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC02B-VER,CUE,CUE,Bellavista (A),Mall del Rio (E),Control Sur (E),F04,PC02B,VER
+738,CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC01B-VER,CUE,CUE,Bellavista (A),Control Sur (E),Mall del Rio (E),F04,PC01B,VER
+739,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC36B-CEL,CUE,,,,,,,
+740,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC35B-CEL,CUE,,,,,,,
+741,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC34B-CEL,CUE,,,,,,,
+742,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC33B-ROS,CUE,,,,,,,
+743,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC32B-ROS,CUE,,,,,,,
+744,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC31B-ROS,CUE,,,,,,,
+745,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC30B-VIO,CUE,,,,,,,
+746,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC29B-VIO,CUE,,,,,,,
+747,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC28B-VIO,CUE,,,,,,,
+748,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC27B-AMA,CUE,,,,,,,
+749,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC26B-AMA,CUE,,,,,,,
+750,CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC25B-AMA,CUE,,,,,,,
+751,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC24B-CEL,MNT,,,,,,,
+752,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC23B-CEL,MNT,,,,,,,
+753,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC22B-ROS,MNT,,,,,,,
+754,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC21B-ROS,MNT,,,,,,,
+755,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC20B-VIO,MNT,,,,,,,
+756,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC19B-VIO,MNT,,,,,,,
+757,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC18B-AMA,MNT,,,,,,,
+758,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC17B-AMA,MNT,,,,,,,
+759,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC16B-NEG,MNT,,,,,,,
+760,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC15B-NEG,MNT,,,,,,,
+761,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC14B-ROJ,MNT,,,,,,,
+762,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC13B-ROJ,MNT,,,,,,,
+763,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC12B-BLA,MNT,,,,,,,
+764,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC11B-BLA,MNT,,,,,,,
+765,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC10B-GRI,MNT,,,,,,,
+766,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC09B-GRI,MNT,,,,,,,
+767,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC08B-CAF,MNT,,,,,,,
+768,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC07B-CAF,MNT,,,,,,,
+769,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC06B-VER,MNT,,,,,,,
+770,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC05B-VER,MNT,,,,,,,
+771,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC04B-NAR,MNT,,,,,,,
+772,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC03B-NAR,MNT,,,,,,,
+773,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC02B-AZU,MNT,,,,,,,
+774,STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC01B-AZU,MNT,,,,,,,
+775,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC40B-CEL,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC40B,CEL
+776,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC39B-CEL,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC39B,CEL
+777,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC38B-CEL,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC38B,CEL
+778,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC37B-CEL,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC37B,CEL
+779,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC36B-ROS,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC36B,ROS
+780,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC35B-ROS,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC35B,ROS
+781,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC34B-ROS,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC34B,ROS
+782,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC33B-ROS,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC33B,ROS
+783,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC32B-VIO,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC32B,VIO
+784,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC31B-VIO,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC31B,VIO
+785,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC30B-VIO,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC30B,VIO
+786,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC29B-VIO,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC29B,VIO
+787,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC28B-AMA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC28B,AMA
+788,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC27B-AMA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC27B,AMA
+789,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC26B-AMA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC26B,AMA
+790,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC25B-AMA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC25B,AMA
+791,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC24B-NEG,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC24B,NEG
+792,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC23B-NEG,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC23B,NEG
+793,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC22B-NEG,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC22B,NEG
+794,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC21B-NEG,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC21B,NEG
+795,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC20B-ROJ,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC20B,ROJ
+796,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC19B-ROJ,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC19B,ROJ
+797,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC18B-ROJ,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC18B,ROJ
+798,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC17B-ROJ,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC17B,ROJ
+799,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC16B-BLA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC16B,BLA
+800,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC15B-BLA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC15B,BLA
+801,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC14B-BLA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC14B,BLA
+802,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC13B-BLA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC13B,BLA
+803,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC12B-GRI,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC12B,GRI
+804,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC11B-GRI,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC11B,GRI
+805,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC10B-GRI,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC10B,GRI
+806,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC09B-GRI,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC09B,GRI
+807,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC08B-CAF,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC08B,CAF
+808,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC07B-CAF,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC07B,CAF
+809,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC06B-CAF,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC06B,CAF
+810,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC05B-CAF,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC05B,CAF
+811,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC04B-VER,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC04B,VER
+812,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC03B-VER,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC03B,VER
+813,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC02B-VER,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F03,PC02B,VER
+814,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC01B-VER,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F03,PC01B,VER
+815,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC40B-CEL,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC40B,CEL
+816,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC39B-CEL,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC39B,CEL
+817,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC38B-CEL,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC38B,CEL
+818,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC37B-CEL,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC37B,CEL
+819,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC36B-ROS,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC36B,ROS
+820,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC35B-ROS,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC35B,ROS
+821,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC34B-ROS,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC34B,ROS
+822,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC33B-ROS,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC33B,ROS
+823,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC32B-VIO,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC32B,VIO
+824,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC31B-VIO,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC31B,VIO
+825,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC30B-VIO,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC30B,VIO
+826,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC29B-VIO,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC29B,VIO
+827,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC28B-AMA,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC28B,AMA
+828,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC27B-AMA,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC27B,AMA
+829,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC26B-AMA,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC26B,AMA
+830,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC25B-AMA,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC25B,AMA
+831,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC24B-NEG,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC24B,NEG
+832,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC23B-NEG,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC23B,NEG
+833,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC22B-NEG,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC22B,NEG
+834,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC21B-NEG,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC21B,NEG
+835,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC20B-ROJ,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC20B,ROJ
+836,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC19B-ROJ,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC19B,ROJ
+837,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC18B-ROJ,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC18B,ROJ
+838,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC17B-ROJ,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC17B,ROJ
+839,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC16B-BLA,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC16B,BLA
+840,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC15B-BLA,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC15B,BLA
+841,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC14B-BLA,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC14B,BLA
+842,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC13B-BLA,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC13B,BLA
+843,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC12B-GRI,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC12B,GRI
+844,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC11B-GRI,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC11B,GRI
+845,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC10B-GRI,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC10B,GRI
+846,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC09B-GRI,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC09B,GRI
+847,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC08B-CAF,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC08B,CAF
+848,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC07B-CAF,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC07B,CAF
+849,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC06B-CAF,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC06B,CAF
+850,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC05B-CAF,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC05B,CAF
+851,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC04B-VER,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC04B,VER
+852,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC03B-VER,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC03B,VER
+853,PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC02B-VER,MNT,PVO,Portoviejo (A),San Alejo (E)(B),San Alejo (E)(A),F01,PC02B,VER
+854,PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC01B-VER,MNT,PVO,Portoviejo (A),San Alejo (E)(A),San Alejo (E)(B),F01,PC01B,VER
+855,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC12B-CAF,MNT,,,,,,,
+856,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC11B-CAF,MNT,,,,,,,
+857,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC10B-CAF,MNT,,,,,,,
+858,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC09B-VER,MNT,,,,,,,
+859,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC08B-VER,MNT,,,,,,,
+860,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC07B-VER,MNT,,,,,,,
+861,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC06B-NAR,MNT,,,,,,,
+862,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC05B-NAR,MNT,,,,,,,
+863,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC04B-NAR,MNT,,,,,,,
+864,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC03B-AZU,MNT,,,,,,,
+865,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC02B-AZU,MNT,,,,,,,
+866,SCR-Parrales (A)-Sucre (E)/N/A-F03-PC01B-AZU,MNT,,,,,,,
+867,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC24B-CEL,MNT,,,,,,,
+868,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC23B-CEL,MNT,,,,,,,
+869,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC22B-ROS,MNT,,,,,,,
+870,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC21B-ROS,MNT,,,,,,,
+871,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC20B-VIO,MNT,,,,,,,
+872,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC19B-VIO,MNT,,,,,,,
+873,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC18B-AMA,MNT,,,,,,,
+874,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC17B-AMA,MNT,,,,,,,
+875,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC16B-NEG,MNT,,,,,,,
+876,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC15B-NEG,MNT,,,,,,,
+877,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC14B-ROJ,MNT,,,,,,,
+878,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC13B-ROJ,MNT,,,,,,,
+879,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC12B-BLA,MNT,,,,,,,
+880,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC11B-BLA,MNT,,,,,,,
+881,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC10B-GRI,MNT,,,,,,,
+882,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC09B-GRI,MNT,,,,,,,
+883,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC08B-CAF,MNT,,,,,,,
+884,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC07B-CAF,MNT,,,,,,,
+885,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC06B-VER,MNT,,,,,,,
+886,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC05B-VER,MNT,,,,,,,
+887,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC04B-NAR,MNT,,,,,,,
+888,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC03B-NAR,MNT,,,,,,,
+889,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC02B-AZU,MNT,,,,,,,
+890,PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC01B-AZU,MNT,,,,,,,
+891,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC28B-AMA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC28B,AMA
+892,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC27B-AMA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC27B,AMA
+893,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC26B-AMA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC26B,AMA
+894,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC25B-AMA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC25B,AMA
+895,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC24B-NEG,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC24B,NEG
+896,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC23B-NEG,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC23B,NEG
+897,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC22B-NEG,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC22B,NEG
+898,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC21B-NEG,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC21B,NEG
+899,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC20B-ROJ,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC20B,ROJ
+900,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC19B-ROJ,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC19B,ROJ
+901,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC18B-ROJ,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC18B,ROJ
+902,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC17B-ROJ,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC17B,ROJ
+903,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC16B-BLA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC16B,BLA
+904,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC15B-BLA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC15B,BLA
+905,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC14B-BLA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC14B,BLA
+906,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC40B-CEL,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC40B,CEL
+907,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC39B-CEL,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC39B,CEL
+908,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC38B-CEL,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC38B,CEL
+909,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC37B-CEL,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC37B,CEL
+910,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC36B-ROS,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC36B,ROS
+911,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC35B-ROS,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC35B,ROS
+912,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC34B-ROS,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC34B,ROS
+913,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC33B-ROS,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC33B,ROS
+914,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC32B-VIO,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC32B,VIO
+915,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC31B-VIO,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC31B,VIO
+916,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC30B-VIO,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC30B,VIO
+917,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC29B-VIO,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC29B,VIO
+918,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC13B-BLA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC13B,BLA
+919,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC12B-GRI,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC12B,GRI
+920,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC11B-GRI,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC11B,GRI
+921,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC10B-GRI,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC10B,GRI
+922,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC09B-GRI,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC09B,GRI
+923,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC08B-CAF,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC08B,CAF
+924,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC07B-CAF,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC07B,CAF
+925,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC06B-CAF,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC06B,CAF
+926,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC05B-CAF,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC05B,CAF
+927,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC04B-VER,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC04B,VER
+928,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC03B-VER,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC03B,VER
+929,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC02B-VER,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F01,PC02B,VER
+930,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC01B-VER,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F01,PC01B,VER
+931,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC40B-CEL,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC40B,CEL
+932,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC39B-CEL,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC39B,CEL
+933,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC38B-CEL,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC38B,CEL
+934,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC37B-CEL,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC37B,CEL
+935,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC36B-ROS,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC36B,ROS
+936,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC35B-ROS,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC35B,ROS
+937,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC34B-ROS,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC34B,ROS
+938,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC33B-ROS,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC33B,ROS
+939,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC32B-VIO,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC32B,VIO
+940,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC31B-VIO,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC31B,VIO
+941,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC30B-VIO,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC30B,VIO
+942,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC29B-VIO,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC29B,VIO
+943,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC28B-AMA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC28B,AMA
+944,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC27B-AMA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC27B,AMA
+945,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC26B-AMA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC26B,AMA
+946,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC25B-AMA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC25B,AMA
+947,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC24B-NEG,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC24B,NEG
+948,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC23B-NEG,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC23B,NEG
+949,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC22B-NEG,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC22B,NEG
+950,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC21B-NEG,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC21B,NEG
+951,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC20B-ROJ,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC20B,ROJ
+952,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC19B-ROJ,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC19B,ROJ
+953,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC18B-ROJ,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC18B,ROJ
+954,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC17B-ROJ,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC17B,ROJ
+955,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC16B-BLA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC16B,BLA
+956,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC15B-BLA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC15B,BLA
+957,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC14B-BLA,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC14B,BLA
+958,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC13B-BLA,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC13B,BLA
+959,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC12B-GRI,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC12B,GRI
+960,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC11B-GRI,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC11B,GRI
+961,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC10B-GRI,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC10B,GRI
+962,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC09B-GRI,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC09B,GRI
+963,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC08B-CAF,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC08B,CAF
+964,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC07B-CAF,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC07B,CAF
+965,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC06B-CAF,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC06B,CAF
+966,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC05B-CAF,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC05B,CAF
+967,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC04B-VER,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC04B,VER
+968,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC03B-VER,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC03B,VER
+969,JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC02B-VER,MNT,JIP,Parrales (A),Jipijapa SDH (A),Parrales (A),F02,PC02B,VER
+970,JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC01B-VER,MNT,JIP,Parrales (A),Parrales (A),Jipijapa SDH (A),F02,PC01B,VER
+971,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC24B-CAF,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC24B,CAF
+972,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC23B-CAF,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC23B,CAF
+973,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC22B-CAF,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC22B,CAF
+974,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC21B-CAF,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC21B,CAF
+975,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC20B-CAF,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC20B,CAF
+976,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC19B-CAF,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC19B,CAF
+977,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC18B-VER,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC18B,VER
+978,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC17B-VER,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC17B,VER
+979,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC16B-VER,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC16B,VER
+980,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC15B-VER,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC15B,VER
+981,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC14B-VER,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC14B,VER
+982,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC13B-VER,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC13B,VER
+983,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC12B-NAR,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC12B,NAR
+984,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC11B-NAR,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC11B,NAR
+985,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC10B-NAR,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC10B,NAR
+986,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC09B-NAR,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC09B,NAR
+987,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC08B-NAR,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC08B,NAR
+988,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC07B-NAR,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC07B,NAR
+989,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC06B-AZU,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC06B,AZU
+990,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC05B-AZU,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC05B,AZU
+991,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC04B-AZU,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC04B,AZU
+992,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC03B-AZU,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC03B,AZU
+993,STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC02B-AZU,MNT,STA,Portoviejo (A),Ayacucho (E)(B),Ayacucho (E)(A),F01,PC02B,AZU
+994,STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC01B-AZU,MNT,STA,Portoviejo (A),Ayacucho (E)(A),Ayacucho (E)(B),F01,PC01B,AZU
+995,MOT-Manta SDH (A)-La Pradera (E)/San Andres (E)-F01-PC47B-GRI,MNT,MOT,Manta SDH (A),La Pradera (E),San Andres (E),F01,PC47B,GRI
+996,MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC12B-CAF,MNT,,,,,,,
+997,MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC11B-CAF,MNT,,,,,,,
+998,MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC10B-CAF,MNT,,,,,,,
+999,MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC09B-VER,MNT,,,,,,,
+1000,MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC08B-VER,MNT,,,,,,,
