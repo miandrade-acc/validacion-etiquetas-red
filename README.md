@@ -47,7 +47,7 @@ Este proyecto busca desarrollar una solución basada en inteligencia artificial 
 
 - 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)  
 - 📊 [Notebook EDA: Análisis de etiquetas MPLS](scripts/EDA_CajasMPLS_Etiquetas_G7.ipynb)  
-- 🧠 [Informe Comparativo de Algoritmos IA](docs/algorithms/Analisis_Comparativo_Algoritmos.docx)
+- 🧠 [Informe Comparativo de Algoritmos IA](docs/algoritmos/Analisis_Comparativo_Algoritmos.pdf)
 
 ---
 
