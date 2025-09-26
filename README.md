@@ -93,6 +93,10 @@ print(result)
 - 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)
 - 📊 [Notebook EDA: Análisis de etiquetas MPLS](scripts/EDA_CajasMPLS_Etiquetas_G7.ipynb)  
 - 🧠 [Informe Comparativo de Algoritmos IA](docs/algoritmos/Analisis_Comparativo_Algoritmos_G7.pdf)
+- 🧪 [Proyecto Final – Fase de Preparación y Preprocesamiento de Datos](scripts/Proyecto_Final_Procesamiento_Datos.ipynb)
+- 📘 [Informe Técnico – Preparación y Preprocesamiento](docs/Preparacion_Procesamiento_Datos_G7.docx)
+- 📊 [Presentación Ejecutiva – Preparación de Datos](docs/Presentacion_Preparacion_Procesamiento_Datos_G7.pptx)
+
 
 ---
 ## ⚖️ Licencia y Datasets
