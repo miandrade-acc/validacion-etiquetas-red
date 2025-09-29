@@ -1,0 +1,819 @@
+N;Etiqueta;TS;ciudad;nodo_concentrador;nodo_estandar;nodo_backup;ruta;caja_codigo;color_buffer;tipo_ruta;clase;detalle_validacion
+1.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE16B-CAF;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE16B;CAF;ruta_completa;1;Etiqueta valida
+2.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE15B-CAF;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE15B;CAF;ruta_completa;1;Etiqueta valida
+3.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE14B-CAF;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE14B;CAF;ruta_completa;1;Etiqueta valida
+4.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE13B-CAF;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE13B;CAF;ruta_completa;1;Etiqueta valida
+5.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE12B-VER;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE12B;VER;ruta_completa;1;Etiqueta valida
+6.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE11B-VER;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE11B;VER;ruta_completa;1;Etiqueta valida
+7.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE10B-VER;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE10B;VER;ruta_completa;1;Etiqueta valida
+8.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE09B-VER;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE09B;VER;ruta_completa;1;Etiqueta valida
+9.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE08B-NAR;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE08B;NAR;ruta_completa;1;Etiqueta valida
+10.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE07B-NAR;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE07B;NAR;ruta_completa;1;Etiqueta valida
+11.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE06B-NAR;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE06B;NAR;ruta_completa;1;Etiqueta valida
+12.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE05B-NAR;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE05B;NAR;ruta_completa;1;Etiqueta valida
+13.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE04B-AZU;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE04B;AZU;ruta_completa;1;Etiqueta valida
+14.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE03B-AZU;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE03B;AZU;ruta_completa;1;Etiqueta valida
+15.0;UIO-Gosseal (A)-Whymper (E)(B)/Whymper (E)(A)-F02-PE02B-AZU;UIO;UIO;Gosseal (A);Whymper (E)(B);Whymper (E)(A);F02;PE02B;AZU;ruta_completa;1;Etiqueta valida
+16.0;UIO-Gosseal (A)-Whymper (E)(A)/Whymper (E)(B)-F02-PE01B-AZU;UIO;UIO;Gosseal (A);Whymper (E)(A);Whymper (E)(B);F02;PE01B;AZU;ruta_completa;1;Etiqueta valida
+17.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C19B-ROS;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C19B;ROS;ruta_completa;1;Etiqueta valida
+18.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C18B-ROS;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C18B;ROS;ruta_completa;1;Etiqueta valida
+19.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C17A-ROS;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C17A;ROS;ruta_completa;1;Etiqueta valida
+20.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C16A-VIO;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C16A;VIO;ruta_completa;1;Etiqueta valida
+21.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C15A-VIO;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C15A;VIO;ruta_completa;1;Etiqueta valida
+22.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C14A-GRI;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C14A;GRI;ruta_completa;1;Etiqueta valida
+23.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C13A-GRI;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C13A;GRI;ruta_completa;1;Etiqueta valida
+24.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C12A-AZU;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C12A;AZU;ruta_completa;1;Etiqueta valida
+25.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C11A-AZU;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C11A;AZU;ruta_completa;1;Etiqueta valida
+26.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C10A-NEG;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C10A;NEG;ruta_completa;1;Etiqueta valida
+27.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C09A-CAF;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C09A;CAF;ruta_completa;1;Etiqueta valida
+28.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C08A-CEL;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C08A;CEL;ruta_completa;1;Etiqueta valida
+29.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C07A-CEL;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C07A;CEL;ruta_completa;1;Etiqueta valida
+30.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C06A-NAR;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C06A;NAR;ruta_completa;1;Etiqueta valida
+31.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C05A-NAR;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C05A;NAR;ruta_completa;1;Etiqueta valida
+32.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C04A-VER;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C04A;VER;ruta_completa;1;Etiqueta valida
+33.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C03A-VER;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C03A;VER;ruta_completa;1;Etiqueta valida
+34.0;UIO-Sur 2 (A)-Solanda (E)/Sur 2 (A)-F03-C02A-AMA;UIO;UIO;Sur 2 (A);Solanda (E);Sur 2 (A);F03;C02A;AMA;ruta_completa;1;Etiqueta valida
+35.0;UIO-Sur 2 (A)-Sur 2 (A)/Solanda (E)-F03-C01A-AMA;UIO;UIO;Sur 2 (A);Sur 2 (A);Solanda (E);F03;C01A;AMA;ruta_completa;1;Etiqueta valida
+36.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC12A-CEL;UIO;UIO;Armenia (A);Pintag (E);;F01;PC12A;CEL;ruta_no_aplica;1;Etiqueta valida
+37.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC11A-ROS;UIO;UIO;Armenia (A);Pintag (E);;F01;PC11A;ROS;ruta_no_aplica;1;Etiqueta valida
+38.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC10A-VIO;UIO;UIO;Armenia (A);Pintag (E);;F01;PC10A;VIO;ruta_no_aplica;1;Etiqueta valida
+39.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC09A-AMA;UIO;UIO;Armenia (A);Pintag (E);;F01;PC09A;AMA;ruta_no_aplica;1;Etiqueta valida
+40.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC08A-NEG;UIO;UIO;Armenia (A);Pintag (E);;F01;PC08A;NEG;ruta_no_aplica;1;Etiqueta valida
+41.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC07A-ROJ;UIO;UIO;Armenia (A);Pintag (E);;F01;PC07A;ROJ;ruta_no_aplica;1;Etiqueta valida
+42.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC06A-BLA;UIO;UIO;Armenia (A);Pintag (E);;F01;PC06A;BLA;ruta_no_aplica;1;Etiqueta valida
+43.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC05A-GRI;UIO;UIO;Armenia (A);Pintag (E);;F01;PC05A;GRI;ruta_no_aplica;1;Etiqueta valida
+44.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC04A-CAF;UIO;UIO;Armenia (A);Pintag (E);;F01;PC04A;CAF;ruta_no_aplica;1;Etiqueta valida
+45.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC03A-VER;UIO;UIO;Armenia (A);Pintag (E);;F01;PC03A;VER;ruta_no_aplica;1;Etiqueta valida
+46.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC02A-NAR;UIO;UIO;Armenia (A);Pintag (E);;F01;PC02A;NAR;ruta_no_aplica;1;Etiqueta valida
+47.0;UIO-Armenia (A)-Pintag (E)/N/A-F01-PC01A-AZU;UIO;UIO;Armenia (A);Pintag (E);;F01;PC01A;AZU;ruta_no_aplica;1;Etiqueta valida
+48.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC16B-NEG;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC16B;NEG;ruta_no_aplica;1;Etiqueta valida
+49.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC15B-NEG;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC15B;NEG;ruta_no_aplica;1;Etiqueta valida
+50.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC14B-ROJ;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC14B;ROJ;ruta_no_aplica;1;Etiqueta valida
+51.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC13B-ROJ;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC13B;ROJ;ruta_no_aplica;1;Etiqueta valida
+52.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC12B-BLA;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC12B;BLA;ruta_no_aplica;1;Etiqueta valida
+53.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC11B-BLA;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC11B;BLA;ruta_no_aplica;1;Etiqueta valida
+54.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC10B-GRI;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC10B;GRI;ruta_no_aplica;1;Etiqueta valida
+55.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC09B-GRI;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC09B;GRI;ruta_no_aplica;1;Etiqueta valida
+56.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC08B-CAF;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC08B;CAF;ruta_no_aplica;1;Etiqueta valida
+57.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC07B-CAF;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC07B;CAF;ruta_no_aplica;1;Etiqueta valida
+58.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC06B-VER;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC06B;VER;ruta_no_aplica;1;Etiqueta valida
+59.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC05B-VER;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC05B;VER;ruta_no_aplica;1;Etiqueta valida
+60.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC04B-NAR;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+61.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC03B-NAR;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC03B;NAR;ruta_no_aplica;1;Etiqueta valida
+62.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC02B-AZU;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+63.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC01B-AZU;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+64.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC24B-CEL;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC24B;CEL;ruta_no_aplica;1;Etiqueta valida
+65.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC23B-CEL;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC23B;CEL;ruta_no_aplica;1;Etiqueta valida
+66.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC22B-ROS;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC22B;ROS;ruta_no_aplica;1;Etiqueta valida
+67.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC21B-ROS;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC21B;ROS;ruta_no_aplica;1;Etiqueta valida
+68.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC20B-VIO;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC20B;VIO;ruta_no_aplica;1;Etiqueta valida
+69.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC19B-VIO;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC19B;VIO;ruta_no_aplica;1;Etiqueta valida
+70.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC18B-AMA;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC18B;AMA;ruta_no_aplica;1;Etiqueta valida
+71.0;UIO-Sur 2 (A)-Calle 3 (E)/N/A-F03-PC17B-AMA;UIO;UIO;Sur 2 (A);Calle 3 (E);;F03;PC17B;AMA;ruta_no_aplica;1;Etiqueta valida
+72.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC24B-CEL;UIO;UIO;Armenia (A);Pintag (E);;F02;PC24B;CEL;ruta_no_aplica;1;Etiqueta valida
+73.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC23B-CEL;UIO;UIO;Armenia (A);Pintag (E);;F02;PC23B;CEL;ruta_no_aplica;1;Etiqueta valida
+74.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC22B-ROS;UIO;UIO;Armenia (A);Pintag (E);;F02;PC22B;ROS;ruta_no_aplica;1;Etiqueta valida
+75.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC21B-ROS;UIO;UIO;Armenia (A);Pintag (E);;F02;PC21B;ROS;ruta_no_aplica;1;Etiqueta valida
+76.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC20B-VIO;UIO;UIO;Armenia (A);Pintag (E);;F02;PC20B;VIO;ruta_no_aplica;1;Etiqueta valida
+77.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC19B-VIO;UIO;UIO;Armenia (A);Pintag (E);;F02;PC19B;VIO;ruta_no_aplica;1;Etiqueta valida
+78.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC18B-AMA;UIO;UIO;Armenia (A);Pintag (E);;F02;PC18B;AMA;ruta_no_aplica;1;Etiqueta valida
+79.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC17B-AMA;UIO;UIO;Armenia (A);Pintag (E);;F02;PC17B;AMA;ruta_no_aplica;1;Etiqueta valida
+80.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC16B-NEG;UIO;UIO;Armenia (A);Pintag (E);;F02;PC16B;NEG;ruta_no_aplica;1;Etiqueta valida
+81.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC15B-NEG;UIO;UIO;Armenia (A);Pintag (E);;F02;PC15B;NEG;ruta_no_aplica;1;Etiqueta valida
+82.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC02B-AZU;UIO;UIO;Armenia (A);Pintag (E);;F02;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+83.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC01B-AZU;UIO;UIO;Armenia (A);Pintag (E);;F02;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+84.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC14B-ROJ;UIO;UIO;Armenia (A);Pintag (E);;F02;PC14B;ROJ;ruta_no_aplica;1;Etiqueta valida
+85.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC13B-ROJ;UIO;UIO;Armenia (A);Pintag (E);;F02;PC13B;ROJ;ruta_no_aplica;1;Etiqueta valida
+86.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC12B-BLA;UIO;UIO;Armenia (A);Pintag (E);;F02;PC12B;BLA;ruta_no_aplica;1;Etiqueta valida
+87.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC11B-BLA;UIO;UIO;Armenia (A);Pintag (E);;F02;PC11B;BLA;ruta_no_aplica;1;Etiqueta valida
+88.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC10B-GRI;UIO;UIO;Armenia (A);Pintag (E);;F02;PC10B;GRI;ruta_no_aplica;1;Etiqueta valida
+89.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC09B-GRI;UIO;UIO;Armenia (A);Pintag (E);;F02;PC09B;GRI;ruta_no_aplica;1;Etiqueta valida
+90.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC08B-CAF;UIO;UIO;Armenia (A);Pintag (E);;F02;PC08B;CAF;ruta_no_aplica;1;Etiqueta valida
+91.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC07B-CAF;UIO;UIO;Armenia (A);Pintag (E);;F02;PC07B;CAF;ruta_no_aplica;1;Etiqueta valida
+92.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC06B-VER;UIO;UIO;Armenia (A);Pintag (E);;F02;PC06B;VER;ruta_no_aplica;1;Etiqueta valida
+93.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC05B-VER;UIO;UIO;Armenia (A);Pintag (E);;F02;PC05B;VER;ruta_no_aplica;1;Etiqueta valida
+94.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC04B-NAR;UIO;UIO;Armenia (A);Pintag (E);;F02;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+95.0;UIO-Armenia (A)-Pintag (E)/N/A-F02-PC03B-NAR;UIO;UIO;Armenia (A);Pintag (E);;F02;PC03B;NAR;ruta_no_aplica;1;Etiqueta valida
+96.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C40B-ROS;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C40B;ROS;ruta_completa;1;Etiqueta valida
+97.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C39B-ROS;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C39B;ROS;ruta_completa;1;Etiqueta valida
+98.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C38B-ROS;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C38B;ROS;ruta_completa;1;Etiqueta valida
+99.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C37B-ROS;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C37B;ROS;ruta_completa;1;Etiqueta valida
+100.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C36B-VIO;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C36B;VIO;ruta_completa;1;Etiqueta valida
+101.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C35B-VIO;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C35B;VIO;ruta_completa;1;Etiqueta valida
+102.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C34B-VIO;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C34B;VIO;ruta_completa;1;Etiqueta valida
+103.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C33B-VIO;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C33B;VIO;ruta_completa;1;Etiqueta valida
+104.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C32B-GRI;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C32B;GRI;ruta_completa;1;Etiqueta valida
+105.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C31B-GRI;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C31B;GRI;ruta_completa;1;Etiqueta valida
+106.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C30B-GRI;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C30B;GRI;ruta_completa;1;Etiqueta valida
+107.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C29B-GRI;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C29B;GRI;ruta_completa;1;Etiqueta valida
+108.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C28B-AZU;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C28B;AZU;ruta_completa;1;Etiqueta valida
+109.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C27B-AZU;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C27B;AZU;ruta_completa;1;Etiqueta valida
+110.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C26B-AZU;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C26B;AZU;ruta_completa;1;Etiqueta valida
+111.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C25B-AZU;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C25B;AZU;ruta_completa;1;Etiqueta valida
+112.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C24B-NEG;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C24B;NEG;ruta_completa;1;Etiqueta valida
+113.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C23B-NEG;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C23B;NEG;ruta_completa;1;Etiqueta valida
+114.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C22B-NEG;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C22B;NEG;ruta_completa;1;Etiqueta valida
+115.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C21B-NEG;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C21B;NEG;ruta_completa;1;Etiqueta valida
+116.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C20B-CAF;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C20B;CAF;ruta_completa;1;Etiqueta valida
+117.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C19B-CAF;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C19B;CAF;ruta_completa;1;Etiqueta valida
+118.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C18B-CAF;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C18B;CAF;ruta_completa;1;Etiqueta valida
+119.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C17B-CAF;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C17B;CAF;ruta_completa;1;Etiqueta valida
+120.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C16B-CEL;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C16B;CEL;ruta_completa;1;Etiqueta valida
+121.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C15B-CEL;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C15B;CEL;ruta_completa;1;Etiqueta valida
+122.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C14B-CEL;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C14B;CEL;ruta_completa;1;Etiqueta valida
+123.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C13B-CEL;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C13B;CEL;ruta_completa;1;Etiqueta valida
+124.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C12B-NAR;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C12B;NAR;ruta_completa;1;Etiqueta valida
+125.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C11B-NAR;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C11B;NAR;ruta_completa;1;Etiqueta valida
+126.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C10B-NAR;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C10B;NAR;ruta_completa;1;Etiqueta valida
+127.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C09B-NAR;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C09B;NAR;ruta_completa;1;Etiqueta valida
+128.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C08B-VER;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C08B;VER;ruta_completa;1;Etiqueta valida
+129.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C07B-VER;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C07B;VER;ruta_completa;1;Etiqueta valida
+130.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C06B-VER;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C06B;VER;ruta_completa;1;Etiqueta valida
+131.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C05B-VER;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C05B;VER;ruta_completa;1;Etiqueta valida
+132.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C04B-AMA;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C04B;AMA;ruta_completa;1;Etiqueta valida
+133.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C03B-AMA;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C03B;AMA;ruta_completa;1;Etiqueta valida
+134.0;UIO-Sur 2 (A)-Recreo (E)/Sur 2 (A)-F01-C02B-AMA;UIO;UIO;Sur 2 (A);Recreo (E);Sur 2 (A);F01;C02B;AMA;ruta_completa;1;Etiqueta valida
+135.0;UIO-Sur 2 (A)-Sur 2 (A)/Recreo (E)-F01-C01B-AMA;UIO;UIO;Sur 2 (A);Sur 2 (A);Recreo (E);F01;C01B;AMA;ruta_completa;1;Etiqueta valida
+136.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC16B-CEL;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC16B;CEL;ruta_no_aplica;1;Etiqueta valida
+137.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC15B-CEL;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC15B;CEL;ruta_no_aplica;1;Etiqueta valida
+138.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC13B-ROS;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC13B;ROS;ruta_no_aplica;1;Etiqueta valida
+139.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC14B-ROS;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC14B;ROS;ruta_no_aplica;1;Etiqueta valida
+140.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC12B-VIO;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC12B;VIO;ruta_no_aplica;1;Etiqueta valida
+141.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC11B-VIO;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC11B;VIO;ruta_no_aplica;1;Etiqueta valida
+142.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC10B-AMA;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC10B;AMA;ruta_no_aplica;1;Etiqueta valida
+143.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC09B-AMA;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC09B;AMA;ruta_no_aplica;1;Etiqueta valida
+144.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC08A-NEG;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC08A;NEG;ruta_no_aplica;1;Etiqueta valida
+145.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC07A-ROJ;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC07A;ROJ;ruta_no_aplica;1;Etiqueta valida
+146.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC03A-VER;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC03A;VER;ruta_no_aplica;1;Etiqueta valida
+147.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC02A-NAR;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC02A;NAR;ruta_no_aplica;1;Etiqueta valida
+148.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC01A-AZU;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC01A;AZU;ruta_no_aplica;1;Etiqueta valida
+149.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC06A-BLA;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC06A;BLA;ruta_no_aplica;1;Etiqueta valida
+150.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC05A-GRI;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC05A;GRI;ruta_no_aplica;1;Etiqueta valida
+151.0;UIO-Sur 2 (A)-Calle H (E)/N/A-F04-PC04A-CAF;UIO;UIO;Sur 2 (A);Calle H (E);;F04;PC04A;CAF;ruta_no_aplica;1;Etiqueta valida
+152.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC24B-CEL;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC24B;CEL;ruta_no_aplica;1;Etiqueta valida
+153.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC23B-CEL;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC23B;CEL;ruta_no_aplica;1;Etiqueta valida
+154.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC22B-ROS;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC22B;ROS;ruta_no_aplica;1;Etiqueta valida
+155.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC21B-ROS;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC21B;ROS;ruta_no_aplica;1;Etiqueta valida
+156.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC20B-VIO;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC20B;VIO;ruta_no_aplica;1;Etiqueta valida
+157.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC19B-VIO;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC19B;VIO;ruta_no_aplica;1;Etiqueta valida
+158.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC18B-AMA;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC18B;AMA;ruta_no_aplica;1;Etiqueta valida
+159.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC17B-AMA;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC17B;AMA;ruta_no_aplica;1;Etiqueta valida
+160.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC16B-NEG;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC16B;NEG;ruta_no_aplica;1;Etiqueta valida
+161.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC15B-NEG;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC15B;NEG;ruta_no_aplica;1;Etiqueta valida
+162.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC14B-ROJ;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC14B;ROJ;ruta_no_aplica;1;Etiqueta valida
+163.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC13B-ROJ;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC13B;ROJ;ruta_no_aplica;1;Etiqueta valida
+164.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC12B-BLA;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC12B;BLA;ruta_no_aplica;1;Etiqueta valida
+165.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC11B-BLA;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC11B;BLA;ruta_no_aplica;1;Etiqueta valida
+166.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC09B-GRI;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC09B;GRI;ruta_no_aplica;1;Etiqueta valida
+167.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC10B-GRI;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC10B;GRI;ruta_no_aplica;1;Etiqueta valida
+168.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC08B-CAF;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC08B;CAF;ruta_no_aplica;1;Etiqueta valida
+169.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC07B-CAF;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC07B;CAF;ruta_no_aplica;1;Etiqueta valida
+170.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC06B-VER;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC06B;VER;ruta_no_aplica;1;Etiqueta valida
+171.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC05B-VER;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC05B;VER;ruta_no_aplica;1;Etiqueta valida
+172.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC04B-NAR;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+173.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC03B-NAR;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC03B;NAR;ruta_no_aplica;1;Etiqueta valida
+174.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC02B-AZU;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+175.0;UIO-Gosseal (A)-Nogales (E)/N/A-F01-PC01B-AZU;UIO;UIO;Gosseal (A);Nogales (E);;F01;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+176.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC12B-CAF;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC12B;CAF;ruta_no_aplica;1;Etiqueta valida
+177.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC11B-CAF;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC11B;CAF;ruta_no_aplica;1;Etiqueta valida
+178.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC10B-CAF;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC10B;CAF;ruta_no_aplica;1;Etiqueta valida
+179.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC09B-VER;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC09B;VER;ruta_no_aplica;1;Etiqueta valida
+180.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC08B-VER;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC08B;VER;ruta_no_aplica;1;Etiqueta valida
+181.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC07B-VER;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC07B;VER;ruta_no_aplica;1;Etiqueta valida
+182.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC06B-NAR;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC06B;NAR;ruta_no_aplica;1;Etiqueta valida
+183.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC05B-NAR;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC05B;NAR;ruta_no_aplica;1;Etiqueta valida
+184.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC04B-NAR;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+185.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC03B-AZU;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC03B;AZU;ruta_no_aplica;1;Etiqueta valida
+186.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC02B-AZU;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+187.0;UIO-Sur 2 (A)-Gualleturo (E)/N/A-F01-PC01B-AZU;UIO;UIO;Sur 2 (A);Gualleturo (E);;F01;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+188.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC16A-CEL;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC16A;CEL;ruta_completa;1;Etiqueta valida
+189.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC15A-ROS;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC15A;ROS;ruta_completa;1;Etiqueta valida
+190.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC14A-VIO;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC14A;VIO;ruta_completa;1;Etiqueta valida
+191.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC13A-AMA;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC13A;AMA;ruta_completa;1;Etiqueta valida
+192.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC12A-NEG;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC12A;NEG;ruta_completa;1;Etiqueta valida
+193.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC11A-ROJ;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC11A;ROJ;ruta_completa;1;Etiqueta valida
+194.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC10A-BLA;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC10A;BLA;ruta_completa;1;Etiqueta valida
+195.0;UIO-Armenia (A)-Pintag (E)/San Nicolas (E)-F01-PC09A-GRI;UIO;UIO;Armenia (A);Pintag (E);San Nicolas (E);F01;PC09A;GRI;ruta_completa;1;Etiqueta valida
+196.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC08A-CEL;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC08A;CEL;ruta_completa;1;Etiqueta valida
+197.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC07A-ROS;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC07A;ROS;ruta_completa;1;Etiqueta valida
+198.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC06A-VIO;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC06A;VIO;ruta_completa;1;Etiqueta valida
+199.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC05A-AMA;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC05A;AMA;ruta_completa;1;Etiqueta valida
+200.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC04A-NEG;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC04A;NEG;ruta_completa;1;Etiqueta valida
+201.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC03A-ROJ;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC03A;ROJ;ruta_completa;1;Etiqueta valida
+202.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC02A-BLA;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC02A;BLA;ruta_completa;1;Etiqueta valida
+203.0;UIO-Armenia (A)-San Nicolas (E)/Pintag (E)-F01-PC01A-GRI;UIO;UIO;Armenia (A);San Nicolas (E);Pintag (E);F01;PC01A;GRI;ruta_completa;1;Etiqueta valida
+204.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC12A-CEL;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC12A;CEL;ruta_no_aplica;1;Etiqueta valida
+205.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC11A-ROS;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC11A;ROS;ruta_no_aplica;1;Etiqueta valida
+206.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC10A-VIO;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC10A;VIO;ruta_no_aplica;1;Etiqueta valida
+207.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC09A-AMA;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC09A;AMA;ruta_no_aplica;1;Etiqueta valida
+208.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC08A-NEG;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC08A;NEG;ruta_no_aplica;1;Etiqueta valida
+209.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC07A-ROJ;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC07A;ROJ;ruta_no_aplica;1;Etiqueta valida
+210.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC06A-BLA;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC06A;BLA;ruta_no_aplica;1;Etiqueta valida
+211.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC05A-GRI;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC05A;GRI;ruta_no_aplica;1;Etiqueta valida
+212.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC04A-CAF;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC04A;CAF;ruta_no_aplica;1;Etiqueta valida
+213.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC03A-VER;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC03A;VER;ruta_no_aplica;1;Etiqueta valida
+214.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC02A-NAR;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC02A;NAR;ruta_no_aplica;1;Etiqueta valida
+215.0;UIO-Borromoni (A)-Tababela (E)/N/A-F01-PC01A-AZU;UIO;UIO;Borromoni (A);Tababela (E);;F01;PC01A;AZU;ruta_no_aplica;1;Etiqueta valida
+216.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C24B-CEL;UIO;UIO;Bodega (E);Roldos (E);;F01;C24B;CEL;ruta_no_aplica;1;Etiqueta valida
+217.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C23B-CEL;UIO;UIO;Bodega (E);Roldos (E);;F01;C23B;CEL;ruta_no_aplica;1;Etiqueta valida
+218.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C22B-ROS;UIO;UIO;Bodega (E);Roldos (E);;F01;C22B;ROS;ruta_no_aplica;1;Etiqueta valida
+219.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C21B-ROS;UIO;UIO;Bodega (E);Roldos (E);;F01;C21B;ROS;ruta_no_aplica;1;Etiqueta valida
+220.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C20B-VIO;UIO;UIO;Bodega (E);Roldos (E);;F01;C20B;VIO;ruta_no_aplica;1;Etiqueta valida
+221.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C19B-VIO;UIO;UIO;Bodega (E);Roldos (E);;F01;C19B;VIO;ruta_no_aplica;1;Etiqueta valida
+222.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C18B-AMA;UIO;UIO;Bodega (E);Roldos (E);;F01;C18B;AMA;ruta_no_aplica;1;Etiqueta valida
+223.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C17B-AMA;UIO;UIO;Bodega (E);Roldos (E);;F01;C17B;AMA;ruta_no_aplica;1;Etiqueta valida
+224.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C16B-NEG;UIO;UIO;Bodega (E);Roldos (E);;F01;C16B;NEG;ruta_no_aplica;1;Etiqueta valida
+225.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C15B-NEG;UIO;UIO;Bodega (E);Roldos (E);;F01;C15B;NEG;ruta_no_aplica;1;Etiqueta valida
+226.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C14B-ROJ;UIO;UIO;Bodega (E);Roldos (E);;F01;C14B;ROJ;ruta_no_aplica;1;Etiqueta valida
+227.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C13B-ROJ;UIO;UIO;Bodega (E);Roldos (E);;F01;C13B;ROJ;ruta_no_aplica;1;Etiqueta valida
+228.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C12B-BLA;UIO;UIO;Bodega (E);Roldos (E);;F01;C12B;BLA;ruta_no_aplica;1;Etiqueta valida
+229.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C11B-BLA;UIO;UIO;Bodega (E);Roldos (E);;F01;C11B;BLA;ruta_no_aplica;1;Etiqueta valida
+230.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C10B-GRI;UIO;UIO;Bodega (E);Roldos (E);;F01;C10B;GRI;ruta_no_aplica;1;Etiqueta valida
+231.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C09B-GRI;UIO;UIO;Bodega (E);Roldos (E);;F01;C09B;GRI;ruta_no_aplica;1;Etiqueta valida
+232.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C08B-CAF;UIO;UIO;Bodega (E);Roldos (E);;F01;C08B;CAF;ruta_no_aplica;1;Etiqueta valida
+233.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C07B-CAF;UIO;UIO;Bodega (E);Roldos (E);;F01;C07B;CAF;ruta_no_aplica;1;Etiqueta valida
+234.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C06B-VER;UIO;UIO;Bodega (E);Roldos (E);;F01;C06B;VER;ruta_no_aplica;1;Etiqueta valida
+235.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C05B-VER;UIO;UIO;Bodega (E);Roldos (E);;F01;C05B;VER;ruta_no_aplica;1;Etiqueta valida
+236.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C04B-NAR;UIO;UIO;Bodega (E);Roldos (E);;F01;C04B;NAR;ruta_no_aplica;1;Etiqueta valida
+237.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C03B-NAR;UIO;UIO;Bodega (E);Roldos (E);;F01;C03B;NAR;ruta_no_aplica;1;Etiqueta valida
+238.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C02B-AZU;UIO;UIO;Bodega (E);Roldos (E);;F01;C02B;AZU;ruta_no_aplica;1;Etiqueta valida
+239.0;UIO-Bodega (E)-Roldos (E)/N/A-F01-C01B-AZU;UIO;UIO;Bodega (E);Roldos (E);;F01;C01B;AZU;ruta_no_aplica;1;Etiqueta valida
+240.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C35B-GRI;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C35B;GRI;ruta_completa;1;Etiqueta valida
+241.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C34B-AZU;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C34B;AZU;ruta_completa;1;Etiqueta valida
+242.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C33B-AZU;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C33B;AZU;ruta_completa;1;Etiqueta valida
+243.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C32B-NEG;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C32B;NEG;ruta_completa;1;Etiqueta valida
+244.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C31B-NEG;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C31B;NEG;ruta_completa;1;Etiqueta valida
+245.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C30B-CAF;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C30B;CAF;ruta_completa;1;Etiqueta valida
+246.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C29B-CAF;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C29B;CAF;ruta_completa;1;Etiqueta valida
+247.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C28B-CEL;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C28B;CEL;ruta_completa;1;Etiqueta valida
+248.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C27B-CEL;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C27B;CEL;ruta_completa;1;Etiqueta valida
+249.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C26B-NAR;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C26B;NAR;ruta_completa;1;Etiqueta valida
+250.0;UIO-Armenia (A)-Vilatuna (E)/Pintag (E)-F01-C25B-NAR;UIO;UIO;Armenia (A);Vilatuna (E);Pintag (E);F01;C25B;NAR;ruta_completa;1;Etiqueta valida
+251.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-P22B-ROS;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;P22B;ROS;ruta_completa;1;Etiqueta valida
+252.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-P21B-ROS;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;P21B;ROS;ruta_completa;1;Etiqueta valida
+253.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-P20B-ROS;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;P20B;ROS;ruta_completa;1;Etiqueta valida
+254.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-P19B-ROS;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;P19B;ROS;ruta_completa;1;Etiqueta valida
+255.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD18B-VIO;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD18B;VIO;ruta_completa;1;Etiqueta valida
+256.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD17B-VIO;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD17B;VIO;ruta_completa;1;Etiqueta valida
+257.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD16B-GRI;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD16B;GRI;ruta_completa;1;Etiqueta valida
+258.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD15B-GRI;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD15B;GRI;ruta_completa;1;Etiqueta valida
+259.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD14B-AZU;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD14B;AZU;ruta_completa;1;Etiqueta valida
+260.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD13B-AZU;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD13B;AZU;ruta_completa;1;Etiqueta valida
+261.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD12B-NEG;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD12B;NEG;ruta_completa;1;Etiqueta valida
+262.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD11B-NEG;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD11B;NEG;ruta_completa;1;Etiqueta valida
+263.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD10B-CAF;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD10B;CAF;ruta_completa;1;Etiqueta valida
+264.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD09B-CAF;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD09B;CAF;ruta_completa;1;Etiqueta valida
+265.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD08B-CEL;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD08B;CEL;ruta_completa;1;Etiqueta valida
+266.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD07B-CEL;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD07B;CEL;ruta_completa;1;Etiqueta valida
+267.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD06B-NAR;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD06B;NAR;ruta_completa;1;Etiqueta valida
+268.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD05B-NAR;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD05B;NAR;ruta_completa;1;Etiqueta valida
+269.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD04B-VER;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD04B;VER;ruta_completa;1;Etiqueta valida
+270.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD03B-VER;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD03B;VER;ruta_completa;1;Etiqueta valida
+271.0;GYE-Centro 1(A)-Polideportivo Huancavilca 1(E)/Centro 1(A)-F02-PD02B-AMA;GYE;GYE;Centro 1(A);Polideportivo Huancavilca 1(E);Centro 1(A);F02;PD02B;AMA;ruta_completa;1;Etiqueta valida
+272.0;GYE-Centro 1(A)-Centro 1(A)/Polideportivo Huancavilca 1(E)-F02-PD01B-AMA;GYE;GYE;Centro 1(A);Centro 1(A);Polideportivo Huancavilca 1(E);F02;PD01B;AMA;ruta_completa;1;Etiqueta valida
+273.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC40B-CEL;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC40B;CEL;ruta_completa;1;Etiqueta valida
+274.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC39B-CEL;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC39B;CEL;ruta_completa;1;Etiqueta valida
+275.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC38B-CEL;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC38B;CEL;ruta_completa;1;Etiqueta valida
+276.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC37B-CEL;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC37B;CEL;ruta_completa;1;Etiqueta valida
+277.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC36B-ROS;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC36B;ROS;ruta_completa;1;Etiqueta valida
+278.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC35B-ROS;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC35B;ROS;ruta_completa;1;Etiqueta valida
+279.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC34B-ROS;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC34B;ROS;ruta_completa;1;Etiqueta valida
+280.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC33B-ROS;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC33B;ROS;ruta_completa;1;Etiqueta valida
+281.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC32B-VIO;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC32B;VIO;ruta_completa;1;Etiqueta valida
+282.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC31B-VIO;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC31B;VIO;ruta_completa;1;Etiqueta valida
+283.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC30B-VIO;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC30B;VIO;ruta_completa;1;Etiqueta valida
+284.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC29B-VIO;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC29B;VIO;ruta_completa;1;Etiqueta valida
+285.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC28B-AMA;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC28B;AMA;ruta_completa;1;Etiqueta valida
+286.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC27B-AMA;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC27B;AMA;ruta_completa;1;Etiqueta valida
+287.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC26B-AMA;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC26B;AMA;ruta_completa;1;Etiqueta valida
+288.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC25B-AMA;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC25B;AMA;ruta_completa;1;Etiqueta valida
+289.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC24B-NEG;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC24B;NEG;ruta_completa;1;Etiqueta valida
+290.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC23B-NEG;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC23B;NEG;ruta_completa;1;Etiqueta valida
+291.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC22B-NEG;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC22B;NEG;ruta_completa;1;Etiqueta valida
+292.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC21B-NEG;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC21B;NEG;ruta_completa;1;Etiqueta valida
+293.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC20B-ROJ;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC20B;ROJ;ruta_completa;1;Etiqueta valida
+294.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC19B-ROJ;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC19B;ROJ;ruta_completa;1;Etiqueta valida
+295.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC18B-ROJ;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC18B;ROJ;ruta_completa;1;Etiqueta valida
+296.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC17B-ROJ;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC17B;ROJ;ruta_completa;1;Etiqueta valida
+297.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC16B-BLA;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC16B;BLA;ruta_completa;1;Etiqueta valida
+298.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC15B-BLA;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC15B;BLA;ruta_completa;1;Etiqueta valida
+299.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC14B-BLA;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC14B;BLA;ruta_completa;1;Etiqueta valida
+300.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-P13B-BLA;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;P13B;BLA;ruta_completa;1;Etiqueta valida
+301.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-P12B-GRI;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;P12B;GRI;ruta_completa;1;Etiqueta valida
+302.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-P11B-GRI;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;P11B;GRI;ruta_completa;1;Etiqueta valida
+303.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-P10B-GRI;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;P10B;GRI;ruta_completa;1;Etiqueta valida
+304.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC09B-GRI;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC09B;GRI;ruta_completa;1;Etiqueta valida
+305.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC08B-CAF;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC08B;CAF;ruta_completa;1;Etiqueta valida
+306.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC07B-CAF;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC07B;CAF;ruta_completa;1;Etiqueta valida
+307.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC06B-CAF;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC06B;CAF;ruta_completa;1;Etiqueta valida
+308.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC05B-CAF;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC05B;CAF;ruta_completa;1;Etiqueta valida
+309.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC04B-VER;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC04B;VER;ruta_completa;1;Etiqueta valida
+310.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC03B-VER;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC03B;VER;ruta_completa;1;Etiqueta valida
+311.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F04-PC02B-VER;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F04;PC02B;VER;ruta_completa;1;Etiqueta valida
+312.0;GYE-Kennedy 1(A)-Alborada 1(E)/Alborada 3(E)-F04-PC01B-VER;GYE;GYE;Kennedy 1(A);Alborada 1(E);Alborada 3(E);F04;PC01B;VER;ruta_completa;1;Etiqueta valida
+313.0;GYE-Kennedy 1(A)-Alborada 3(E)/Alborada 1(E)-F05-PC20A-CEL;GYE;GYE;Kennedy 1(A);Alborada 3(E);Alborada 1(E);F05;PC20A;CEL;ruta_completa;1;Etiqueta valida
+696.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC43B-VIO;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC43B;VIO;ruta_completa;1;Etiqueta valida
+697.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC42B-AMA;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC42B;AMA;ruta_completa;1;Etiqueta valida
+698.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC41B-AMA;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC41B;AMA;ruta_completa;1;Etiqueta valida
+699.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC40B-AMA;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC40B;AMA;ruta_completa;1;Etiqueta valida
+700.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC39B-AMA;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC39B;AMA;ruta_completa;1;Etiqueta valida
+701.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC38B-AMA;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC38B;AMA;ruta_completa;1;Etiqueta valida
+702.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC37B-AMA;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC37B;AMA;ruta_completa;1;Etiqueta valida
+703.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC36B-NEG;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC36B;NEG;ruta_completa;1;Etiqueta valida
+704.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC35B-NEG;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC35B;NEG;ruta_completa;1;Etiqueta valida
+705.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC34B-NEG;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC34B;NEG;ruta_completa;1;Etiqueta valida
+706.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC33B-NEG;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC33B;NEG;ruta_completa;1;Etiqueta valida
+707.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC32B-NEG;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC32B;NEG;ruta_completa;1;Etiqueta valida
+708.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC31B-NEG;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC31B;NEG;ruta_completa;1;Etiqueta valida
+709.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC30B-ROJ;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC30B;ROJ;ruta_completa;1;Etiqueta valida
+710.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC29B-ROJ;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC29B;ROJ;ruta_completa;1;Etiqueta valida
+711.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC28B-ROJ;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC28B;ROJ;ruta_completa;1;Etiqueta valida
+712.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC27B-ROJ;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC27B;ROJ;ruta_completa;1;Etiqueta valida
+713.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC26B-ROJ;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC26B;ROJ;ruta_completa;1;Etiqueta valida
+714.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC25B-ROJ;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC25B;ROJ;ruta_completa;1;Etiqueta valida
+715.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC24B-BLA;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC24B;BLA;ruta_completa;1;Etiqueta valida
+716.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC23B-BLA;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC23B;BLA;ruta_completa;1;Etiqueta valida
+717.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC22B-BLA;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC22B;BLA;ruta_completa;1;Etiqueta valida
+718.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC21B-BLA;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC21B;BLA;ruta_completa;1;Etiqueta valida
+719.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC20B-BLA;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC20B;BLA;ruta_completa;1;Etiqueta valida
+720.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC19B-BLA;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC19B;BLA;ruta_completa;1;Etiqueta valida
+721.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC18B-GRI;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC18B;GRI;ruta_completa;1;Etiqueta valida
+722.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC17B-GRI;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC17B;GRI;ruta_completa;1;Etiqueta valida
+723.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC16B-GRI;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC16B;GRI;ruta_completa;1;Etiqueta valida
+724.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC15B-GRI;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC15B;GRI;ruta_completa;1;Etiqueta valida
+725.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC14B-GRI;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC14B;GRI;ruta_completa;1;Etiqueta valida
+726.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC13B-GRI;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC13B;GRI;ruta_completa;1;Etiqueta valida
+727.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC12B-CAF;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC12B;CAF;ruta_completa;1;Etiqueta valida
+728.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC11B-CAF;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC11B;CAF;ruta_completa;1;Etiqueta valida
+729.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC10B-CAF;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC10B;CAF;ruta_completa;1;Etiqueta valida
+730.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC09B-CAF;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC09B;CAF;ruta_completa;1;Etiqueta valida
+731.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC08B-CAF;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC08B;CAF;ruta_completa;1;Etiqueta valida
+732.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC07B-CAF;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC07B;CAF;ruta_completa;1;Etiqueta valida
+733.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC06B-VER;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC06B;VER;ruta_completa;1;Etiqueta valida
+734.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC05B-VER;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC05B;VER;ruta_completa;1;Etiqueta valida
+735.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC04B-VER;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC04B;VER;ruta_completa;1;Etiqueta valida
+736.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC03B-VER;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC03B;VER;ruta_completa;1;Etiqueta valida
+737.0;CUE-Bellavista (A)-Mall del Rio (E)/Control Sur (E)-F04-PC02B-VER;CUE;CUE;Bellavista (A);Mall del Rio (E);Control Sur (E);F04;PC02B;VER;ruta_completa;1;Etiqueta valida
+738.0;CUE-Bellavista (A)-Control Sur (E)/Mall del Rio (E)-F04-PC01B-VER;CUE;CUE;Bellavista (A);Control Sur (E);Mall del Rio (E);F04;PC01B;VER;ruta_completa;1;Etiqueta valida
+739.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC36B-CEL;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC36B;CEL;ruta_no_aplica;1;Etiqueta valida
+740.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC35B-CEL;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC35B;CEL;ruta_no_aplica;1;Etiqueta valida
+741.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC34B-CEL;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC34B;CEL;ruta_no_aplica;1;Etiqueta valida
+742.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC33B-ROS;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC33B;ROS;ruta_no_aplica;1;Etiqueta valida
+743.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC32B-ROS;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC32B;ROS;ruta_no_aplica;1;Etiqueta valida
+744.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC31B-ROS;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC31B;ROS;ruta_no_aplica;1;Etiqueta valida
+745.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC30B-VIO;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC30B;VIO;ruta_no_aplica;1;Etiqueta valida
+746.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC29B-VIO;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC29B;VIO;ruta_no_aplica;1;Etiqueta valida
+747.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC28B-VIO;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC28B;VIO;ruta_no_aplica;1;Etiqueta valida
+748.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC27B-AMA;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC27B;AMA;ruta_no_aplica;1;Etiqueta valida
+749.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC26B-AMA;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC26B;AMA;ruta_no_aplica;1;Etiqueta valida
+750.0;CUE-Bellavista (A)-El Valle (E)/N/A-F02-PC25B-AMA;CUE;CUE;Bellavista (A);El Valle (E);;F02;PC25B;AMA;ruta_no_aplica;1;Etiqueta valida
+751.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC24B-CEL;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC24B;CEL;ruta_no_aplica;1;Etiqueta valida
+752.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC23B-CEL;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC23B;CEL;ruta_no_aplica;1;Etiqueta valida
+753.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC22B-ROS;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC22B;ROS;ruta_no_aplica;1;Etiqueta valida
+754.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC21B-ROS;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC21B;ROS;ruta_no_aplica;1;Etiqueta valida
+755.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC20B-VIO;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC20B;VIO;ruta_no_aplica;1;Etiqueta valida
+756.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC19B-VIO;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC19B;VIO;ruta_no_aplica;1;Etiqueta valida
+757.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC18B-AMA;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC18B;AMA;ruta_no_aplica;1;Etiqueta valida
+758.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC17B-AMA;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC17B;AMA;ruta_no_aplica;1;Etiqueta valida
+759.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC16B-NEG;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC16B;NEG;ruta_no_aplica;1;Etiqueta valida
+760.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC15B-NEG;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC15B;NEG;ruta_no_aplica;1;Etiqueta valida
+761.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC14B-ROJ;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC14B;ROJ;ruta_no_aplica;1;Etiqueta valida
+762.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC13B-ROJ;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC13B;ROJ;ruta_no_aplica;1;Etiqueta valida
+763.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC12B-BLA;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC12B;BLA;ruta_no_aplica;1;Etiqueta valida
+764.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC11B-BLA;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC11B;BLA;ruta_no_aplica;1;Etiqueta valida
+765.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC10B-GRI;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC10B;GRI;ruta_no_aplica;1;Etiqueta valida
+766.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC09B-GRI;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC09B;GRI;ruta_no_aplica;1;Etiqueta valida
+767.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC08B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC08B;CAF;ruta_no_aplica;1;Etiqueta valida
+768.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC07B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC07B;CAF;ruta_no_aplica;1;Etiqueta valida
+769.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC06B-VER;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC06B;VER;ruta_no_aplica;1;Etiqueta valida
+770.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC05B-VER;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC05B;VER;ruta_no_aplica;1;Etiqueta valida
+771.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC04B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+772.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC03B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC03B;NAR;ruta_no_aplica;1;Etiqueta valida
+773.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC02B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+774.0;STA-Portoviejo (A)-Ayacucho (E)/N/A-F01-PC01B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E);;F01;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+775.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC40B-CEL;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC40B;CEL;ruta_completa;1;Etiqueta valida
+776.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC39B-CEL;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC39B;CEL;ruta_completa;1;Etiqueta valida
+777.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC38B-CEL;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC38B;CEL;ruta_completa;1;Etiqueta valida
+778.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC37B-CEL;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC37B;CEL;ruta_completa;1;Etiqueta valida
+779.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC36B-ROS;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC36B;ROS;ruta_completa;1;Etiqueta valida
+780.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC35B-ROS;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC35B;ROS;ruta_completa;1;Etiqueta valida
+781.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC34B-ROS;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC34B;ROS;ruta_completa;1;Etiqueta valida
+782.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC33B-ROS;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC33B;ROS;ruta_completa;1;Etiqueta valida
+783.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC32B-VIO;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC32B;VIO;ruta_completa;1;Etiqueta valida
+784.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC31B-VIO;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC31B;VIO;ruta_completa;1;Etiqueta valida
+785.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC30B-VIO;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC30B;VIO;ruta_completa;1;Etiqueta valida
+786.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC29B-VIO;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC29B;VIO;ruta_completa;1;Etiqueta valida
+787.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC28B-AMA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC28B;AMA;ruta_completa;1;Etiqueta valida
+788.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC27B-AMA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC27B;AMA;ruta_completa;1;Etiqueta valida
+789.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC26B-AMA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC26B;AMA;ruta_completa;1;Etiqueta valida
+790.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC25B-AMA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC25B;AMA;ruta_completa;1;Etiqueta valida
+791.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC24B-NEG;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC24B;NEG;ruta_completa;1;Etiqueta valida
+792.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC23B-NEG;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC23B;NEG;ruta_completa;1;Etiqueta valida
+793.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC22B-NEG;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC22B;NEG;ruta_completa;1;Etiqueta valida
+794.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC21B-NEG;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC21B;NEG;ruta_completa;1;Etiqueta valida
+795.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC20B-ROJ;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC20B;ROJ;ruta_completa;1;Etiqueta valida
+796.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC19B-ROJ;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC19B;ROJ;ruta_completa;1;Etiqueta valida
+797.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC18B-ROJ;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC18B;ROJ;ruta_completa;1;Etiqueta valida
+798.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC17B-ROJ;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC17B;ROJ;ruta_completa;1;Etiqueta valida
+799.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC16B-BLA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC16B;BLA;ruta_completa;1;Etiqueta valida
+800.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC15B-BLA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC15B;BLA;ruta_completa;1;Etiqueta valida
+801.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC14B-BLA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC14B;BLA;ruta_completa;1;Etiqueta valida
+802.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC13B-BLA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC13B;BLA;ruta_completa;1;Etiqueta valida
+803.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC12B-GRI;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC12B;GRI;ruta_completa;1;Etiqueta valida
+804.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC11B-GRI;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC11B;GRI;ruta_completa;1;Etiqueta valida
+805.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC10B-GRI;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC10B;GRI;ruta_completa;1;Etiqueta valida
+806.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC09B-GRI;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC09B;GRI;ruta_completa;1;Etiqueta valida
+807.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC08B-CAF;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC08B;CAF;ruta_completa;1;Etiqueta valida
+808.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC07B-CAF;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC07B;CAF;ruta_completa;1;Etiqueta valida
+809.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC06B-CAF;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC06B;CAF;ruta_completa;1;Etiqueta valida
+810.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC05B-CAF;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC05B;CAF;ruta_completa;1;Etiqueta valida
+811.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC04B-VER;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC04B;VER;ruta_completa;1;Etiqueta valida
+812.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC03B-VER;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC03B;VER;ruta_completa;1;Etiqueta valida
+813.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F03-PC02B-VER;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F03;PC02B;VER;ruta_completa;1;Etiqueta valida
+814.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F03-PC01B-VER;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F03;PC01B;VER;ruta_completa;1;Etiqueta valida
+815.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC40B-CEL;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC40B;CEL;ruta_completa;1;Etiqueta valida
+816.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC39B-CEL;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC39B;CEL;ruta_completa;1;Etiqueta valida
+817.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC38B-CEL;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC38B;CEL;ruta_completa;1;Etiqueta valida
+818.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC37B-CEL;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC37B;CEL;ruta_completa;1;Etiqueta valida
+819.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC36B-ROS;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC36B;ROS;ruta_completa;1;Etiqueta valida
+820.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC35B-ROS;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC35B;ROS;ruta_completa;1;Etiqueta valida
+821.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC34B-ROS;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC34B;ROS;ruta_completa;1;Etiqueta valida
+822.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC33B-ROS;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC33B;ROS;ruta_completa;1;Etiqueta valida
+823.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC32B-VIO;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC32B;VIO;ruta_completa;1;Etiqueta valida
+824.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC31B-VIO;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC31B;VIO;ruta_completa;1;Etiqueta valida
+825.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC30B-VIO;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC30B;VIO;ruta_completa;1;Etiqueta valida
+826.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC29B-VIO;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC29B;VIO;ruta_completa;1;Etiqueta valida
+827.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC28B-AMA;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC28B;AMA;ruta_completa;1;Etiqueta valida
+828.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC27B-AMA;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC27B;AMA;ruta_completa;1;Etiqueta valida
+829.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC26B-AMA;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC26B;AMA;ruta_completa;1;Etiqueta valida
+830.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC25B-AMA;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC25B;AMA;ruta_completa;1;Etiqueta valida
+831.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC24B-NEG;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC24B;NEG;ruta_completa;1;Etiqueta valida
+832.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC23B-NEG;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC23B;NEG;ruta_completa;1;Etiqueta valida
+833.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC22B-NEG;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC22B;NEG;ruta_completa;1;Etiqueta valida
+834.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC21B-NEG;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC21B;NEG;ruta_completa;1;Etiqueta valida
+835.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC20B-ROJ;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC20B;ROJ;ruta_completa;1;Etiqueta valida
+836.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC19B-ROJ;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC19B;ROJ;ruta_completa;1;Etiqueta valida
+837.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC18B-ROJ;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC18B;ROJ;ruta_completa;1;Etiqueta valida
+838.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC17B-ROJ;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC17B;ROJ;ruta_completa;1;Etiqueta valida
+839.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC16B-BLA;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC16B;BLA;ruta_completa;1;Etiqueta valida
+840.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC15B-BLA;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC15B;BLA;ruta_completa;1;Etiqueta valida
+841.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC14B-BLA;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC14B;BLA;ruta_completa;1;Etiqueta valida
+842.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC13B-BLA;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC13B;BLA;ruta_completa;1;Etiqueta valida
+843.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC12B-GRI;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC12B;GRI;ruta_completa;1;Etiqueta valida
+844.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC11B-GRI;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC11B;GRI;ruta_completa;1;Etiqueta valida
+845.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC10B-GRI;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC10B;GRI;ruta_completa;1;Etiqueta valida
+846.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC09B-GRI;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC09B;GRI;ruta_completa;1;Etiqueta valida
+847.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC08B-CAF;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC08B;CAF;ruta_completa;1;Etiqueta valida
+848.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC07B-CAF;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC07B;CAF;ruta_completa;1;Etiqueta valida
+849.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC06B-CAF;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC06B;CAF;ruta_completa;1;Etiqueta valida
+850.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC05B-CAF;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC05B;CAF;ruta_completa;1;Etiqueta valida
+851.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC04B-VER;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC04B;VER;ruta_completa;1;Etiqueta valida
+852.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC03B-VER;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC03B;VER;ruta_completa;1;Etiqueta valida
+853.0;PVO-Portoviejo (A)-San Alejo (E)(B)/San Alejo (E)(A)-F01-PC02B-VER;MNT;PVO;Portoviejo (A);San Alejo (E)(B);San Alejo (E)(A);F01;PC02B;VER;ruta_completa;1;Etiqueta valida
+854.0;PVO-Portoviejo (A)-San Alejo (E)(A)/San Alejo (E)(B)-F01-PC01B-VER;MNT;PVO;Portoviejo (A);San Alejo (E)(A);San Alejo (E)(B);F01;PC01B;VER;ruta_completa;1;Etiqueta valida
+855.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC12B-CAF;MNT;SCR;Parrales (A);Sucre (E);;F03;PC12B;CAF;ruta_no_aplica;1;Etiqueta valida
+856.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC11B-CAF;MNT;SCR;Parrales (A);Sucre (E);;F03;PC11B;CAF;ruta_no_aplica;1;Etiqueta valida
+857.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC10B-CAF;MNT;SCR;Parrales (A);Sucre (E);;F03;PC10B;CAF;ruta_no_aplica;1;Etiqueta valida
+858.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC09B-VER;MNT;SCR;Parrales (A);Sucre (E);;F03;PC09B;VER;ruta_no_aplica;1;Etiqueta valida
+859.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC08B-VER;MNT;SCR;Parrales (A);Sucre (E);;F03;PC08B;VER;ruta_no_aplica;1;Etiqueta valida
+860.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC07B-VER;MNT;SCR;Parrales (A);Sucre (E);;F03;PC07B;VER;ruta_no_aplica;1;Etiqueta valida
+861.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC06B-NAR;MNT;SCR;Parrales (A);Sucre (E);;F03;PC06B;NAR;ruta_no_aplica;1;Etiqueta valida
+862.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC05B-NAR;MNT;SCR;Parrales (A);Sucre (E);;F03;PC05B;NAR;ruta_no_aplica;1;Etiqueta valida
+863.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC04B-NAR;MNT;SCR;Parrales (A);Sucre (E);;F03;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+864.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC03B-AZU;MNT;SCR;Parrales (A);Sucre (E);;F03;PC03B;AZU;ruta_no_aplica;1;Etiqueta valida
+865.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC02B-AZU;MNT;SCR;Parrales (A);Sucre (E);;F03;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+866.0;SCR-Parrales (A)-Sucre (E)/N/A-F03-PC01B-AZU;MNT;SCR;Parrales (A);Sucre (E);;F03;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+867.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC24B-CEL;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC24B;CEL;ruta_no_aplica;1;Etiqueta valida
+868.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC23B-CEL;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC23B;CEL;ruta_no_aplica;1;Etiqueta valida
+869.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC22B-ROS;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC22B;ROS;ruta_no_aplica;1;Etiqueta valida
+870.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC21B-ROS;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC21B;ROS;ruta_no_aplica;1;Etiqueta valida
+871.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC20B-VIO;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC20B;VIO;ruta_no_aplica;1;Etiqueta valida
+872.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC19B-VIO;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC19B;VIO;ruta_no_aplica;1;Etiqueta valida
+873.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC18B-AMA;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC18B;AMA;ruta_no_aplica;1;Etiqueta valida
+874.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC17B-AMA;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC17B;AMA;ruta_no_aplica;1;Etiqueta valida
+875.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC16B-NEG;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC16B;NEG;ruta_no_aplica;1;Etiqueta valida
+876.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC15B-NEG;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC15B;NEG;ruta_no_aplica;1;Etiqueta valida
+877.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC14B-ROJ;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC14B;ROJ;ruta_no_aplica;1;Etiqueta valida
+878.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC13B-ROJ;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC13B;ROJ;ruta_no_aplica;1;Etiqueta valida
+879.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC12B-BLA;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC12B;BLA;ruta_no_aplica;1;Etiqueta valida
+880.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC11B-BLA;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC11B;BLA;ruta_no_aplica;1;Etiqueta valida
+881.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC10B-GRI;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC10B;GRI;ruta_no_aplica;1;Etiqueta valida
+882.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC09B-GRI;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC09B;GRI;ruta_no_aplica;1;Etiqueta valida
+883.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC08B-CAF;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC08B;CAF;ruta_no_aplica;1;Etiqueta valida
+884.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC07B-CAF;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC07B;CAF;ruta_no_aplica;1;Etiqueta valida
+885.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC06B-VER;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC06B;VER;ruta_no_aplica;1;Etiqueta valida
+886.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC05B-VER;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC05B;VER;ruta_no_aplica;1;Etiqueta valida
+887.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC04B-NAR;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC04B;NAR;ruta_no_aplica;1;Etiqueta valida
+888.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC03B-NAR;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC03B;NAR;ruta_no_aplica;1;Etiqueta valida
+889.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC02B-AZU;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC02B;AZU;ruta_no_aplica;1;Etiqueta valida
+890.0;PTL-Puerto Lopez (A)-Puerto Lopez (A)/N/A-F02-PC01B-AZU;MNT;PTL;Puerto Lopez (A);Puerto Lopez (A);;F02;PC01B;AZU;ruta_no_aplica;1;Etiqueta valida
+891.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC28B-AMA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC28B;AMA;ruta_completa;1;Etiqueta valida
+892.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC27B-AMA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC27B;AMA;ruta_completa;1;Etiqueta valida
+893.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC26B-AMA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC26B;AMA;ruta_completa;1;Etiqueta valida
+894.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC25B-AMA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC25B;AMA;ruta_completa;1;Etiqueta valida
+895.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC24B-NEG;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC24B;NEG;ruta_completa;1;Etiqueta valida
+896.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC23B-NEG;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC23B;NEG;ruta_completa;1;Etiqueta valida
+897.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC22B-NEG;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC22B;NEG;ruta_completa;1;Etiqueta valida
+898.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC21B-NEG;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC21B;NEG;ruta_completa;1;Etiqueta valida
+899.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC20B-ROJ;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC20B;ROJ;ruta_completa;1;Etiqueta valida
+900.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC19B-ROJ;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC19B;ROJ;ruta_completa;1;Etiqueta valida
+901.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC18B-ROJ;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC18B;ROJ;ruta_completa;1;Etiqueta valida
+902.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC17B-ROJ;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC17B;ROJ;ruta_completa;1;Etiqueta valida
+903.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC16B-BLA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC16B;BLA;ruta_completa;1;Etiqueta valida
+904.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC15B-BLA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC15B;BLA;ruta_completa;1;Etiqueta valida
+905.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC14B-BLA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC14B;BLA;ruta_completa;1;Etiqueta valida
+906.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC40B-CEL;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC40B;CEL;ruta_completa;1;Etiqueta valida
+907.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC39B-CEL;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC39B;CEL;ruta_completa;1;Etiqueta valida
+908.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC38B-CEL;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC38B;CEL;ruta_completa;1;Etiqueta valida
+909.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC37B-CEL;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC37B;CEL;ruta_completa;1;Etiqueta valida
+910.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC36B-ROS;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC36B;ROS;ruta_completa;1;Etiqueta valida
+911.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC35B-ROS;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC35B;ROS;ruta_completa;1;Etiqueta valida
+912.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC34B-ROS;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC34B;ROS;ruta_completa;1;Etiqueta valida
+913.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC33B-ROS;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC33B;ROS;ruta_completa;1;Etiqueta valida
+914.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC32B-VIO;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC32B;VIO;ruta_completa;1;Etiqueta valida
+915.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC31B-VIO;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC31B;VIO;ruta_completa;1;Etiqueta valida
+916.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC30B-VIO;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC30B;VIO;ruta_completa;1;Etiqueta valida
+917.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC29B-VIO;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC29B;VIO;ruta_completa;1;Etiqueta valida
+918.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC13B-BLA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC13B;BLA;ruta_completa;1;Etiqueta valida
+919.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC12B-GRI;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC12B;GRI;ruta_completa;1;Etiqueta valida
+920.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC11B-GRI;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC11B;GRI;ruta_completa;1;Etiqueta valida
+921.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC10B-GRI;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC10B;GRI;ruta_completa;1;Etiqueta valida
+922.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC09B-GRI;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC09B;GRI;ruta_completa;1;Etiqueta valida
+923.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC08B-CAF;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC08B;CAF;ruta_completa;1;Etiqueta valida
+924.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC07B-CAF;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC07B;CAF;ruta_completa;1;Etiqueta valida
+925.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC06B-CAF;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC06B;CAF;ruta_completa;1;Etiqueta valida
+926.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC05B-CAF;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC05B;CAF;ruta_completa;1;Etiqueta valida
+927.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC04B-VER;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC04B;VER;ruta_completa;1;Etiqueta valida
+928.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC03B-VER;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC03B;VER;ruta_completa;1;Etiqueta valida
+929.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F01-PC02B-VER;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F01;PC02B;VER;ruta_completa;1;Etiqueta valida
+930.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F01-PC01B-VER;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F01;PC01B;VER;ruta_completa;1;Etiqueta valida
+931.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC40B-CEL;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC40B;CEL;ruta_completa;1;Etiqueta valida
+932.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC39B-CEL;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC39B;CEL;ruta_completa;1;Etiqueta valida
+933.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC38B-CEL;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC38B;CEL;ruta_completa;1;Etiqueta valida
+934.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC37B-CEL;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC37B;CEL;ruta_completa;1;Etiqueta valida
+935.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC36B-ROS;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC36B;ROS;ruta_completa;1;Etiqueta valida
+936.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC35B-ROS;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC35B;ROS;ruta_completa;1;Etiqueta valida
+937.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC34B-ROS;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC34B;ROS;ruta_completa;1;Etiqueta valida
+938.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC33B-ROS;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC33B;ROS;ruta_completa;1;Etiqueta valida
+939.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC32B-VIO;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC32B;VIO;ruta_completa;1;Etiqueta valida
+940.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC31B-VIO;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC31B;VIO;ruta_completa;1;Etiqueta valida
+941.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC30B-VIO;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC30B;VIO;ruta_completa;1;Etiqueta valida
+942.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC29B-VIO;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC29B;VIO;ruta_completa;1;Etiqueta valida
+943.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC28B-AMA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC28B;AMA;ruta_completa;1;Etiqueta valida
+944.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC27B-AMA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC27B;AMA;ruta_completa;1;Etiqueta valida
+945.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC26B-AMA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC26B;AMA;ruta_completa;1;Etiqueta valida
+946.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC25B-AMA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC25B;AMA;ruta_completa;1;Etiqueta valida
+947.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC24B-NEG;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC24B;NEG;ruta_completa;1;Etiqueta valida
+948.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC23B-NEG;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC23B;NEG;ruta_completa;1;Etiqueta valida
+949.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC22B-NEG;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC22B;NEG;ruta_completa;1;Etiqueta valida
+950.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC21B-NEG;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC21B;NEG;ruta_completa;1;Etiqueta valida
+951.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC20B-ROJ;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC20B;ROJ;ruta_completa;1;Etiqueta valida
+952.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC19B-ROJ;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC19B;ROJ;ruta_completa;1;Etiqueta valida
+953.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC18B-ROJ;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC18B;ROJ;ruta_completa;1;Etiqueta valida
+954.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC17B-ROJ;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC17B;ROJ;ruta_completa;1;Etiqueta valida
+955.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC16B-BLA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC16B;BLA;ruta_completa;1;Etiqueta valida
+956.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC15B-BLA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC15B;BLA;ruta_completa;1;Etiqueta valida
+957.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC14B-BLA;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC14B;BLA;ruta_completa;1;Etiqueta valida
+958.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC13B-BLA;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC13B;BLA;ruta_completa;1;Etiqueta valida
+959.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC12B-GRI;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC12B;GRI;ruta_completa;1;Etiqueta valida
+960.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC11B-GRI;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC11B;GRI;ruta_completa;1;Etiqueta valida
+961.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC10B-GRI;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC10B;GRI;ruta_completa;1;Etiqueta valida
+962.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC09B-GRI;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC09B;GRI;ruta_completa;1;Etiqueta valida
+963.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC08B-CAF;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC08B;CAF;ruta_completa;1;Etiqueta valida
+964.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC07B-CAF;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC07B;CAF;ruta_completa;1;Etiqueta valida
+965.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC06B-CAF;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC06B;CAF;ruta_completa;1;Etiqueta valida
+966.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC05B-CAF;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC05B;CAF;ruta_completa;1;Etiqueta valida
+967.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC04B-VER;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC04B;VER;ruta_completa;1;Etiqueta valida
+968.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC03B-VER;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC03B;VER;ruta_completa;1;Etiqueta valida
+969.0;JIP-Parrales (A)-Jipijapa SDH (A)/Parrales (A)-F02-PC02B-VER;MNT;JIP;Parrales (A);Jipijapa SDH (A);Parrales (A);F02;PC02B;VER;ruta_completa;1;Etiqueta valida
+970.0;JIP-Parrales (A)-Parrales (A)/Jipijapa SDH (A)-F02-PC01B-VER;MNT;JIP;Parrales (A);Parrales (A);Jipijapa SDH (A);F02;PC01B;VER;ruta_completa;1;Etiqueta valida
+971.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC24B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC24B;CAF;ruta_completa;1;Etiqueta valida
+972.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC23B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC23B;CAF;ruta_completa;1;Etiqueta valida
+973.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC22B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC22B;CAF;ruta_completa;1;Etiqueta valida
+974.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC21B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC21B;CAF;ruta_completa;1;Etiqueta valida
+975.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC20B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC20B;CAF;ruta_completa;1;Etiqueta valida
+976.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC19B-CAF;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC19B;CAF;ruta_completa;1;Etiqueta valida
+977.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC18B-VER;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC18B;VER;ruta_completa;1;Etiqueta valida
+978.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC17B-VER;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC17B;VER;ruta_completa;1;Etiqueta valida
+979.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC16B-VER;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC16B;VER;ruta_completa;1;Etiqueta valida
+980.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC15B-VER;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC15B;VER;ruta_completa;1;Etiqueta valida
+981.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC14B-VER;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC14B;VER;ruta_completa;1;Etiqueta valida
+982.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC13B-VER;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC13B;VER;ruta_completa;1;Etiqueta valida
+983.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC12B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC12B;NAR;ruta_completa;1;Etiqueta valida
+984.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC11B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC11B;NAR;ruta_completa;1;Etiqueta valida
+985.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC10B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC10B;NAR;ruta_completa;1;Etiqueta valida
+986.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC09B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC09B;NAR;ruta_completa;1;Etiqueta valida
+987.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC08B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC08B;NAR;ruta_completa;1;Etiqueta valida
+988.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC07B-NAR;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC07B;NAR;ruta_completa;1;Etiqueta valida
+989.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC06B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC06B;AZU;ruta_completa;1;Etiqueta valida
+990.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC05B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC05B;AZU;ruta_completa;1;Etiqueta valida
+991.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC04B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC04B;AZU;ruta_completa;1;Etiqueta valida
+992.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC03B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC03B;AZU;ruta_completa;1;Etiqueta valida
+993.0;STA-Portoviejo (A)-Ayacucho (E)(B)/Ayacucho (E)(A)-F01-PC02B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E)(B);Ayacucho (E)(A);F01;PC02B;AZU;ruta_completa;1;Etiqueta valida
+994.0;STA-Portoviejo (A)-Ayacucho (E)(A)/Ayacucho (E)(B)-F01-PC01B-AZU;MNT;STA;Portoviejo (A);Ayacucho (E)(A);Ayacucho (E)(B);F01;PC01B;AZU;ruta_completa;1;Etiqueta valida
+995.0;MOT-Manta SDH (A)-La Pradera (E)/San Andres (E)-F01-PC47B-GRI;MNT;MOT;Manta SDH (A);La Pradera (E);San Andres (E);F01;PC47B;GRI;ruta_completa;1;Etiqueta valida
+996.0;MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC12B-CAF;MNT;MOT;Manta SDH (A);Los Bajos (E);;F02;PC12B;CAF;ruta_no_aplica;1;Etiqueta valida
+997.0;MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC11B-CAF;MNT;MOT;Manta SDH (A);Los Bajos (E);;F02;PC11B;CAF;ruta_no_aplica;1;Etiqueta valida
+998.0;MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC10B-CAF;MNT;MOT;Manta SDH (A);Los Bajos (E);;F02;PC10B;CAF;ruta_no_aplica;1;Etiqueta valida
+999.0;MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC09B-VER;MNT;MOT;Manta SDH (A);Los Bajos (E);;F02;PC09B;VER;ruta_no_aplica;1;Etiqueta valida
+1000.0;MOT-Manta SDH (A)-Los Bajos (E)/N/A-F02-PC08B-VER;MNT;MOT;Manta SDH (A);Los Bajos (E);;F02;PC08B;VER;ruta_no_aplica;1;Etiqueta valida
+;UIO-???-/???-F31-PQ12X-XXX;UIO;UIO;???;;???;F31;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-???/-F28-PE-99-XXX;CUE;CUE;NODO-X;???;;F28;PE-99;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-Final/-F15-CAXXA-XXX;UIO;UIO;NODO-X;Final;;F15;CAXXA;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/-F26-PE-99-NEGROX;CUE;CUE;Centro;;;F26;PE-99;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-123/456-F69-12345-NEGROX;GYE;GYE;NODO-X;123;456;F69;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE--???/???-F23-CAXXA-XXX;GYE;GYE;;???;???;F23;CAXXA;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-???-Final/???-F66-12345-XXX;CUE;CUE;???;Final;???;F66;12345;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-123/???-F45-PE-99-NEGROX;GYE;GYE;???;123;???;F45;PE-99;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--123/456-F23-12345-ROSA;UIO;UIO;;123;456;F23;12345;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/???-F62-12345-;UIO;UIO;NODO-X;123;???;F62;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/-F87-PE-99-BLANCO;CUE;CUE;Centro;;;F87;PE-99;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-Final/456-F83-CAXXA-BLANCO;GYE;GYE;NODO-X;Final;456;F83;CAXXA;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-/???-F11-PE-99-;GYE;GYE;Centro;;???;F11;PE-99;;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-/456-F27--XXX;GYE;GYE;???;;456;F27;;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-/BackupX-F54--XXX;GYE;GYE;???;;BackupX;F54;;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-???/???-F39-PQ12X-BLANCO;GYE;GYE;NODO-X;???;???;F39;PQ12X;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--123/BackupX-F67-PE-99-BLANCO;CUE;CUE;;123;BackupX;F67;PE-99;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/???-F20-PQ12X-NEGROX;UIO;UIO;Centro;123;???;F20;PQ12X;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--123/456-F31-PQ12X-XXX;CUE;CUE;;123;456;F31;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/BackupX-F67-12345-NEGROX;UIO;UIO;NODO-X;123;BackupX;F67;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--123/456-F41-PE-99-;UIO;UIO;;123;456;F41;PE-99;;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-/???-F27-PQ12X-;GYE;GYE;NODO-X;;???;F27;PQ12X;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/???-F17-12345-;CUE;CUE;NODO-X;Final;???;F17;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--Final/???-F89-12345-XXX;CUE;CUE;;Final;???;F89;12345;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--123/456-F83--XXX;CUE;CUE;;123;456;F83;;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-Final/???-F49-12345-XXX;GYE;GYE;NODO-X;Final;???;F49;12345;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--???/???-F38-12345-NEGROX;CUE;CUE;;???;???;F38;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--123/456-F73-PE-99-NEGROX;CUE;CUE;;123;456;F73;PE-99;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/-F37--BLANCO;UIO;UIO;Centro;???;;F37;;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-123/456-F40--NEGROX;GYE;GYE;???;123;456;F40;;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--123/456-F34-12345-;UIO;UIO;;123;456;F34;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/456-F66-CAXXA-NEGROX;UIO;UIO;Centro;123;456;F66;CAXXA;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--???/BackupX-F89-12345-BLANCO;CUE;CUE;;???;BackupX;F89;12345;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-Final/456-F25-CAXXA-;GYE;GYE;???;Final;456;F25;CAXXA;;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-Final/???-F38-PE-99-NEGROX;GYE;GYE;NODO-X;Final;???;F38;PE-99;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-123/-F67-CAXXA-;CUE;CUE;Centro;123;;F67;CAXXA;;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--123/-F89--XXX;UIO;UIO;;123;;F89;;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE--???/???-F91-CAXXA-NEGROX;GYE;GYE;;???;???;F91;CAXXA;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-???-123/BackupX-F24-CAXXA-ROSA;UIO;UIO;???;123;BackupX;F24;CAXXA;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/-F15--BLANCO;CUE;CUE;Centro;Final;;F15;;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--/-F17-12345-ROSA;UIO;UIO;;;;F17;12345;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-123/???-F64-12345-NEGROX;GYE;GYE;???;123;???;F64;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-???/-F70--XXX;GYE;GYE;NODO-X;???;;F70;;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/456-F36-PQ12X-XXX;CUE;CUE;NODO-X;Final;456;F36;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/BackupX-F16-PQ12X-ROSA;CUE;CUE;NODO-X;Final;BackupX;F16;PQ12X;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--123/???-F23--XXX;UIO;UIO;;123;???;F23;;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/BackupX-F98-PQ12X-BLANCO;CUE;CUE;Centro;;BackupX;F98;PQ12X;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-Final/-F51--ROSA;GYE;GYE;???;Final;;F51;;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/456-F87-PQ12X-XXX;CUE;CUE;Centro;;456;F87;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-???-/BackupX-F57-12345-;UIO;UIO;???;;BackupX;F57;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--???/???-F47-CAXXA-BLANCO;CUE;CUE;;???;???;F47;CAXXA;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--/BackupX-F16-12345-NEGROX;UIO;UIO;;;BackupX;F16;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--/456-F12-PQ12X-XXX;CUE;CUE;;;456;F12;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-123/-F85--ROSA;GYE;GYE;Centro;123;;F85;;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/BackupX-F79-CAXXA-ROSA;CUE;CUE;NODO-X;Final;BackupX;F79;CAXXA;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-Final/???-F63-PQ12X-XXX;GYE;GYE;Centro;Final;???;F63;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-/456-F63--;UIO;UIO;NODO-X;;456;F63;;;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/-F96--BLANCO;UIO;UIO;Centro;???;;F96;;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-???/BackupX-F79--;GYE;GYE;Centro;???;BackupX;F79;;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-???-/-F53-PE-99-BLANCO;CUE;CUE;???;;;F53;PE-99;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-???-123/???-F41-12345-ROSA;CUE;CUE;???;123;???;F41;12345;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/???-F54-PQ12X-NEGROX;CUE;CUE;Centro;Final;???;F54;PQ12X;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--/456-F83-PQ12X-NEGROX;UIO;UIO;;;456;F83;PQ12X;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/456-F82-PQ12X-ROSA;UIO;UIO;Centro;123;456;F82;PQ12X;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-Final/-F49-PQ12X-BLANCO;UIO;UIO;Centro;Final;;F49;PQ12X;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-Final/???-F68-PE-99-BLANCO;GYE;GYE;Centro;Final;???;F68;PE-99;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-???/BackupX-F97-PE-99-XXX;GYE;GYE;???;???;BackupX;F97;PE-99;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-???-123/???-F47-12345-NEGROX;UIO;UIO;???;123;???;F47;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--Final/???-F35-12345-NEGROX;CUE;CUE;;Final;???;F35;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/-F67-CAXXA-BLANCO;UIO;UIO;Centro;123;;F67;CAXXA;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-???/???-F28-12345-XXX;GYE;GYE;Centro;???;???;F28;12345;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--Final/BackupX-F38-CAXXA-ROSA;CUE;CUE;;Final;BackupX;F38;CAXXA;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--Final/BackupX-F10-CAXXA-;UIO;UIO;;Final;BackupX;F10;CAXXA;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/-F11-CAXXA-BLANCO;CUE;CUE;NODO-X;Final;;F11;CAXXA;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-/BackupX-F96-PE-99-NEGROX;GYE;GYE;NODO-X;;BackupX;F96;PE-99;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/456-F20--NEGROX;CUE;CUE;Centro;Final;456;F20;;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-/???-F16-12345-NEGROX;GYE;GYE;NODO-X;;???;F16;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-???-Final/456-F78--ROSA;UIO;UIO;???;Final;456;F78;;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-???-123/-F12-12345-NEGROX;CUE;CUE;???;123;;F12;12345;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/BackupX-F82-12345-;CUE;CUE;Centro;;BackupX;F82;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/BackupX-F94-CAXXA-NEGROX;CUE;CUE;NODO-X;Final;BackupX;F94;CAXXA;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/???-F55-PQ12X-XXX;CUE;CUE;NODO-X;Final;???;F55;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-???-Final/456-F88--ROSA;CUE;CUE;???;Final;456;F88;;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-???-Final/456-F56-PE-99-;GYE;GYE;???;Final;456;F56;PE-99;;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-/-F81-PQ12X-XXX;GYE;GYE;NODO-X;;;F81;PQ12X;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/456-F81-12345-;CUE;CUE;NODO-X;Final;456;F81;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-/-F47-CAXXA-;GYE;GYE;NODO-X;;;F47;CAXXA;;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-Centro-???/???-F69-PQ12X-NEGROX;GYE;GYE;Centro;???;???;F69;PQ12X;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-???/456-F70-CAXXA-;CUE;CUE;NODO-X;???;456;F70;CAXXA;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--123/-F62-PE-99-;CUE;CUE;;123;;F62;PE-99;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/456-F27-CAXXA-ROSA;CUE;CUE;NODO-X;Final;456;F27;CAXXA;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--/456-F21-12345-;CUE;CUE;;;456;F21;12345;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/BackupX-F15-CAXXA-XXX;CUE;CUE;NODO-X;Final;BackupX;F15;CAXXA;XXX;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--123/???-F40-PQ12X-ROSA;CUE;CUE;;123;???;F40;PQ12X;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-Final/BackupX-F68-CAXXA-ROSA;GYE;GYE;NODO-X;Final;BackupX;F68;CAXXA;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-Final/-F66-CAXXA-NEGROX;UIO;UIO;NODO-X;Final;;F66;CAXXA;NEGROX;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--???/???-F66-CAXXA-;UIO;UIO;;???;???;F66;CAXXA;;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE--Final/456-F67-12345-BLANCO;CUE;CUE;;Final;456;F67;12345;BLANCO;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/456-F81-PQ12X-;CUE;CUE;Centro;Final;456;F81;PQ12X;;ruta_completa;0;Ejemplo sintetico incorrecto
+;UIO--123/???-F94-12345-ROSA;UIO;UIO;;123;???;F94;12345;ROSA;ruta_completa;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-???/N/A-F46-CAXXA-;CUE;CUE;NODO-X;???;;F46;CAXXA;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-Final/N/A-F92-12345-XXX;UIO;UIO;???;Final;;F92;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-???/N/A-F96-PE-99-;CUE;CUE;Centro;???;;F96;PE-99;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--Final/N/A-F57-PQ12X-XXX;GYE;GYE;;Final;;F57;PQ12X;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/N/A-F59-12345-ROSA;UIO;UIO;NODO-X;123;;F59;12345;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-???/N/A-F92-PE-99-XXX;UIO;UIO;NODO-X;???;;F92;PE-99;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-/N/A-F16-12345-;UIO;UIO;???;;;F16;12345;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--123/N/A-F73-12345-XXX;GYE;GYE;;123;;F73;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-???/N/A-F80-12345-NEGROX;GYE;GYE;Centro;???;;F80;12345;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-/N/A-F27-PE-99-XXX;CUE;CUE;???;;;F27;PE-99;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-???/N/A-F16-CAXXA-BLANCO;UIO;UIO;???;???;;F16;CAXXA;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--Final/N/A-F10-12345-;GYE;GYE;;Final;;F10;12345;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO--123/N/A-F25-PQ12X-;UIO;UIO;;123;;F25;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--123/N/A-F92-12345-NEGROX;GYE;GYE;;123;;F92;12345;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/N/A-F85-12345-BLANCO;UIO;UIO;NODO-X;123;;F85;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-123/N/A-F54-12345-BLANCO;UIO;UIO;???;123;;F54;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-123/N/A-F60-PQ12X-NEGROX;CUE;CUE;Centro;123;;F60;PQ12X;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-???/N/A-F35-PE-99-ROSA;GYE;GYE;NODO-X;???;;F35;PE-99;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-???/N/A-F37-PQ12X-BLANCO;CUE;CUE;Centro;???;;F37;PQ12X;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-???/N/A-F43--NEGROX;UIO;UIO;???;???;;F43;;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-/N/A-F12-12345-;UIO;UIO;NODO-X;;;F12;12345;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-123/N/A-F79-PE-99-;UIO;UIO;???;123;;F79;PE-99;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/N/A-F88--XXX;UIO;UIO;Centro;123;;F88;;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-Final/N/A-F75-CAXXA-NEGROX;UIO;UIO;NODO-X;Final;;F75;CAXXA;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-123/N/A-F33--ROSA;UIO;UIO;???;123;;F33;;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--Final/N/A-F52-PQ12X-NEGROX;GYE;GYE;;Final;;F52;PQ12X;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-Final/N/A-F77-PE-99-BLANCO;CUE;CUE;???;Final;;F77;PE-99;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-123/N/A-F64--BLANCO;GYE;GYE;???;123;;F64;;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/N/A-F49-PE-99-BLANCO;CUE;CUE;Centro;;;F49;PE-99;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-/N/A-F68-PE-99-NEGROX;GYE;GYE;Centro;;;F68;PE-99;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-Final/N/A-F53-PE-99-XXX;GYE;GYE;Centro;Final;;F53;PE-99;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-???/N/A-F67-12345-BLANCO;CUE;CUE;Centro;???;;F67;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-???/N/A-F26-CAXXA-ROSA;GYE;GYE;???;???;;F26;CAXXA;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE--/N/A-F75-PQ12X-XXX;CUE;CUE;;;;F75;PQ12X;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE--123/N/A-F39-PQ12X-BLANCO;CUE;CUE;;123;;F39;PQ12X;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE--/N/A-F72-12345-ROSA;CUE;CUE;;;;F72;12345;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-Final/N/A-F17-12345-BLANCO;GYE;GYE;NODO-X;Final;;F17;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-123/N/A-F68-CAXXA-;CUE;CUE;Centro;123;;F68;CAXXA;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO--123/N/A-F19-PE-99-ROSA;UIO;UIO;;123;;F19;PE-99;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-Final/N/A-F32-12345-XXX;GYE;GYE;Centro;Final;;F32;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-/N/A-F52-PE-99-;CUE;CUE;???;;;F52;PE-99;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/N/A-F85-12345-NEGROX;CUE;CUE;Centro;Final;;F85;12345;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO--123/N/A-F54-PE-99-ROSA;UIO;UIO;;123;;F54;PE-99;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--Final/N/A-F65-12345-ROSA;GYE;GYE;;Final;;F65;12345;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-???/N/A-F79--;CUE;CUE;NODO-X;???;;F79;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-???/N/A-F53-PE-99-;UIO;UIO;NODO-X;???;;F53;PE-99;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-/N/A-F56-PE-99-ROSA;UIO;UIO;NODO-X;;;F56;PE-99;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/N/A-F57-PE-99-;UIO;UIO;NODO-X;123;;F57;PE-99;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/N/A-F77-PQ12X-;UIO;UIO;Centro;???;;F77;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-123/N/A-F23-PQ12X-XXX;CUE;CUE;???;123;;F23;PQ12X;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-123/N/A-F11-12345-;GYE;GYE;Centro;123;;F11;12345;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-Final/N/A-F93-PE-99-ROSA;CUE;CUE;NODO-X;Final;;F93;PE-99;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--123/N/A-F70--;GYE;GYE;;123;;F70;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-???/N/A-F33-12345-NEGROX;GYE;GYE;???;???;;F33;12345;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--123/N/A-F40-12345-XXX;GYE;GYE;;123;;F40;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-???/N/A-F47-PE-99-XXX;UIO;UIO;???;???;;F47;PE-99;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-???/N/A-F71-12345-BLANCO;CUE;CUE;NODO-X;???;;F71;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/N/A-F43-PQ12X-;UIO;UIO;Centro;123;;F43;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-/N/A-F67-12345-XXX;GYE;GYE;???;;;F67;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-/N/A-F47--BLANCO;CUE;CUE;???;;;F47;;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/N/A-F46--XXX;CUE;CUE;Centro;;;F46;;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/N/A-F91-PQ12X-;UIO;UIO;NODO-X;123;;F91;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-123/N/A-F25-CAXXA-XXX;GYE;GYE;???;123;;F25;CAXXA;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-/N/A-F76--;CUE;CUE;???;;;F76;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/N/A-F49-12345-BLANCO;CUE;CUE;Centro;Final;;F49;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-???/N/A-F78-12345-BLANCO;GYE;GYE;???;???;;F78;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-Final/N/A-F91-12345-BLANCO;UIO;UIO;Centro;Final;;F91;12345;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-123/N/A-F89-CAXXA-XXX;GYE;GYE;???;123;;F89;CAXXA;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-/N/A-F87--XXX;GYE;GYE;???;;;F87;;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-???/N/A-F92-CAXXA-ROSA;CUE;CUE;Centro;???;;F92;CAXXA;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/N/A-F32--XXX;UIO;UIO;Centro;???;;F32;;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-Final/N/A-F39--;UIO;UIO;NODO-X;Final;;F39;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-???/N/A-F79-PE-99-XXX;GYE;GYE;???;???;;F79;PE-99;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE--Final/N/A-F77--ROSA;CUE;CUE;;Final;;F77;;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-/N/A-F81-PQ12X-;UIO;UIO;NODO-X;;;F81;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-123/N/A-F88--NEGROX;CUE;CUE;???;123;;F88;;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-???/N/A-F31-CAXXA-XXX;GYE;GYE;Centro;???;;F31;CAXXA;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/N/A-F74-12345-XXX;UIO;UIO;Centro;???;;F74;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-/N/A-F38-12345-;UIO;UIO;NODO-X;;;F38;12345;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-Centro-/N/A-F76-12345-XXX;GYE;GYE;Centro;;;F76;12345;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE--Final/N/A-F78--XXX;CUE;CUE;;Final;;F78;;XXX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-/N/A-F41-CAXXA-;UIO;UIO;???;;;F41;CAXXA;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-Final/N/A-F48-CAXXA-ROSA;CUE;CUE;???;Final;;F48;CAXXA;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE--Final/N/A-F89-PQ12X-BLANCO;GYE;GYE;;Final;;F89;PQ12X;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-???/N/A-F50-CAXXA-ROSA;UIO;UIO;NODO-X;???;;F50;CAXXA;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-123/N/A-F55--;UIO;UIO;NODO-X;123;;F55;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-???/N/A-F13--NEGROX;CUE;CUE;NODO-X;???;;F13;;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-/N/A-F74-PE-99-ROSA;CUE;CUE;Centro;;;F74;PE-99;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-123/N/A-F50-CAXXA-ROSA;UIO;UIO;Centro;123;;F50;CAXXA;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-NODO-X-/N/A-F78--;UIO;UIO;NODO-X;;;F78;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-???-123/N/A-F35-12345-NEGROX;CUE;CUE;???;123;;F35;12345;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-NODO-X-/N/A-F51-CAXXA-BLANCO;GYE;GYE;NODO-X;;;F51;CAXXA;BLANCO;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-Final/N/A-F78-PQ12X-;CUE;CUE;Centro;Final;;F78;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-NODO-X-123/N/A-F95--;CUE;CUE;NODO-X;123;;F95;;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;GYE-???-/N/A-F54-CAXXA-;GYE;GYE;???;;;F54;CAXXA;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/N/A-F56-PQ12X-ROSA;UIO;UIO;Centro;???;;F56;PQ12X;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE-Centro-123/N/A-F11--NEGROX;CUE;CUE;Centro;123;;F11;;NEGROX;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-???-/N/A-F98-12345-;UIO;UIO;???;;;F98;12345;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;CUE--???/N/A-F62-PQ12X-;CUE;CUE;;???;;F62;PQ12X;;ruta_no_aplica;0;Ejemplo sintetico incorrecto
+;UIO-Centro-???/N/A-F60-PQ12X-ROSA;UIO;UIO;Centro;???;;F60;PQ12X;ROSA;ruta_no_aplica;0;Ejemplo sintetico incorrecto
