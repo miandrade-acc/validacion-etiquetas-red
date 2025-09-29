@@ -33,7 +33,7 @@ El sistema combina **visión computacional ligera** con un **bot móvil** para v
 
 ## 📂 Estructura del Repositorio
 ```
-📁 data/samples/                → Muestras de imágenes sintéticas
+📁 data/samples/                → Dataset final validado (`dataset_etiquetas_cajas_mpls_vfinal.csv`) y muestras de imágenes
 📁 docs/mockups/                → Mockups del bot y dashboard
 📄 Documento_Tecnico_Final.pdf  → Documento técnico final (versión de prueba)
 📁 references/                  → Referencias y bibliografía
@@ -44,6 +44,43 @@ El sistema combina **visión computacional ligera** con un **bot móvil** para v
 📄 .gitignore                   → Exclusiones de Git
 📄 requerimientos.txt           → Dependencias del proyecto (Python)
 ```
+
+---
+
+## 📦 Dataset Validado
+
+Se ha cargado el dataset final validado y balanceado para entrenamiento del modelo de clasificación binaria.
+
+- **Archivo:** `dataset_etiquetas_cajas_mpls_vfinal.csv`
+- **Ubicación:** `/data/samples/`
+- **Total de registros:** 818
+- **Etiquetas (`clase`):**
+  - `1` → Etiqueta correcta
+  - `0` → Etiqueta incorrecta (ejemplos sintéticos)
+- **Tipos de ruta:**
+  - `ruta_completa` → nodo estandar y nodo backup
+  - `ruta_no_aplica` → solo nodo estandar (`/N/A`)
+
+📌 Este dataset reemplaza versiones anteriores como `dataset_etiquetas_cajas_mpls.csv`, que se conservan solo por trazabilidad.
+
+---
+
+## 🧠 Validación y Clasificación
+
+Cada registro ha sido evaluado según reglas de negocio:
+
+✅ **Clase = 1 (válida):**
+- Color dentro de los 12 estándares (`ROJ`, `VER`, etc.)
+- Caja con formato correcto (`PC12A`, `PE03B`, etc.)
+- Nodo concentrador, estandar y backup (si aplica) presentes
+- Campos completos y coherentes
+
+❌ **Clase = 0 (inválida):**
+- Color inválido (`BLANCO`, `ROSA`, etc.)
+- Caja mal escrita o con errores
+- Nodos faltantes o mal formateados
+- Registros creados como ejemplos negativos controlados
+
 ---
 
 ## ⚙️ Instalación
@@ -96,9 +133,10 @@ print(result)
 - 🧪 [Proyecto Final – Fase de Preparación y Preprocesamiento de Datos](scripts/Proyecto_Final_Procesamiento_Datos.ipynb)
 - 📘 [Informe Técnico – Preparación y Preprocesamiento](docs/Preparacion_Procesamiento_Datos_G7.pdf)
 - 📊 [Presentación Ejecutiva – Preparación de Datos](docs/Presentacion_Preparacion_Procesamiento_Datos_G7.pptx)
-
+- 📁 [Dataset Validado – MPLS](data/samples/dataset_etiquetas_cajas_mpls_vfinal.csv)
 
 ---
+
 ## ⚖️ Licencia y Datasets
 - 📜 Este proyecto está bajo licencia **MIT**.  
   👉 Esto significa que el código puede ser usado, modificado y distribuido libremente, siempre y cuando se mantenga el aviso de copyright y la licencia original.  
