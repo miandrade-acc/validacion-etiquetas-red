@@ -134,6 +134,10 @@ print(result)
 - 📘 [Informe Técnico – Preparación y Preprocesamiento](docs/Preparacion_Procesamiento_Datos_G7.pdf)
 - 📊 [Presentación Ejecutiva – Preparación de Datos](docs/Presentacion_Preparacion_Procesamiento_Datos_G7.pptx)
 - 📁 [Dataset Validado – MPLS](data/samples/dataset_etiquetas_cajas_mpls_vfinal.csv)
+### 📊 Diagnóstico de Overfitting / Underfitting (Semana 3)
+- 📘 [Cuaderno Jupyter – Análisis y diagnóstico](./scripts/overfitting_analysis.ipynb)
+- 📄 [Informe Técnico – Diagnóstico de Modelo](./docs/diagnostico_modelo/diagnostic_report.pdf)
+
 
 ---
 
