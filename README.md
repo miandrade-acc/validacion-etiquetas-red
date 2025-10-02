@@ -127,15 +127,17 @@ print(result)
 ---
 
 ## 📄 Documentación
+### 📌 Semana 1 – Análisis Exploratorio y Dataset
 - 📕 [Documento Técnico Final](docs/Documento_Tecnico_Final.pdf)
-- 📊 [Notebook EDA: Análisis de etiquetas MPLS](scripts/EDA_CajasMPLS_Etiquetas_G7.ipynb)  
+- 📊 [Notebook EDA: Análisis de etiquetas MPLS](scripts/EDA_CajasMPLS_Etiquetas_G7.ipynb)
+- 📁 [Dataset Validado – MPLS](data/samples/dataset_etiquetas_cajas_mpls_vfinal.csv)
+### 📌 Semana 2 – Preparación y Preprocesamiento de Datos
 - 🧠 [Informe Comparativo de Algoritmos IA](docs/algoritmos/Analisis_Comparativo_Algoritmos_G7.pdf)
 - 🧪 [Proyecto Final – Fase de Preparación y Preprocesamiento de Datos](scripts/Proyecto_Final_Procesamiento_Datos.ipynb)
 - 📘 [Informe Técnico – Preparación y Preprocesamiento](docs/Preparacion_Procesamiento_Datos_G7.pdf)
 - 📊 [Presentación Ejecutiva – Preparación de Datos](docs/Presentacion_Preparacion_Procesamiento_Datos_G7.pptx)
-- 📁 [Dataset Validado – MPLS](data/samples/dataset_etiquetas_cajas_mpls_vfinal.csv)
 ### 📊 Diagnóstico de Overfitting / Underfitting (Semana 3)
-- 📘 [Cuaderno Jupyter – Análisis y diagnóstico](./scripts/overfitting_analysis.ipynb)
+- 📘 [Cuaderno – Análisis y diagnóstico](./scripts/overfitting_analysis.ipynb)
 - 📄 [Informe Técnico – Diagnóstico de Modelo](./docs/diagnostic_report.pdf)
 
 
