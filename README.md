@@ -136,7 +136,7 @@ print(result)
 - 🧪 [Proyecto Final – Fase de Preparación y Preprocesamiento de Datos](scripts/Proyecto_Final_Procesamiento_Datos.ipynb)
 - 📘 [Informe Técnico – Preparación y Preprocesamiento](docs/Preparacion_Procesamiento_Datos_G7.pdf)
 - 📊 [Presentación Ejecutiva – Preparación de Datos](docs/Presentacion_Preparacion_Procesamiento_Datos_G7.pptx)
-### 📊 Diagnóstico de Overfitting / Underfitting (Semana 3)
+### 📌 Semana 3 – Diagnóstico de Overfitting / Underfitting
 - 📘 [Cuaderno – Análisis y diagnóstico](./scripts/overfitting_analysis.ipynb)
 - 📄 [Informe Técnico – Diagnóstico de Modelo](./docs/diagnostic_report.pdf)
 
