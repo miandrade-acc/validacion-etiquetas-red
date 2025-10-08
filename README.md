@@ -139,6 +139,11 @@ print(result)
 ### 📌 Semana 3 – Diagnóstico de Overfitting / Underfitting
 - 📘 [Cuaderno – Análisis y diagnóstico](./scripts/overfitting_analysis.ipynb)
 - 📄 [Informe Técnico – Diagnóstico de Modelo](./docs/diagnostic_report.pdf)
+### 📌 Semana 4 – Ética, Impacto Social y Responsabilidad
+- 📄 [Detección de Riesgos Éticos – Grupo 7](docs/Deteccion_Riesgos_Eticos_IA_Grupo_7.pdf)  
+- 📘 [Workshop – Impacto Social y Responsabilidad en Proyecto de IA (Documento Principal)](./Documentos/Workshop_Impacto%20Social%20y%20Responsabilidad%20en%20Proyecto%20de%20IA_G7.docx)  
+- 📊 [Presentación Workshop – Impacto Social y Responsabilidad G7](./Documentos/Presentacion_Workshop_Impacto%20Social%20y%20Responsabilidad%20en%20Proyecto%20de%20IA_G7.ppt)
+
 
 
 ---
