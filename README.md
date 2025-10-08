@@ -141,8 +141,8 @@ print(result)
 - 📄 [Informe Técnico – Diagnóstico de Modelo](./docs/diagnostic_report.pdf)
 ### 📌 Semana 4 – Ética, Impacto Social y Responsabilidad
 - 📄 [Detección de Riesgos Éticos](docs/Deteccion_Riesgos_Eticos_IA_Grupo_7.pdf)  
-- 📘 [Workshop – Impacto Social y Responsabilidad en Proyecto de IA (Documento Principal)](./Documentos/Workshop_Impacto%20Social%20y%20Responsabilidad%20en%20Proyecto%20de%20IA_G7.docx)  
-- 📊 [Presentación Workshop – Impacto Social y Responsabilidad](./Documentos/Presentacion_Workshop_Impacto%20Social%20y%20Responsabilidad%20en%20Proyecto%20de%20IA_G7.ppt)
+- 📘 [Workshop – Impacto Social y Responsabilidad en Proyecto de IA (Documento Principal)](docs/Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.docx)  
+- 📊 [Presentación Workshop – Impacto Social y Responsabilidad](docs/Presentacion_Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.ppt)
 
 
 
