@@ -142,7 +142,7 @@ print(result)
 ### 📌 Semana 4 – Ética, Impacto Social y Responsabilidad
 - 📄 [Detección de Riesgos Éticos](docs/Deteccion_Riesgos_Eticos_IA_Grupo_7.pdf)  
 - 📘 [Workshop – Impacto Social y Responsabilidad en Proyecto de IA (Documento Principal)](docs/Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.pdf)  
-- 📊 [Presentación Workshop – Impacto Social y Responsabilidad](docs/Presentacion_Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.ppt)
+- 📊 [Presentación Workshop – Impacto Social y Responsabilidad](docs/Presentacion_Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.pptx)
 
 
 
