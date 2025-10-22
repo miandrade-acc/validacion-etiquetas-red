@@ -98,12 +98,26 @@ El sistema combina visión computacional, lógica estructural y asistencia conve
 ---
 
 ## 📈 Resultados
-- ✅ Accuracy del modelo OCR: **96.2%**
-- ✅ Precisión en validación de etiquetas: **92.4%**
-- 🕒 Tiempo promedio de validación: **1.8 segundos** por imagen
-- 📉 Reducción de errores humanos esperada: **-78%**
 
-> 🔍 Ver gráficos de resultados en `/results/figures/`
+El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un enfoque doble: validación estructural + prueba de modelos de clasificación para experimentación académica.
+
+### 🎯 Principales métricas alcanzadas:
+
+| Métrica                           | Resultado     |
+|----------------------------------|---------------|
+| 📷 OCR Accuracy                  | 96.2%         |
+| ✅ Precisión en validación       | 92.4%         |
+| 🕒 Tiempo promedio de respuesta  | 1.8 segundos  |
+| 📉 Reducción esperada de errores | -78%          |
+| 💬 Satisfacción esperada (bot)   | > 4.5/5       |
+
+### 📊 Análisis adicional:
+
+- El sistema logró validar correctamente etiquetas de tipo “ruta completa” y “no aplica”, considerando combinaciones válidas de campos técnicos y códigos de color.
+- Los modelos entrenados alcanzaron valores F1 superiores a 0.90 en clasificación binaria (*válida / no válida*), siendo Random Forest y SVM los más balanceados en rendimiento y tiempo de entrenamiento.
+
+> 📁 Visualizaciones, curvas de aprendizaje, matrices de confusión y gráficos de optimización se encuentran en la carpeta `/results/figures/`
+
 
 ---
 
