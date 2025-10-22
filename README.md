@@ -198,6 +198,20 @@ DETALLES:
 • Caja: FO2-PEI6B
 • Color: CAFÉ
 ```
+### 🖼️ Captura de pantalla
+
+A continuación se muestra una imagen de ejemplo de cómo luce la interacción con el bot en Telegram:
+
+![Demo Telegram](./docs/assets/demo_telegram.png)
+
+> 📌 Si la imagen no se muestra, asegúrate de que el archivo `demo_telegram.png` esté ubicado en la ruta `docs/assets/` dentro del repositorio.
+
+---
+
+### 🌐 Demo en vivo
+
+> Por políticas de privacidad, el bot se encuentra disponible únicamente bajo solicitud académica o para entornos controlados.  
+> Para acceder a una demo funcional, por favor contactar al equipo desarrollador o a través del entorno de pruebas habilitado para presentación.
 
 ---
 
