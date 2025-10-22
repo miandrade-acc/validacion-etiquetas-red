@@ -339,7 +339,11 @@ Este proyecto fue desarrollado como parte del curso de **Proyecto Final de Maest
 ---
 
 ## 📜 Licencia
-Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más información.
+
+Este proyecto está licenciado bajo los términos de la **Licencia MIT**, lo que permite su uso, modificación y distribución para fines académicos y de desarrollo, siempre que se otorgue el debido crédito a los autores originales.
+
+> 📄 Ver archivo [`LICENSE`](./LICENSE) para más detalles.
+
 
 ---
 
