@@ -216,14 +216,17 @@ A continuación se muestra una imagen de ejemplo de cómo luce la interacción c
 ---
 
 ## 📁 Estructura del Proyecto
+
+El proyecto está organizado siguiendo buenas prácticas de desarrollo para sistemas de IA, con separación clara entre datos, código, notebooks, documentación y resultados.
+
 ```bash
 validacion-etiquetas-red/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
+├── README.md                      # Descripción general del proyecto
+├── requirements.txt               # Dependencias del sistema
+├── .gitignore                     # Archivos excluidos del control de versiones
+├── LICENSE                        # Licencia de uso
 │
-├── docs/
+├── docs/                          # Documentación técnica y manuales
 │   ├── planificacion.md
 │   ├── analisis_datos.md
 │   ├── arquitectura.md
@@ -231,37 +234,38 @@ validacion-etiquetas-red/
 │   ├── consideraciones_eticas.md
 │   └── manual_usuario.md
 │
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── README.md
+├── data/                          # Datos utilizados en el proyecto
+│   ├── raw/                       # Datos originales
+│   ├── processed/                 # Datos limpios y transformados
+│   └── README.md                  # Explicación del contenido de datos
 │
-├── notebooks/
+├── notebooks/                     # Cuadernos Jupyter (desarrollo, análisis y pruebas)
 │   ├── 01_exploracion.ipynb
 │   ├── 02_preprocesamiento.ipynb
 │   ├── 03_modelado.ipynb
 │   ├── 04_optimizacion.ipynb
 │   └── 05_evaluacion.ipynb
 │
-├── src/
-│   ├── bot_mpls.py
-│   ├── data_processing.py
-│   ├── model.py
-│   └── utils.py
+├── src/                           # Código fuente del sistema
+│   ├── bot_mpls.py                # Bot Telegram y lógica de validación
+│   ├── data_processing.py         # Funciones de manejo de datos
+│   ├── model.py                   # Definición y carga de modelos
+│   └── utils.py                   # Funciones auxiliares
 │
-├── models/
+├── models/                        # Modelos entrenados y serializados
 │   ├── best_model.pkl
 │   └── README.md
 │
-├── app/
-│   └── (versión alternativa web en desarrollo)
+├── app/                           # Versión alternativa de la interfaz (Streamlit/Gradio)
+│   └── (en desarrollo)
 │
-├── tests/
+├── tests/                         # Pruebas unitarias del sistema
 │   └── test_bot.py
 │
-└── results/
-    ├── figures/
-    └── metrics/
+└── results/                       # Resultados y visualizaciones
+    ├── figures/                   # Gráficos de rendimiento
+    └── metrics/                   # Métricas generadas
+
 ```
 
 ---
