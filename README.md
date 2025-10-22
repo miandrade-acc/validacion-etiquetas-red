@@ -1,3 +1,4 @@
+![Banner del proyecto](docs/valid.png)
 # 🧠 MPLS Vision Bot – Validación Automática de Etiquetas de Red
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
