@@ -65,12 +65,35 @@ El dataset fue sometido a un proceso riguroso de limpieza, validación cruzada c
 ---
 
 ## 🧠 Metodología
-- 📷 **OCR + Validación estructural:** Extracción de texto mediante Tesseract, validación con regex y lógica de negocio
-- 🤖 **Bot de campo:** Telegram Bot con menús, teclados inteligentes, respuestas automáticas
-- 🔬 **Evaluación de modelos de clasificación:** Experimentos con Random Forest, SVM, Redes Neuronales y Transformers
-- 📉 **Optimización:** Ajuste de hiperparámetros, análisis de overfitting/underfitting, curvas de aprendizaje
 
-> Más detalles en `/notebooks/03_modelado.ipynb` y `/notebooks/04_optimizacion.ipynb`
+El sistema combina visión computacional, lógica estructural y asistencia conversacional para validar etiquetas de red en imágenes capturadas por técnicos en campo.
+
+### 🔁 Flujo general del sistema:
+
+1. 📷 **Entrada:** El técnico envía una imagen de una etiqueta al bot de Telegram.
+2. 🔍 **OCR (Reconocimiento de texto):** El sistema extrae el texto utilizando `pytesseract`.
+3. 🧠 **Validación estructural:** Se aplica una lógica basada en expresiones regulares y reglas del negocio para verificar:
+   - Si la etiqueta corresponde a una ruta completa o “no aplica”
+   - Si contiene los campos mínimos esperados (ciudad, nodos, ruta, color buffer)
+   - Si el código de color es uno de los 12 válidos
+4. 🤖 **Respuesta automática:** El bot responde con un resumen de validación, indicando si la etiqueta es válida o no, y por qué.
+5. 📊 **Entrenamiento del modelo:** Se utilizaron diferentes algoritmos de clasificación para análisis de errores estructurales y predicción de validez:
+   - Random Forest
+   - SVM
+   - Redes Neuronales
+   - Transformers
+6. ⚙️ **Optimización:** Análisis de overfitting/underfitting, tuning de hiperparámetros y evaluación cruzada.
+
+### 🧰 Herramientas y librerías utilizadas:
+
+- `pytesseract` + `OpenCV` → procesamiento de imagen y OCR
+- `scikit-learn` + `Keras` → entrenamiento y evaluación de modelos
+- `Python-Telegram-Bot` → implementación del bot conversacional
+- `matplotlib` y `seaborn` → visualización de métricas y curvas
+- `regex`, `pandas`, `numpy` → validación estructural y procesamiento de datos
+
+> El pipeline completo fue desarrollado y documentado en Jupyter Notebooks, disponibles en la carpeta `/notebooks/`
+
 
 ---
 
