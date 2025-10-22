@@ -25,13 +25,26 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 ---
 
 ## 🧩 Descripción del Problema
-Las cajas de conexión de fibra óptica en campo deben estar etiquetadas con información técnica precisa. Actualmente, esta validación se realiza manualmente por personal técnico, lo cual es propenso a errores, toma tiempo y es costoso a gran escala.
 
-**Este proyecto propone un sistema que automatiza esa validación usando visión computacional y un bot interactivo en Telegram.**
+En los despliegues de redes de fibra óptica, las cajas de distribución deben estar etiquetadas con información técnica precisa para garantizar la trazabilidad, mantenimiento y cumplimiento normativo. Sin embargo, en la práctica, muchas etiquetas presentan errores, están mal colocadas o usan formatos incorrectos, generando:
 
-- 📌 **Problema:** Validación manual ineficiente de etiquetas en cajas MPLS
-- 👤 **Usuarios Objetivo:** Técnicos de campo, supervisores de red, auditores de calidad
-- 🎯 **Impacto:** Reducción de errores, ahorro de tiempo, mejora en trazabilidad y cumplimiento normativo
+- 🚫 Dificultades en el soporte técnico  
+- 🕒 Pérdida de tiempo en campo  
+- 📉 Disminución en la calidad del servicio  
+- 💸 Costos adicionales por reprocesos  
+
+Actualmente, esta validación se realiza de forma manual por técnicos en campo, lo que introduce errores humanos, falta de estandarización y retrasos operativos.
+
+**Este proyecto propone una solución de validación automática utilizando visión computacional y un bot interactivo.**
+
+🎯 **Objetivo general:** Automatizar el proceso de validación de etiquetas en campo mediante OCR, lógica estructural y asistencia conversacional por bot de Telegram.
+
+👤 **Usuarios principales:** Técnicos de campo, supervisores de calidad, responsables de red.
+
+⚙️ **Tecnologías utilizadas:** OCR (Tesseract), Python, lógica de validación con expresiones regulares, bot de Telegram con respuestas dinámicas.
+
+📈 **Impacto esperado:** Reducción de errores, mejora en la trazabilidad, ahorro de tiempo en campo y aumento en la calidad del servicio de instalación y mantenimiento de fibra óptica.
+
 
 ---
 
