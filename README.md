@@ -318,10 +318,23 @@ La implementación de sistemas de inteligencia artificial en entornos operativos
 ---
 
 ## 👥 Autores y Contribuciones
-- 👩‍💼 **María Augusta Flores** – Autora principal, diseño funcional, entrenamiento modelo
-- 👨‍💼 Marcelo Ismael Andrade – Desarrollo bot, integración OCR, documentación técnica
 
-> Proyecto desarrollado como parte del programa de Maestría en Inteligencia Artificial – UEES 2025
+Este proyecto fue desarrollado como parte del curso de **Proyecto Final de Maestría en Inteligencia Artificial – UEES (2025)**.
+
+### 👩‍💼 María Augusta Flores  
+- Diseño funcional del sistema  
+- Desarrollo de modelos de validación  
+- Coordinación académica y técnica del proyecto
+
+### 👨‍💼 Marcelo Ismael Andrade  
+- Desarrollo del bot de Telegram  
+- Integración con OCR y validación estructural  
+- Documentación técnica y estructura del repositorio
+
+---
+
+> 📌 Para contacto institucional, consultar con la coordinación del programa de Maestría en IA – Universidad de Especialidades Espíritu Santo (UEES)
+
 
 ---
 
