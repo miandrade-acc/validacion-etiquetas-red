@@ -10,17 +10,17 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 ---
 
 ## 📑 Tabla de Contenidos
-1. [🧩 Descripción del Problema](#🧩-descripción-del-problema)
-2. [📊 Dataset](#📊-dataset)
-3. [🧠 Metodología](#🧠-metodología)
-4. [📈 Resultados](#📈-resultados)
-5. [⚙️ Instalación y Uso](#⚙️-instalación-y-uso)
-6. [🖥️ Interfaz de Usuario](#🖥️-interfaz-de-usuario)
-7. [📁 Estructura del Proyecto](#📁-estructura-del-proyecto)
-8. [⚖️ Consideraciones Éticas](#⚖️-consideraciones-éticas)
-9. [👥 Autores y Contribuciones](#👥-autores-y-contribuciones)
-10. [📜 Licencia](#📜-licencia)
-11. [🙏 Agradecimientos y Referencias](#🙏-agradecimientos-y-referencias)
+1. [🧩 Descripción del Problema](#descripción-del-problema)
+2. [📊 Dataset](#dataset)
+3. [🧠 Metodología](#metodología)
+4. [📈 Resultados](#resultados)
+5. [⚙️ Instalación y Uso](#instalación-y-uso)
+6. [🖥️ Interfaz de Usuario](#interfaz-de-usuario)
+7. [📁 Estructura del Proyecto](#estructura-del-proyecto)
+8. [⚖️ Consideraciones Éticas](#consideraciones-éticas)
+9. [👥 Autores y Contribuciones](#autores-y-contribuciones)
+10. [📜 Licencia](#licencia)
+11. [🙏 Agradecimientos y Referencias](#agradecimientos-y-referencias)
 
 
 ---
@@ -65,7 +65,7 @@ El dataset fue sometido a un proceso riguroso de limpieza, validación cruzada c
 
 ---
 
-## 🧠 Metodologia
+## 🧠 Metodología
 
 El sistema combina visión computacional, lógica estructural y asistencia conversacional para validar etiquetas de red en imágenes capturadas por técnicos en campo.
 
@@ -120,7 +120,7 @@ El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un e
 
 ---
 
-## ⚙️ Instalacion y Uso
+## ⚙️ Instalación y Uso
 
 Este proyecto puede ejecutarse de forma local en cualquier sistema compatible con Python 3.10+ y que tenga instalado el motor OCR Tesseract.
 
@@ -271,7 +271,7 @@ validacion-etiquetas-red/
 
 ---
 
-## ⚖️ Consideraciones Eticas
+## ⚖️ Consideraciones Éticas
 
 La implementación de sistemas de inteligencia artificial en entornos operativos reales, como el soporte técnico de redes de telecomunicaciones, requiere un análisis ético riguroso. Este proyecto considera los siguientes aspectos:
 
