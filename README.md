@@ -122,17 +122,41 @@ El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un e
 ---
 
 ## ⚙️ Instalación y Uso
+
+Este proyecto puede ejecutarse de forma local en cualquier sistema compatible con Python 3.10+ y que tenga instalado el motor OCR Tesseract.
+
+### 🔧 Requisitos
+
+- Python 3.10+
+- pip
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) instalado en el sistema
+- Token de Bot de Telegram válido (obtenido desde [@BotFather](https://t.me/BotFather))
+
+### 🧪 Instalación paso a paso
+
 ```bash
-# 1. Clonar repositorio
-$ git clone https://github.com/miandrade-acc/validacion-etiquetas-red.git
+# 1. Clonar el repositorio
+git clone https://github.com/miandrade-acc/validacion-etiquetas-red.git
+cd validacion-etiquetas-red
 
 # 2. Instalar dependencias
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 
-# 3. Ejecutar bot (modo local)
-$ python src/bot_mpls.py
-```
-> ⚠️ Requiere Python 3.10+, Tesseract OCR, y token de bot de Telegram
+# 3. Configurar variable de entorno (TOKEN)
+export TELEGRAM_TOKEN=your_bot_token_here
+
+# 4. Ejecutar el bot en modo local
+python src/bot_mpls.py
+
+> 📦 Se recomienda usar un entorno virtual para aislamiento.
+
+### 🗂️ Estructura de carpetas clave
+
+- `/src/` → Contiene el código principal del bot y las funciones de validación  
+- `/data/processed/` → Dataset procesado utilizado en pruebas  
+- `/results/` → Métricas y gráficos generados  
+- `/notebooks/` → Cuadernos Jupyter con todo el desarrollo  
+
 
 ---
 
