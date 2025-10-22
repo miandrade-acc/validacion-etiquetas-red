@@ -10,7 +10,7 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 ---
 
 ## 📑 Tabla de Contenidos
-1. [🧩 Descripcion del Problema](#descripcion-del-problema)
+1. [🧩 Descripción del Problema](#descripción-del-problema)
 2. [📊 Dataset](#dataset)
 3. [🧠 Metodologia](#metodologia)
 4. [📈 Resultados](#resultados)
@@ -24,7 +24,7 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 
 ---
 
-## 🧩 Descripcion del Problema
+## 🧩 Descripción del Problema
 
 En los despliegues de redes de fibra óptica, las cajas de distribución deben estar etiquetadas con información técnica precisa para garantizar la trazabilidad, mantenimiento y cumplimiento normativo. Sin embargo, en la práctica, muchas etiquetas presentan errores, están mal colocadas o usan formatos incorrectos, generando:
 
