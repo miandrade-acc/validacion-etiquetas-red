@@ -94,7 +94,6 @@ El sistema combina visión computacional, lógica estructural y asistencia conve
 
 > El pipeline completo fue desarrollado y documentado en Jupyter Notebooks, disponibles en la carpeta `/notebooks/`
 
-
 ---
 
 ## 📈 Resultados
@@ -118,7 +117,6 @@ El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un e
 
 > 📁 Visualizaciones, curvas de aprendizaje, matrices de confusión y gráficos de optimización se encuentran en la carpeta `/results/figures/`
 
-
 ---
 
 ## ⚙️ Instalación y Uso
@@ -133,7 +131,6 @@ Este proyecto puede ejecutarse de forma local en cualquier sistema compatible co
 - Token de Bot de Telegram válido (obtenido desde [@BotFather](https://t.me/BotFather))
 
 ### 🧪 Instalación paso a paso
-
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/miandrade-acc/validacion-etiquetas-red.git
@@ -148,6 +145,8 @@ export TELEGRAM_TOKEN=your_bot_token_here
 # 4. Ejecutar el bot en modo local
 python src/bot_mpls.py
 
+```
+
 📦 Se recomienda usar un entorno virtual para aislamiento.
 
 🗂️ Estructura de carpetas clave
@@ -159,7 +158,6 @@ python src/bot_mpls.py
 /results/ → Métricas y gráficos generados
 
 /notebooks/ → Cuadernos Jupyter con todo el desarrollo
-
 
 ---
 
