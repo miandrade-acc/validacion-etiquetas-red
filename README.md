@@ -14,7 +14,7 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 2. [📊 Dataset](#-dataset)
 3. [🧠 Metodología](#-metodología)
 4. [📈 Resultados](#-resultados)
-5. [⚙️ Instalacion y Uso](#-instalacion-y-uso)
+5. [⚙️ Instalación y Uso](#-instalación-y-uso)
 6. [🖥️ Interfaz de Usuario](#-interfaz-de-usuario)
 7. [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 8. [⚖️ Consideraciones Éticas](#-consideraciones-éticas)
@@ -121,7 +121,7 @@ El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un e
 
 ---
 
-## ⚙️ Instalacion y Uso
+## ⚙️ Instalación y Uso
 
 Este proyecto puede ejecutarse de forma local en cualquier sistema compatible con Python 3.10+ y que tenga instalado el motor OCR Tesseract.
 
