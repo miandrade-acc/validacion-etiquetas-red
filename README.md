@@ -24,7 +24,7 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 
 ---
 
-## 🧩 Descripción del Problema
+## 🧩 Descripcion del Problema
 
 En los despliegues de redes de fibra óptica, las cajas de distribución deben estar etiquetadas con información técnica precisa para garantizar la trazabilidad, mantenimiento y cumplimiento normativo. Sin embargo, en la práctica, muchas etiquetas presentan errores, están mal colocadas o usan formatos incorrectos, generando:
 
@@ -64,7 +64,7 @@ El dataset fue sometido a un proceso riguroso de limpieza, validación cruzada c
 
 ---
 
-## 🧠 Metodología
+## 🧠 Metodologia
 
 El sistema combina visión computacional, lógica estructural y asistencia conversacional para validar etiquetas de red en imágenes capturadas por técnicos en campo.
 
@@ -119,7 +119,7 @@ El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un e
 
 ---
 
-## ⚙️ Instalación y Uso
+## ⚙️ Instalacion y Uso
 
 Este proyecto puede ejecutarse de forma local en cualquier sistema compatible con Python 3.10+ y que tenga instalado el motor OCR Tesseract.
 
@@ -270,7 +270,7 @@ validacion-etiquetas-red/
 
 ---
 
-## ⚖️ Consideraciones Éticas
+## ⚖️ Consideraciones Eticas
 
 La implementación de sistemas de inteligencia artificial en entornos operativos reales, como el soporte técnico de redes de telecomunicaciones, requiere un análisis ético riguroso. Este proyecto considera los siguientes aspectos:
 
