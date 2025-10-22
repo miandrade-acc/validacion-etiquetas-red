@@ -12,15 +12,15 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 ## 📑 Tabla de Contenidos
 1. [🧩 Descripción del Problema](#-descripción-del-problema)
 2. [📊 Dataset](#-dataset)
-3. [🧠 Metodología](#metodología)
-4. [📈 Resultados](#resultados)
-5. [⚙️ Instalación y Uso](#instalación-y-uso)
-6. [🖥️ Interfaz de Usuario](#interfaz-de-usuario)
-7. [📁 Estructura del Proyecto](#estructura-del-proyecto)
-8. [⚖️ Consideraciones Éticas](#consideraciones-éticas)
-9. [👥 Autores y Contribuciones](#autores-y-contribuciones)
-10. [📜 Licencia](#licencia)
-11. [🙏 Agradecimientos y Referencias](#agradecimientos-y-referencias)
+3. [🧠 Metodología](#-metodología)
+4. [📈 Resultados](#-resultados)
+5. [⚙️ Instalación y Uso](#-instalación-y-uso)
+6. [🖥️ Interfaz de Usuario](#-interfaz-de-usuario)
+7. [📁 Estructura del Proyecto](#-estructura-del-proyecto)
+8. [⚖️ Consideraciones Éticas](#-consideraciones-éticas)
+9. [👥 Autores y Contribuciones](#-autores-y-contribuciones)
+10. [📜 Licencia](#-licencia)
+11. [🙏 Agradecimientos y Referencias](#-agradecimientos-y-referencias)
 
 
 ---
