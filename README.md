@@ -14,7 +14,7 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 2. [📊 Dataset](#-dataset)
 3. [🧠 Metodología](#-metodología)
 4. [📈 Resultados](#-resultados)
-5. [⚙️ Instalación y Uso](#-instalacion-y-uso)
+5. [⚙️ Instalación y Uso](#--instalacion-y-uso)
 6. [🖥️ Interfaz de Usuario](#-interfaz-de-usuario)
 7. [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 8. [⚖️ Consideraciones Éticas](#-consideraciones-eticas)
