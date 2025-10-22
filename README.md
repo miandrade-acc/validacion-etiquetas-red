@@ -19,8 +19,9 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 7. [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 8. [⚖️ Consideraciones Éticas](#-consideraciones-éticas)
 9. [👥 Autores y Contribuciones](#-autores-y-contribuciones)
-10.[📜 Licencia](#-licencia)
-11.[🙏 Agradecimientos y Referencias](#-agradecimientos-y-referencias)
+10. [📜 Licencia](#-licencia)
+11. [🙏 Agradecimientos y Referencias](#-agradecimientos-y-referencias)
+
 
 
 ---
