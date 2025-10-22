@@ -10,7 +10,7 @@ Sistema inteligente basado en visión computacional y bots de campo para la vali
 ---
 
 ## 📑 Tabla de Contenidos
-1. [🧩 Descripción del Problema](#descripción-del-problema)
+1. [🧩 Descripción del Problema](#Descripción del Problema)
 2. [📊 Dataset](#dataset)
 3. [🧠 Metodología](#metodología)
 4. [📈 Resultados](#resultados)
