@@ -348,10 +348,35 @@ Este proyecto está licenciado bajo los términos de la **Licencia MIT**, lo que
 ---
 
 ## 🙏 Agradecimientos y Referencias
-- Universidad de Especialidades Espíritu Santo (UEES)
-- Profesores del curso de Inteligencia Artificial
-- Dataset de etiquetas provisto por técnicos en campo
-- Librerías: OpenCV, pytesseract, Python-Telegram-Bot, Scikit-learn, Matplotlib
+
+Este proyecto no habría sido posible sin el apoyo técnico, académico y operativo de múltiples actores.
+
+### 🎓 Institución
+
+- Universidad de Especialidades Espíritu Santo (UEES)  
+- Coordinación de la Maestría en Inteligencia Artificial  
+- Docentes del curso de Proyecto Final y Laboratorio de Modelos
+
+### 🧰 Herramientas utilizadas
+
+- Python 3.10  
+- OpenCV + Tesseract OCR  
+- scikit-learn, keras, pandas, numpy  
+- Python-Telegram-Bot  
+- Jupyter Notebooks  
+- Matplotlib, Seaborn  
+
+### 🗂️ Recursos de apoyo
+
+- Dataset provisto por técnicos de campo del área de telecomunicaciones  
+- Checklist y templates oficiales de la maestría (SMART, KPIs, Timeline, Ética)  
+- Repositorios de referencia para bots y visión computacional  
+- Documentación de librerías y comunidades de desarrolladores
+
+---
+
+> 📌 Este repositorio representa una entrega académica y puede evolucionar hacia implementaciones reales en entornos productivos.
+
 
 ---
 
