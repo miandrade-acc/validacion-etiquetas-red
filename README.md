@@ -121,7 +121,7 @@ El sistema fue probado con más de 1.200 imágenes de etiquetas de red, con un e
 
 ---
 
-## ⚙️ Instalación y Uso
+## ⚙️ Instalacion y Uso
 
 Este proyecto puede ejecutarse de forma local en cualquier sistema compatible con Python 3.10+ y que tenga instalado el motor OCR Tesseract.
 
