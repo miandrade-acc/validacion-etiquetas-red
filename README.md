@@ -271,10 +271,49 @@ validacion-etiquetas-red/
 ---
 
 ## ⚖️ Consideraciones Éticas
-- 🔍 **Sesgos posibles:** errores por imágenes mal enfocadas o etiquetas deterioradas
-- 🛡️ **Privacidad:** no se almacenan datos personales ni imágenes en servidores externos
-- 🚫 **Mal uso:** el sistema solo es válido para etiquetas oficiales con formato reconocido
-- 🔄 **Responsabilidad:** las decisiones finales siguen siendo del técnico humano
+
+La implementación de sistemas de inteligencia artificial en entornos operativos reales, como el soporte técnico de redes de telecomunicaciones, requiere un análisis ético riguroso. Este proyecto considera los siguientes aspectos:
+
+### 🔍 1. Análisis de sesgos
+
+- El sistema podría verse afectado por **errores de OCR** debido a imágenes borrosas, etiquetas deterioradas o mala iluminación.
+- Se ha entrenado con ejemplos reales y sintéticos para cubrir distintos escenarios, pero podrían existir **casos no representados**.
+- No existen sesgos demográficos, ya que no se procesan datos personales ni sensibles.
+
+### ⚖️ 2. Equidad y fairness
+
+- El sistema aplica las mismas reglas de validación estructural para todas las etiquetas, sin discriminación.
+- No hay diferencias en el tratamiento por tipo de ruta, ciudad o color buffer.
+- El sistema reporta los errores de forma transparente y basada en lógica de negocio.
+
+### 🔐 3. Privacidad
+
+- No se almacenan imágenes ni datos del usuario final.
+- Las validaciones se procesan localmente durante la ejecución del bot.
+- No se utilizan datos personales ni identificadores únicos.
+
+### 🧠 4. Transparencia y explicabilidad
+
+- Cada respuesta del bot incluye una explicación paso a paso del resultado obtenido.
+- El código de validación está documentado y disponible para revisión.
+- Se utilizan mensajes legibles y comprensibles para los usuarios técnicos.
+
+### ☢️ 5. Uso indebido y limitaciones
+
+- El sistema está diseñado solo para uso en redes de telecomunicaciones con etiquetas estandarizadas.
+- No debe utilizarse en otros dominios sin validación previa.
+- Las decisiones finales deben ser validadas por un técnico humano.
+
+### 🚫 6. Casos donde no debe usarse
+
+- Etiquetas no normalizadas, ilegibles o inventadas.
+- Imágenes incompletas o tomadas desde ángulos inadecuados.
+- Ambientes donde el procesamiento automático pueda causar riesgos operativos.
+
+---
+
+> 📌 Este análisis se amplía en el archivo [`docs/consideraciones_eticas.md`](./docs/consideraciones_eticas.md)
+
 
 ---
 
