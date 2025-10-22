@@ -148,14 +148,17 @@ export TELEGRAM_TOKEN=your_bot_token_here
 # 4. Ejecutar el bot en modo local
 python src/bot_mpls.py
 
-> 📦 Se recomienda usar un entorno virtual para aislamiento.
+📦 Se recomienda usar un entorno virtual para aislamiento.
 
-### 🗂️ Estructura de carpetas clave
+🗂️ Estructura de carpetas clave
 
-- `/src/` → Contiene el código principal del bot y las funciones de validación  
-- `/data/processed/` → Dataset procesado utilizado en pruebas  
-- `/results/` → Métricas y gráficos generados  
-- `/notebooks/` → Cuadernos Jupyter con todo el desarrollo  
+/src/ → Contiene el código principal del bot y las funciones de validación
+
+/data/processed/ → Dataset procesado utilizado en pruebas
+
+/results/ → Métricas y gráficos generados
+
+/notebooks/ → Cuadernos Jupyter con todo el desarrollo
 
 
 ---
