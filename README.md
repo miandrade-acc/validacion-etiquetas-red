@@ -162,14 +162,42 @@ python src/bot_mpls.py
 ---
 
 ## 🖥️ Interfaz de Usuario
-- 🧑‍💻 Plataforma: **Telegram Bot**
-- 📷 Funcionalidad clave: Envío de imagen → Validación → Respuesta detallada
-- 🎮 Comandos disponibles: `/start`, `/ayuda`, `/salir`, más botones interactivos
 
-### Captura de ejemplo:
-![Demo Telegram](./docs/assets/demo_telegram.png)
+La solución cuenta con una interfaz conversacional basada en **Telegram Bot**, diseñada para ser utilizada directamente por técnicos de campo.
 
-> 📂 Demo en vivo disponible bajo solicitud académica
+### 🎮 Comandos disponibles:
+
+- `/start` → Inicia la interacción con un mensaje de bienvenida y menú
+- `/ayuda` → Explica cómo funciona el bot y cómo enviar imágenes
+- `/salir` → Finaliza la conversación con el bot
+
+### 🧭 Flujo básico de uso:
+
+1. El usuario envía una imagen de una etiqueta de red.
+2. El sistema realiza reconocimiento de texto (OCR) con `pytesseract`.
+3. Se valida la estructura de la etiqueta (tipo de ruta, color buffer, formato correcto, etc.).
+4. El bot responde con un mensaje estructurado indicando:
+   - Ciudad, nodos, tipo de ruta, color
+   - Estado: ✅ *VÁLIDO* o ❌ *NO VÁLIDO*
+   - Detalles explicativos si hay error
+
+### 📷 Ejemplo de respuesta automática:
+
+```text
+✓ Texto extraído: `UIO-Gosseal(A)-Whymper(E)(B)/Whymper(E)(A)-FO2-PEI6B-CAF`
+📦 Código detectado: `...`
+📁 Tipo de ruta: Ruta Completa
+🎨 Color buffer: CAFÉ
+✅ Estado: *VÁLIDO*
+
+DETALLES:
+• Ciudad: UIO
+• Nodo Concentrador: Gosseal (A)
+• Nodo Estándar: Whymper (E) (B)
+• Nodo Backup: Whymper (E) (A)
+• Caja: FO2-PEI6B
+• Color: CAFÉ
+```
 
 ---
 
