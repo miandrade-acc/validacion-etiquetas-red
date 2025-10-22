@@ -49,12 +49,18 @@ Actualmente, esta validación se realiza de forma manual por técnicos en campo,
 ---
 
 ## 📊 Dataset
-- **Fuente:** Etiquetas reales utilizadas por técnicos en operadoras de telecomunicaciones
-- **Formato:** CSV con columnas como `ciudad`, `nodo_concentrador`, `tipo_ruta`, `color_buffer`, `etiqueta`, etc.
-- **Tamaño:** ~3.000 registros (validaciones reales y etiquetas sintéticas)
-- **Licencia:** Uso interno educativo-académico
 
-> 🔗 *Link al dataset:* `./data/processed/dataset_etiquetas_cajas_mpls_vfinal.csv`
+El sistema fue entrenado y evaluado utilizando un conjunto de datos reales de etiquetas utilizadas en instalaciones de fibra óptica, provistas por técnicos de campo de una empresa de telecomunicaciones.
+
+- 🗂️ **Formato:** CSV estructurado con columnas como `ciudad`, `nodo_concentrador`, `tipo_ruta`, `etiqueta`, `color_buffer`, entre otras.
+- 📏 **Tamaño:** Aprox. 1.200 registros, incluyendo ejemplos válidos e inválidos para distintos escenarios.
+- 🏷️ **Licencia:** Uso académico – restringido a fines educativos dentro del proyecto final de maestría.
+- 📍 **Ubicación:** El dataset procesado se encuentra en la carpeta `/data/processed/`
+
+> 🔗 *Archivo principal:* [`dataset_etiquetas_cajas_mpls_vfinal.csv`](./data/processed/dataset_etiquetas_cajas_mpls_vfinal.csv)
+
+El dataset fue sometido a un proceso riguroso de limpieza, validación cruzada con expertos de dominio y enriquecimiento con etiquetas sintéticas para fortalecer el entrenamiento del modelo.
+
 
 ---
 
