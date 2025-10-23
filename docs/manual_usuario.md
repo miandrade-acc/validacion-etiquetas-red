@@ -32,7 +32,7 @@ Bot:
 ...
 ```
 
-> Las capturas completas están en `/docs/mockups/`.
+> Las capturas completas están en `/app/assets/`.
 
 ---
 
