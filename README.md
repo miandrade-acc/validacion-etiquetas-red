@@ -223,51 +223,59 @@ El proyecto está organizado siguiendo buenas prácticas de desarrollo para sist
 
 ```bash
 validacion-etiquetas-red/
-├── README.md                      # Descripción general del proyecto
-├── requirements.txt               # Dependencias del sistema
-├── .gitignore                     # Archivos excluidos del control de versiones
-├── LICENSE                        # Licencia de uso
 │
-├── docs/                          # Documentación técnica y manuales
-│   ├── planificacion.md
-│   ├── analisis_datos.md
-│   ├── arquitectura.md
-│   ├── optimizacion.md
-│   ├── consideraciones_eticas.md
-│   └── manual_usuario.md
+├── README.md                          # Descripción principal del proyecto
+├── requirements.txt                   # Dependencias de Python
+├── .gitignore                         # Archivos a ignorar
+├── LICENSE                            # Licencia del proyecto
 │
-├── data/                          # Datos utilizados en el proyecto
-│   ├── raw/                       # Datos originales
-│   ├── processed/                 # Datos limpios y transformados
-│   └── README.md                  # Explicación del contenido de datos
+├── docs/                              # Documentación
+│   ├── planificacion.md               # Documento de planificación inicial
+│   ├── analisis_datos.md              # Análisis exploratorio de datos
+│   ├── arquitectura.md                # Diseño del modelo y arquitectura
+│   ├── optimizacion.md                # Proceso de optimización (Workshop S5)
+│   ├── consideraciones_eticas.md      # Análisis ético del proyecto
+│   └── manual_usuario.md              # Guía para usuarios finales
 │
-├── notebooks/                     # Cuadernos Jupyter (desarrollo, análisis y pruebas)
-│   ├── 01_exploracion.ipynb
-│   ├── 02_preprocesamiento.ipynb
-│   ├── 03_modelado.ipynb
-│   ├── 04_optimizacion.ipynb
-│   └── 05_evaluacion.ipynb
+├── data/                              # Datos del proyecto
+│   ├── raw/                           # Datos originales (si aplica)
+│   ├── processed/                     # Datos procesados
+│   └── README.md                      # Descripción de los datos
 │
-├── src/                           # Código fuente del sistema
-│   ├── bot_mpls.py                # Bot Telegram y lógica de validación
-│   ├── data_processing.py         # Funciones de manejo de datos
-│   ├── model.py                   # Definición y carga de modelos
-│   └── utils.py                   # Funciones auxiliares
+├── notebooks/                         # Jupyter notebooks
+│   ├── 01_exploracion.ipynb           # EDA
+│   ├── 02_preprocesamiento.ipynb      # Limpieza y preparación
+│   ├── 03_modelado.ipynb              # Entrenamiento de modelos
+│   ├── 04_optimizacion.ipynb          # Optimización de hiperparámetros
+│   └── 05_evaluacion.ipynb            # Evaluación final
 │
-├── models/                        # Modelos entrenados y serializados
-│   ├── best_model.pkl
-│   └── README.md
+├── src/                               # Código fuente
+│   ├── __init__.py
+│   ├── data_processing.py             # Funciones de procesamiento
+│   ├── model.py                       # Definición del modelo
+│   ├── train.py                       # Script de entrenamiento
+│   ├── evaluate.py                    # Script de evaluación
+│   └── utils.py                       # Funciones auxiliares
 │
-├── app/                           # Versión alternativa de la interfaz (Streamlit/Gradio)
-│   └── (en desarrollo)
+├── models/                            # Modelos entrenados
+│   ├── best_model.pkl                 # Mejor modelo guardado
+│   ├── model_v1.pkl                   # Versiones anteriores
+│   └── README.md                      # Descripción de modelos
 │
-├── tests/                         # Pruebas unitarias del sistema
-│   └── test_bot.py
+├── app/                               # Aplicación/Interfaz
+│   ├── app.py                         # Aplicación principal (Streamlit/Gradio/Flask)
+│   ├── requirements.txt               # Dependencias de la app
+│   └── assets/                        # Recursos (imágenes, CSS, etc.)
 │
-└── results/                       # Resultados y visualizaciones
-    ├── figures/                   # Gráficos de rendimiento
-    └── metrics/                   # Métricas generadas
-    └── reports/                   # Reportes generados
+├── tests/                             # Pruebas unitarias
+│   ├── test_data_processing.py
+│   ├── test_model.py
+│   └── test_app.py
+│
+└── results/                           # Resultados y visualizaciones
+    ├── figures/                       # Gráficos generados
+    ├── metrics/                       # Métricas de evaluación
+    └── reports/                       # Reportes generados
 
 ```
 
