@@ -204,7 +204,7 @@ DETALLES:
 
 A continuación se muestra una imagen de ejemplo de cómo luce la interacción con el bot en Telegram:
 
-![Demo Telegram](./docs/assets/demo_telegram.png)
+![Demo Telegram](./app/assets/demo_telegram.jpeg)
 
 > 📌 Si la imagen no se muestra, asegúrate de que el archivo `demo_telegram.png` esté ubicado en la ruta `docs/assets/` dentro del repositorio.
 
