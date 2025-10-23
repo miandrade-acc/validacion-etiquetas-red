@@ -81,7 +81,7 @@ No. Es una herramienta de apoyo técnico, no de certificación oficial.
 
 ## 6. Contacto para soporte
 
-📧 **Marcelo Ismael Andrade** – `miandrade@ejemplo.com`  
-📧 **María Augusta Flores** – `maflores@ejemplo.com`
+📧 **Marcelo Ismael Andrade** – `0958610558`  
+📧 **María Augusta Flores** – `0982704137`
 
 ---
