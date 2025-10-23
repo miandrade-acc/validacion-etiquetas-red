@@ -267,6 +267,7 @@ validacion-etiquetas-red/
 └── results/                       # Resultados y visualizaciones
     ├── figures/                   # Gráficos de rendimiento
     └── metrics/                   # Métricas generadas
+    └── reports/                   # Reportes generados
 
 ```
 
