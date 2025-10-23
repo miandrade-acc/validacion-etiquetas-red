@@ -1,0 +1,48 @@
+# ==============================
+# Archivo de dependencias del proyecto
+# Validación automática de etiquetas de red mediante visión computacional y bot Telegram
+# ==============================
+
+# --------------------------------------
+# Procesamiento de imágenes y datos
+# --------------------------------------
+opencv-python       # Procesamiento de imágenes
+pillow              # Manejo de imágenes tipo PIL
+numpy               # Cálculo numérico
+pandas              # Manipulación de estructuras tabulares
+
+# --------------------------------------
+# OCR - Reconocimiento óptico de caracteres
+# --------------------------------------
+pytesseract         # OCR con Tesseract (requiere instalación del binario en el sistema)
+
+# --------------------------------------
+# Bots y automatización
+# --------------------------------------
+python-telegram-bot # Comunicación con usuarios vía Telegram Bot API
+
+# --------------------------------------
+# Visualización de resultados
+# --------------------------------------
+matplotlib          # Visualización básica
+seaborn             # Gráficos estadísticos
+
+# --------------------------------------
+# Modelado y machine learning
+# --------------------------------------
+scikit-learn        # Algoritmos clásicos de ML (Random Forest, SVM, etc.)
+
+# --------------------------------------
+# Opcional / Extensiones avanzadas
+# --------------------------------------
+# easyocr           # OCR basado en deep learning
+# torch             # Requerido por easyocr y redes neuronales
+# torchvision       # Utilidades de visión para PyTorch
+# transformers      # Modelos preentrenados (solo si se usan)
+
+# ==============================
+# Notas internas:
+# - pytesseract requiere instalación de Tesseract en el sistema operativo.
+# - torch/transformers deben instalarse solo si se usan modelos avanzados.
+# - easyocr puede ser útil para escenarios donde pytesseract falle.
+# ==============================
