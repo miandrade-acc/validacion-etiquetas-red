@@ -28,8 +28,6 @@ La métrica optimizada fue el `accuracy` con validación cruzada de 5 folds.
 
 ## 4. Partial Dependence Plots (PDP)
 
-> Se generaron gráficos de dependencia parcial con `sklearn.inspection.plot_partial_dependence`, disponibles en `/results/figures/pdp/`.
-
 Estos mostraron cómo cada hiperparámetro afectaba la probabilidad de una predicción correcta, confirmando que `max_depth` y `n_estimators` tenían mayor impacto.
 
 ## 5. Ranking de importancia de hiperparámetros
