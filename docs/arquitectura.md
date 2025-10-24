@@ -34,7 +34,7 @@ El sistema se divide en tres componentes principales:
 
 ## 3. Diagrama de flujo del sistema
 
-> El diagrama completo está disponible en `/docs/mockups/diagrama_sistema.png`.
+> El diagrama completo está disponible en `/app/assets/diagrama_sistema.png`.
 
 ```mermaid
 graph TD
