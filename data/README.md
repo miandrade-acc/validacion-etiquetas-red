@@ -36,7 +36,6 @@ Los datos corresponden a etiquetas físicas reales utilizadas en el despliegue d
 | `raw/`           | `.xlsx` | Datos originales, sin limpieza ni transformación            |
 | `processed/`     | `.csv`  | Datos depurados, formateados, codificados y balanceados     |
 
-El dataset procesado fue utilizado en todos los notebooks (`exploracion.ipynb`, `preprocesamiento.ipynb`, etc.).
 
 ---
 
