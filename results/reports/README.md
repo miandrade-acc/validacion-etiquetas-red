@@ -1,16 +1,12 @@
-# 📄 Reportes Generados (`/results/reports/`)
+### 📑 Reportes Generados
 
-Esta carpeta contiene los reportes técnicos, presentaciones y documentos clave generados a lo largo del proyecto de validación automática de etiquetas de red.
+| **Nombre del archivo**                    | **Descripción**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| `informe_tecnico_final.pdf`              | Informe técnico completo con metodología, arquitectura y resultados.           |
+| `informe_validacion_etiquetas.pdf`       | Validación y decisiones tomadas sobre la preparación de datos.                 |
+| `informe_preprocesamiento_datos.pdf`     | Detalles del proceso de preprocesamiento de datos.                             |
+| `informe_impacto_social.pdf`             | Análisis del impacto ético y social del sistema.                               |
+| `informe_riesgos_eticos.pdf`             | Análisis de riesgos éticos según marco de IA Responsable.                      |
+| `analisis_algoritmos_comparativo.pdf`    | Comparativa de algoritmos aplicados al problema y su evaluación.              |
 
-## 📁 Documentos contenidos
-
-| Nombre del archivo | Descripción |
-|--------------------|-------------|
-| `Documento_Tecnico_Final.pdf` | Informe técnico completo con metodología, arquitectura y resultados. |
-| `Informe_Validacion_Preprocesamiento_Etiquetas_G7.pdf` | Validación y decisiones tomadas sobre la preparación de datos. |
-| `Presentacion_Preparacion_Procesamiento_Datos_G7.pptx` | Diapositivas del proceso de preprocesamiento de datos. |
-| `Presentacion_Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.pptx` | Presentación del impacto ético y social del sistema. |
-| `Workshop_Impacto_Social_Responsabilidad_Proyecto_IA_G7.pdf` | Documento complementario del análisis de responsabilidad. |
-| `Deteccion_Riesgos_Eticos_IA_Grupo_7.pdf` | Análisis de riesgos éticos según marco de IA Responsable. |
-
-📌 Todos los reportes están alineados con los entregables solicitados por la guía académica del proyecto integrador de IA.
+📌 *Todos los reportes están alineados con los entregables solicitados por la guía académica del proyecto integrador de IA.*
