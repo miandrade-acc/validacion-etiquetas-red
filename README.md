@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
+![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-red)
 
 Sistema inteligente basado en visión computacional y bots de campo para la validación automática de etiquetas en redes de fibra óptica. Desarrollado como proyecto integrador para la Maestría en Inteligencia Artificial.
 
