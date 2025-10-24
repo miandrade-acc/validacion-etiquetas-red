@@ -39,10 +39,10 @@ El sistema se divide en tres componentes principales:
 ```mermaid
 graph TD
 A[Imagen de etiqueta] --> B[Preprocesamiento OCR]
-B --> C[Extracción de texto con Tesseract]
-C --> D[Validación estructural y semántica]
-D --> E[Resultado formateado (válido/no válido)]
-E --> F[Respuesta al usuario vía bot Telegram]
+B --> C[Extraccion de texto con Tesseract]
+C --> D[Validacion estructural y semantica]
+D --> E[Resultado formateado (valido/no valido)]
+E --> F[Respuesta al usuario via bot Telegram]
 ```
 
 ## 4. Pipeline de datos
