@@ -34,7 +34,6 @@ El dataset fue generado a partir de imágenes reales procesadas y anotadas manua
 - 📌 Mapa de calor de correlaciones entre atributos numéricos
 - 📌 Diagrama de dispersión: posición en etiqueta vs errores de OCR
 
-Todos los gráficos están disponibles en la carpeta `/results/figures/eda/`.
 
 ## 4. Patrones identificados y hallazgos
 
