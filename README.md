@@ -94,7 +94,6 @@ El sistema combina visión computacional, lógica estructural y asistencia conve
 - `matplotlib` y `seaborn` → visualización de métricas y curvas
 - `regex`, `pandas`, `numpy` → validación estructural y procesamiento de datos
 
-> El pipeline completo fue desarrollado y documentado en Jupyter Notebooks, disponibles en la carpeta `/notebooks/`
 
 ---
 
