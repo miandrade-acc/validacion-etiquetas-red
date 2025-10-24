@@ -22,5 +22,3 @@ Esta carpeta contiene capturas de pantalla reales del funcionamiento del bot Tel
 | `9. Etiqueta-RNA-NO VALIDA-01.jpg` | Ruta No Aplica no válida. |
 
 ---
-
-📝 Estas evidencias son utilizadas en el `manual_usuario.md` y el `README.md` general como soporte gráfico para el uso del bot en campo.
