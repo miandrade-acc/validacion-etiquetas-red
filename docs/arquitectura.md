@@ -41,8 +41,8 @@ graph TD
 A[Imagen de etiqueta] --> B[Preprocesamiento OCR]
 B --> C[Extraccion de texto con Tesseract]
 C --> D[Validacion estructural y semantica]
-D --> E[Resultado formateado]
-E --> F[Respuesta al usuario via bot Telegram]
+D --> E[Resultado validacion]
+E --> F[Respuesta via bot Telegram]
 ```
 
 ## 4. Pipeline de datos
