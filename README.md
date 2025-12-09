@@ -247,6 +247,7 @@ validacion-etiquetas-red/
 │   ├── 03_modelado.ipynb              # Entrenamiento de modelos
 │   ├── 04_optimizacion.ipynb          # Optimización de hiperparámetros
 │   └── 05_evaluacion.ipynb            # Evaluación final
+│   └── 06_MPLS_Vision_Bo.ipynb        # Implementación del Bot
 │
 ├── src/                               # Código fuente
 │   ├── __init__.py
